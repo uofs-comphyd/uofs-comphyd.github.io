@@ -5,7 +5,7 @@ title: Centre for Hydrology | Modeling and prediction
 description: "We seek to improve understanding and predictions of hydrological processes at scales from hillslopes to continents"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl:  "" #important: start with /
-url: "https://martynpclark.github.io/"
+url: "https://uofs-comphyd.github.io/"
 
 # Build settings
 markdown: kramdown
