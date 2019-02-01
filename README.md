@@ -1,4 +1,4 @@
-Web page repo for the UWHydro | Computational Hydrology Group
+Web page repo for the University of Saskatchewan Centre for Hydrology | Computational Hydrology Group
 
 Based on: Solid. A Bootstrap theme for Jekyll.
 ============
