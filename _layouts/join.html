@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% include wrap.html %}
+
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-1">
+            {{ content }}
+        </div><!-- col-lg-8 -->
+        <div class="col-lg-3">
+            <h2>Current openings</h2>
+            {% if site.categories['opportunity'].size > 0 %}
+                {% for opp in site.categories['opportunity'] %}
+                    <div class="hline"></div>
+                    <p><a href="{{ opp.url | prepend: site.baseurl }}">{{ opp.position }}</a>
+                      <h4>{{ opp.title }}</h4>
+                      <b>Summary:</b> {{ opp.brief_description }}<br>
+                      <b>Start date:</b> {{ opp.start_date }}</p>
+                {% endfor %}
+            {% else %}
+                <div class="hline"></div>
+                <p>No current openings</p>
+            {% endif %}
+            <div class="hline"></div>
+        </div><!-- col-lg-4 -->
+    </div><! --/row -->
+</div><! --/container -->

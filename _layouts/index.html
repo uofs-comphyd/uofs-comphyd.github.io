@@ -1,0 +1,19 @@
+---
+layout: default
+---
+{% include header.html %}
+
+<div class="container mtb">
+    <div class="row left">
+        <div class="col-lg-8 col-lg-offset-1">
+            {{ content }}
+        </div>
+        <div class="col-lg-3">
+            <h4>News</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['blog'] limit:5 %}
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>: {{ post.date | date_to_string }}<br>by {{ post.author }}</p>
+            {% endfor %}
+        </div>
+    </div><! --/row -->
+</div><! --/container -->

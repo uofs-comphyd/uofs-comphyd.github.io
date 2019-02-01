@@ -1,0 +1,26 @@
+---
+layout: default
+---
+{% include wrap.html %}
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-8">
+            <h4>Education</h4>
+            {% for ed in page.education %}
+                <p>{{ ed.degree }}, {{ ed.year }}: <span class="program">{{ ed.program }}</span>, {{ ed.school }}, {{ ed.location }}.</p>
+            {% endfor %}
+            <div class="hline"></div>
+            <h4>Experience</h4>
+            {% for exp in page.positions_held %}
+                <p>{{ exp.period }}: <span class="position">{{ exp.position }}</span>, {{ exp.employer }}, {{ exp.location }}.</p>
+            {% endfor %}
+            <div class="hline"></div>
+            {{ content }}
+        </div><! --/col-lg-8 -->
+        <div class="col-lg-3">
+            <img src="{{ "/assets/img/" | prepend: site.baseurl }}{{ page.img }}" alt="">
+            <h3>{{ page.title }}</h3>
+            <h4>{{ page.position }}</h4>
+        </div><! --/col-lg-3 -->
+    </div><! --/row -->
+</div><! --/container -->

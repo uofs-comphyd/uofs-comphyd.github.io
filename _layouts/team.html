@@ -1,0 +1,15 @@
+---
+layout: default
+---
+{% include wrap.html %}
+
+    {{ content }}
+
+{% include current_members.html %}
+
+{% if site.categories['former_member'].size > 0 %}
+    {% include former_members.html %}
+{% endif %}
+
+
+

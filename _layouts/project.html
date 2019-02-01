@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-8">
+            <h3>Project summary</h3>
+            <p><b>Name</b>: {{ page.name }}</p>
+            {% if page.funding.size > 0 %}
+                <p><b>Funding</b>:
+                {% for source in page.funding %}
+                    {{ source.agency }}: {{ source.grant }};
+                {% endfor %}</p>
+            {% endif %}
+            <p><b>Collaborators</b>:
+            {% for coll in page.collaborators %}
+                {% if coll.status == 'active' %}
+                    {{ coll.name }} ({{ coll.institution }});
+                {% endif %}
+            {% endfor %}</p>
+            <p><b>Summary</b>: {{ page.summary }}</p>
+            {% if page.website != null %}
+                <p><b>Web site</b>:  <a href="{{ page.website }}">{{ page.website }}.</a></p>
+            {% endif %}
+            <div class="hline"></div>
+            {{ content }}
+            <div class="hline"></div>
+            <h3>Further reading</h3>
+            {% for pub in site.data.pubs.articles_in_review %}
+                {% if pub.project_id == page.project_id %}
+                    {% include article_in_review.html %}
+                {% endif %}
+            {% endfor %}
+            {% for pub in site.data.pubs.articles_accepted %}
+                {% if pub.project_id == page.project_id %}
+                    {% include article_accepted.html %}
+                {% endif %}
+            {% endfor %}
+            {% for pub in site.data.pubs.articles_published %}
+                {% if pub.project_id == page.project_id %}
+                    {% include article_published.html %}
+                {% endif %}
+            {% endfor %}
+        </div><! --/col-lg-8 -->
+        <div class="col-lg-3">
+            <img src="{{ "/assets/img/" | prepend: site.baseurl }}{{ page.img }}" alt="">
+            <h4>Project posts</h4>
+            {% for post in site.categories['blog'] %}
+                {% if post.tags contains page.project_id %}
+                    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>: {{ post.date | date_to_string }}</p>
+                {% endif %}
+            {% endfor %}
+        </div><! --/col-lg-3 -->
+    </div><! --/row -->
+</div><! --/container -->

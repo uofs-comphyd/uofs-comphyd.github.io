@@ -1,0 +1,27 @@
+<!-- Fixed navbar -->
+<div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="https://www.usask.ca/" class="navbar-left"> <img style="height: 35%; width: 35%; max-width: 300px; min-width: 200px" src="{{ "/assets/img/UofS_logo__white.png" }}"></a>
+    </div>
+    <div class="navbar-collapse collapse navbar-right">
+      <ul class="nav navbar-nav">
+        <li {% if page.title == "Home" %}class="active"{% endif %}><a href="{{"/" | prepend: site.baseurl }}">HOME</a></li>
+        <!--<li {% if page.title == "Projects" %}class="active"{% endif %}><a href="{{"/projects/" | prepend: site.baseurl }}">PROJECTS</a></li>-->
+        <li {% if page.title == "Publications" %}class="active"{% endif %}><a href="{{"/publications/" | prepend: site.baseurl }}">PUBLICATIONS</a></li>
+        <!--<li {% if page.title == "Code" %}class="active"{% endif %}><a href="{{"/code/" | prepend: site.baseurl }}">CODE</a></li>-->
+        <!--<li {% if page.title == "Data" %}class="active"{% endif %}><a href="{{"/data/" | prepend: site.baseurl }}">DATA</a></li>-->
+        <li {% if page.title == "Blog" %}class="active"{% endif %}><a href="{{"/blog/" | prepend: site.baseurl }}">BLOG</a></li>
+        <li {% if page.title == "Team" %}class="active"{% endif %}><a href="{{"/team/" | prepend: site.baseurl }}">TEAM</a></li>
+        <!--<li {% if page.title == "Join" %}class="active"{% endif %}><a href="{{"/join/" | prepend: site.baseurl }}">JOIN</a></li>-->
+        <li {% if page.title == "Contact" %}class="active"{% endif %}><a href="{{"/contact/" | prepend: site.baseurl }}">CONTACT</a></li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div>
+</div>

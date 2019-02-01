@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{% include wrap.html %}
+
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+        <div class="hline"></div>
+        {% if site.data.pubs.articles_in_review.size > 0 %}
+            <h3>In review / in revision</h3>
+            {% for pub in site.data.pubs.articles_in_review %}
+                {% include article_in_review.html %}
+            {% endfor %}
+            <div class="hline"></div>
+        {% endif %}
+        {% if site.data.pubs.articles_accepted.size > 0 %}
+            <h3>Accepted</h3>
+            {% for pub in site.data.pubs.articles_accepted %}
+                {% include article_accepted.html %}
+            {% endfor %}
+            <div class="hline"></div>
+        {% endif %}
+        {% if site.data.pubs.articles_published.size > 0 %}
+            <h3>Published</h3>
+            {% for pub in site.data.pubs.articles_published %}
+                {% include article_published.html %}
+            {% endfor %}
+            <div class="hline"></div>
+        {% endif %}
+        </div><! --/col-lg-8 -->
+    </div><! --/row -->
+</div><! --/container -->
+
+{{ content }}

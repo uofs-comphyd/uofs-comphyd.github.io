@@ -1,0 +1,21 @@
+<div class="container mtb">
+    <div class="row centered">
+        {% for project in site.categories['current_project'] reversed %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <div class="he-wrap tpl6">
+                <img src="{{ "/assets/img/" | prepend: site.baseurl }}{{ project.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">{{ project.title }}</h3>
+                        <a href="{{  project.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                    </div><!-- he bg -->
+                </div><!-- he view -->
+            </div><!-- he wrap -->
+            <h4>{{ project.title }}</h4>
+            <h5 class="ctitle">{{ project.name }}</h5>
+            <div class="hline"></div>
+        </div><! --/col-lg-3 -->
+        {% endfor %}
+
+    </div><! --/row -->
+</div><! --/container -->

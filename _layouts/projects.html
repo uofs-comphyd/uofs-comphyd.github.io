@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{% include wrap.html %}
+
+  {{ content }}
+
+{% include current_projects.html %}
+
+{% if site.categories['archived_project'].size > 0 %}
+    {% include archived_projects.html %}
+{% endif %}
+

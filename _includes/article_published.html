@@ -1,0 +1,7 @@
+{% if pub.journal != null %}
+  <p>{{ pub.authors }}, {{ pub.year }}: {{ pub.title }}. <span class="journal">{{ pub.journal }}</span>, <a href="http://doi.org/{{ pub.doi }}">doi:{{ pub.doi }}.</a></p>
+{% elsif pub.inbook != null %}
+  <p>{{ pub.authors }}, {{ pub.year }}: {{ pub.title }}. In <span class="journal">{{ pub.inbook }}</span>, edited by {{ pub.editors }}, {{ pub.publisher }}, <a href="{{ pub.url }}">ISBN-13:{{ pub.isbn13 }}</a>.</p>
+{% else %}
+  <p>unknown entry: {{ pub }}</p>
+{% endif %}

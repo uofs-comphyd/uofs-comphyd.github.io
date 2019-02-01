@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Centre for Hydrology | Modeling and prediction</title>
+    <description>We seek to improve understanding and predictions of hydrological processes at scales from hillslopes to continents</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 21 Jan 2019 09:46:39 -0600</pubDate>
+    <lastBuildDate>Mon, 21 Jan 2019 09:46:39 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Blog: New opportunities for graduate students and postdoctoral fellows</title>
+        <description>&lt;p&gt;The &lt;span&gt;&lt;a href=&quot;http://www.usask.ca/hydrology/&quot;&gt;Centre for Hydrology&lt;/a&gt; | Modeling and Prediction&lt;/span&gt; group at the &lt;a href=&quot;https://www.usask.ca/&quot;&gt;University of Saskatchewan&lt;/a&gt; is hiring motivated graduate students and post-doctoral fellows.&lt;/p&gt;
+
+&lt;p&gt;Possible research opportunities include developing ensemble forcing data for large-domain hydrologic models, improving multi-scale hydrologic models, improving continental-domain network routing models, developing ensemble methods for data assimilation, and developing process-based methods for model benchmarking and model evaluation. These positions will support applications in streamflow forecasting, water security assessments, and improving the representation of hydrologic processes in Earth System models.&lt;/p&gt;
+
+&lt;p&gt;Please contact Prof. Martyn Clark (martyn.clark@usask.ca) for more details.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 Jan 2019 17:30:00 -0600</pubDate>
+        <link>http://localhost:4000/blog/Hiring</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Hiring</guid>
+        
+        <category>code</category>
+        
+        <category>model</category>
+        
+        <category>summa</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Current_member: We're hiring!</title>
+        <description>&lt;h3 id=&quot;see-advertisement&quot;&gt;&lt;a href=&quot;../blog/Hiring&quot;&gt;see advertisement&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <pubDate>Sat, 01 Jan 2000 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/current_member/coming_soon</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/coming_soon</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
+    
+      <item>
+        <title>Current_member: Prof. Martyn Clark</title>
+        <description>&lt;h3 id=&quot;short-bio&quot;&gt;Short Bio&lt;/h3&gt;
+
+&lt;p&gt;Martyn is a Professor at the University of Saskatchewan at Canmore, Editor-in-Chief of Water Resources Research, and Fellow of the American Geophysical Union. Martyn’s research focuses in three main areas: (i) the development and evaluation of process-based hydrologic models; (ii) understanding the sensitivity of water resources to climate variability and change; and (iii) developing the next generation streamflow forecasting systems. Martyn has authored or co-authored over 150 journal articles since receiving his PhD in 1998.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Feb 1971 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/current_member/martyn_clark</link>
+        <guid isPermaLink="true">http://localhost:4000/current_member/martyn_clark</guid>
+        
+        
+        <category>current_member</category>
+        
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,7 @@
+Get Pubs in yaml format
+
+1. Save word document as a .txt file and copy to this directory
+
+2. Run script ./processPubs.bash >pubs.yaml
+
+3. Open pubs.yaml in vim and set: fileencoding=utf-8
