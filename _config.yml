@@ -1,7 +1,7 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Centre for Hydrology | Modeling and prediction
+title: Computational Hydrology | University of Saskatchewan
 description: "We seek to improve understanding and predictions of hydrological processes at scales from hillslopes to continents"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl:  "" #important: start with /
@@ -30,7 +30,7 @@ online:
   - title: github
     url: https://github.com/martynpclark
   # - title: facebook
-  #   url: https://github.com/UW-Hydro
+  #   url: https://github.com/uofs-comphyd
   # - title: twitter
   #   url:
   # - title: instagram
