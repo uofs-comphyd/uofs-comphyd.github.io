@@ -6,7 +6,7 @@ date: 2000-01-01 # don't change - this is used for sorting only
 author: Martyn Clark
 categories:
 - current_member
-img: emoji_crowd.jpg
+img: emojiCrowd_forWeb.jpg
 position: A selection of outstanding individuals
 social:
 - title: envelope #use for email address
