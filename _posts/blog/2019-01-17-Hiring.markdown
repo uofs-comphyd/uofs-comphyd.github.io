@@ -9,10 +9,10 @@ tags:
 - code
 - model
 - summa
-img: Canmore_3Sisters.jpg
+img: coldwaterLandscape_forWeb.jpg
 thumb: Canmore_3Sisters.jpg
 ---
-The <span>[Centre for Hydrology](http://www.usask.ca/hydrology/) | Modeling and Prediction</span> group at the [University of Saskatchewan](https://www.usask.ca/) is hiring motivated graduate students and post-doctoral fellows.
+As part of the [Global Water Futures](https://gwf.usask.ca/) project, the computational hydrology group is hiring motivated graduate students and post-doctoral fellows.
 
 Possible research opportunities include developing ensemble forcing data for large-domain hydrologic models, improving multi-scale hydrologic models, improving continental-domain network routing models, developing ensemble methods for data assimilation, and developing process-based methods for model benchmarking and model evaluation. These positions will support applications in streamflow forecasting, water security assessments, and improving the representation of hydrologic processes in Earth System models.
 
