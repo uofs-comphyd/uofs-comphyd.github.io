@@ -9,8 +9,8 @@ tags:
 - code
 - model
 - summa
-img: coldwaterLandscape_forWeb.jpg
-thumb: Canmore_3Sisters.jpg
+img: 3sisters2shipsProw.jpg
+thumb: fortress.jpg
 ---
 As part of the [Global Water Futures](https://gwf.usask.ca/) project, the computational hydrology group is hiring motivated graduate students and post-doctoral fellows.
 
