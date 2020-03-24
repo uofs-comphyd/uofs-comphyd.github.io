@@ -6,7 +6,7 @@ date: 1981-01-01 # don't change - this is used for sorting only
 author: Jim Freer
 categories:
 - current_member
-img: jim_forWeb.jpg
+img: freer_forWeb.jpg
 position: Visiting Professor of Hydrology, Centre for Hydrology 
 social:
 - title: envelope #use for email address
