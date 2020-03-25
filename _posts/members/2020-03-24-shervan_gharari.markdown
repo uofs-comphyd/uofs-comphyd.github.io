@@ -7,7 +7,7 @@ author: Shervan Gharari
 categories:
 - current_member
 img: Shervan_forWeb.jpg
-position: Postdoctoral Fellow, Global Water Futures 
+position: Research Associate 
 social:
 - title: envelope #use for email address
   url: "mailto:shervan.gharari@usask.ca"
