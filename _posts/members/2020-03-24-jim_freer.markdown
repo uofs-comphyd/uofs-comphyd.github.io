@@ -2,7 +2,7 @@
 layout: member
 title: Professor Jim Freer
 name: Professor Jim Freer
-date: 1981-01-01 # don't change - this is used for sorting only
+date: 1980-01-01 # don't change - this is used for sorting only
 author: Jim Freer
 categories:
 - current_member
