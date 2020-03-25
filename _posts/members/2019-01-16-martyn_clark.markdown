@@ -1,7 +1,7 @@
 ---
 layout: member
-title: Prof. Martyn Clark
-name: Prof. Martyn Clark
+title: Professor Martyn Clark
+name: Professor Martyn Clark
 date: 1971-02-15 # don't change - this is used for sorting only
 author: Martyn Clark
 categories:
