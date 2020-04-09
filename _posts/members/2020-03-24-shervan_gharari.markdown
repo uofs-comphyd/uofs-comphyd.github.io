@@ -2,12 +2,12 @@
 layout: member
 title: Dr. Shervan Gharari
 name: Dr. Shervan Gharari
-date: 1981-01-01 # don't change - this is used for sorting only
+date: 1980-04-01 # don't change - this is used for sorting only
 author: Shervan Gharari
 categories:
 - current_member
 img: Shervan_forWeb.jpg
-position: Research Associate 
+position: Research Associate, Centre for Hydrology, University of Saskatchewan 
 social:
 - title: envelope #use for email address
   url: "mailto:shervan.gharari@usask.ca"
