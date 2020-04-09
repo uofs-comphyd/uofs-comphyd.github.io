@@ -7,7 +7,7 @@ author: Martyn Clark
 categories:
 - current_member
 img: martyn_canmore.jpg
-position: Associate Director, Centre for Hydrology and Coldwater Laboratory
+position: Associate Director, Centre for Hydrology and Coldwater Lab
 social:
 - title: envelope #use for email address
   url: "mailto:martyn.clark@usask.ca"

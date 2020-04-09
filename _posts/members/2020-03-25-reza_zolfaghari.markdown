@@ -7,7 +7,7 @@ author: Reza Zolfaghari
 categories:
 - current_member
 img: reza_photo2020.jpg
-position: Postdoctoral Fellow, Dept. Computer Science, University of Saskatchewan
+position: Postdoctoral Fellow, Dept. Computer Sci., Univ. Saskatchewan
 social:
 - title: envelope #use for email address
   url: "mailto:rez299@usask.ca"
