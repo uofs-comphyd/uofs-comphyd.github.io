@@ -7,7 +7,7 @@ author: Wouter Knoben
 categories:
 - current_member
 img: wouter_forWeb.jpg
-position: Postdoctoral Fellow, Global Water Futures 
+position: Postdoctoral Fellow, Centre for Hydrology, Coldwater Laboratory 
 social:
 - title: envelope #use for email address
   url: "mailto:wouter.knoben@usask.ca"

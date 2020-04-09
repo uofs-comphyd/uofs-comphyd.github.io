@@ -7,7 +7,7 @@ author: Jim Freer
 categories:
 - current_member
 img: freer_forWeb.jpg
-position: Visiting Professor of Hydrology, Centre for Hydrology 
+position: Visiting Professor, Centre for Hydrology, Coldwater Laboratory
 social:
 - title: envelope #use for email address
   url: "mailto:jim.freer@bristol.ac.uk"

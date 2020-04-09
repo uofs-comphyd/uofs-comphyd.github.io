@@ -7,7 +7,7 @@ author: Christian Hart
 categories:
 - current_member
 img: christian_photo2020.jpg
-position: Research Associate
+position: Research Assistant, Centre for Hydrology, Coldwater Laboratory
 social:
 - title: envelope #use for email address
   url: "mailto:christian.hart@usask.ca"

@@ -7,7 +7,7 @@ author: Louise Arnal
 categories:
 - current_member
 img: louise_forWeb.jpg
-position: Postdoctoral Fellow, Global Water Futures 
+position: Postdoctoral Fellow, Centre for Hydrology, Coldwater Laboratory 
 social:
 - title: envelope #use for email address
   url: "mailto:louise.arnal@usask.ca"
