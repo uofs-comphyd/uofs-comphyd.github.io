@@ -7,7 +7,7 @@ author: Shervan Gharari
 categories:
 - current_member
 img: Shervan_forWeb.jpg
-position: Research Associate, Centre for Hydrology, University of Saskatchewan 
+position: Research Associate, Centre for Hydrology, Univ. Saskatchewan 
 social:
 - title: envelope #use for email address
   url: "mailto:shervan.gharari@usask.ca"
