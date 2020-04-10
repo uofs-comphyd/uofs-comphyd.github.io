@@ -1,6 +1,6 @@
 # Scripts to process publications
 
-This directory contains scripts to process publications. The scripts produce a .yaml file for group publications and a .markdown file for group member publications.
+This directory contains scripts to process publications. The scripts produce a `.yaml` file for group publications and a `.markdown` file for group member publications.
 
 ## Scripts
 
