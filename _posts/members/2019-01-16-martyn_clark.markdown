@@ -56,3 +56,6 @@ positions_held:
 ### Short Bio
 
 Martyn is a Professor of Hydrology at the University of Saskatchewan, Associate Director of the University of Saskatchewan's Centre for Hydrology and the Canmore Coldwater Laboratory, Editor-in-Chief of Water Resources Research, and Fellow of the American Geophysical Union. Martyn’s research focuses in three main areas: (i) developing and evaluating process-based hydrologic models; (ii) understanding the sensitivity of water resources to climate variability and change; and (iii) developing the next generation streamflow forecasting systems. Martyn has authored or co-authored over 175 journal articles since receiving his PhD in 1998.
+
+### Publications
+{% include_relative pubs/clarkPubs.markdown %}
