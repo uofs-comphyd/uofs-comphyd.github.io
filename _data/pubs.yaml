@@ -1,0 +1,77 @@
+# articles_published - shown on the publications page
+articles_published:
+  - title: "Have satellite precipitation products improved over last two decades? A comprehensive comparison of GPM IMERG with nine satellite and reanalysis datasets"
+    authors: Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, Ma Ziqiang, Hong Yang
+    year: 2020
+    journal: Remote Sensing of Environment
+    doi: 10.1016/j.rse.2020.111697
+  - title: "Quantifying Process Connectivity With Transfer Entropy in Hydrologic Models"
+    authors: Bennett Andrew, Nijssen Bart, Ou Gengxin, Clark Martyn, Nearing Grey
+    year: 2019
+    journal: Water Resources Research
+    doi: 10.1029/2018WR024555
+  - title: "Twenty-three unsolved problems in hydrology (UPH) - a community perspective"
+    authors: Bloeschl Gunter, Bierkens Marc F. P., Chambel Antonio, Cudennec Christophe, Destouni Georgia, Fiori Aldo, Kirchner James W., McDonnell Jeffrey J., Savenije Hubert H. G., Sivapalan Murugesu, Stumpp Christine, Toth Elena, Volpi Elena, Carr Gemma, Lupton Claire, Salinas Jose, Szeles Borbala, Viglione Alberto, Aksoy Hafzullah, Allen Scott T., Amin Anam, Andreassian Vazken, Arheimer Berit, Aryal Santosh K., Baker Victor, Bardsley Earl, Barendrecht Marlies H., Bartosova Alena, Batelaan Okke, Berghuijs Wouter R., Beven Keith, Blume Theresa, Bogaard Thom, de Amorim Pablo Borges, Boettcher Michael E., Boulet Gilles, Breinl Korbinian, Brilly Mitja, Brocca Luca, Buytaert Wouter, Castellarin Attilio, Castelletti Andrea, Chen Xiaohong, Chen Yangbo, Chen Yuanfang, Chifflard Peter, Claps Pierluigi, Clark Martyn P., Collins Adrian L., Croke Barry, Dathe Annette, David Paula C., de Barros Felipe P. J., de Rooij Gerrit, Di Baldassarre Giuliano, Driscoll Jessica M., Duethmann Doris, Dwivedi Ravindra, Eris Ebru, Farmer William H., Feiccabrino James, Ferguson Grant, Ferrari Ennio, Ferraris Stefano, Fersch Benjamin, Finger David, Foglia Laura, Fowler Keirnan, Gartsman Boris, Gascoin Simon, Gaume Eric, Gelfan Alexander, Geris Josie, Gharari Shervan, Gleeson Tom, Glendell Miriam, Bevacqua Alena Gonzalez, Gonzalez-Dugo Maria P., Grimaldi Salvatore, Gupta A. B., Guse Bjoern, Han Dawei, Hannah David, Harpold Adrian, Haun Stefan, Heal Kate, Helfricht Kay, Herrnegger Mathew, Hipsey Matthew, Hlavacikova Hana, Hohmann Clara, Holko Ladislav, Hopkinson Christopher, Hrachowitz Markus, Illangasekare Tissa H., Inam Azhar, Innocente Camyla, Istanbulluoglu Erkan, Jarihani Ben, Kalantari Zahra, Kalvans Andis, Khanal Sonu, Khatami Sina, Kiesel Jens, Kirkby Mike, Knoben Wouter, Kochanek Krzysztof, Kohnova Silvia, Kolechkina Alla, Krause Stefan, Kreamer David, Kreibich Heidi, Kunstmann Harald, Lange Holger, Liberato Margarida L. R., Lindquist Eric, Link Timothy, Liu Junguo, Loucks Daniel Peter, Luce Charles, Mahe Gil, Makarieva Olga, Malard Julien, Mashtayeva Shamshagul, Maskey Shreedhar, Mas-Pla Josep, Mavrova-Guirguinova Maria, Mazzoleni Maurizio, Mernild Sebastian, Misstear Bruce Dudley, Montanari Alberto, Mueller-Thomy Hannes, Nabizadeh Alireza, Nardi Fernando, Neale Christopher, Nesterova Nataliia, Nurtaev Bakhram, Odongo Vincent O., Panda Subhabrata, Pande Saket, Pang Zhonghe, Papacharalampous Georgia, Perrin Charles, Pfister Laurent, Pimentel Rafael, Polo Maria J., Post David, Sierra Cristina Prieto, Ramos Maria-Helena, Renner Maik, Reynolds Jose Eduardo, Ridolfi Elena, Rigon Riccardo, Riva Monica, Robertson David E., Rosso Renzo, Roy Tirthankar, Sa Joao H. M., Salvadori Gianfausto, Sandells Mel, Schaefli Bettina, Schumann Andreas, Scolobig Anna, Seibert Jan, Servat Eric, Shafiei Mojtaba, Sharma Ashish, Sidibe Moussa, Sidle Roy C., Skaugen Thomas, Smith Hugh, Spiessl Sabine M., Stein Lina, Steinsland Ingelin, Strasser Ulrich, Su Bob, Szolgay Jan, Tarboton David, Tauro Flavia, Thirel Guillaume, Tian Fuqiang, Tong Rui, Tussupova Kamshat, Tyralis Hristos, Uijlenhoet Remko, van Beek Rens, van der Ent Ruud J., van der Ploeg Martine, Van Loon Anne F., van Meerveld Ilja, van Nooijen Ronald, van Oel Pieter R., Vidal Jean-Philippe, von Freyberg Jana, Vorogushyn Sergiy, Wachniew Przemyslaw, Wade Andrew J., Ward Philip, Westerberg Ida K., White Christopher, Wood Eric F., Woods Ross, Xu Zongxue, Yilmaz Koray K., Zhang Yongqiang
+    year: 2019
+    journal: Hydrological Sciences Journal-Journal Des Sciences Hydrologiques
+    doi: 10.1080/02626667.2019.1620507
+  - title: "How Do Modeling Decisions Affect the Spread Among Hydrologic Climate Change Projections? Exploring a Large Ensemble of Simulations Across a Diversity of Hydroclimates"
+    authors: Chegwidden Oriana S., Nijssen Bart, Rupp David E., Arnold Jeffrey R., Clark Martyn P., Hamman Joseph J., Kao Shih‐Chieh, Mao Yixin, Mizukami Naoki, Mote Philip W., Pan Ming, Pytlak Erik, Xiao Mu
+    year: 2019
+    journal: Earth'S Future
+    doi: 10.1029/2018EF001047
+  - title: "Hillslope Hydrology in Global Change Research and Earth System Modeling"
+    authors: Fan Y., Clark M., Lawrence D. M., Swenson S., Band L. E., Brantley S. L., Brooks P. D., Dietrich W. E., Flores A., Grant G., Kirchner J. W., Mackay D. S., McDonnell J. J., Milly P. C. D., Sullivan P. L., Tague C., Ajami H., Chaney N., Hartmann A., Hazenberg P., McNamara J., Pelletier J., Perket J., Rouholahnejad-Freund E., Wagener T., Zeng X., Beighley E., Buzan J., Huang M., Livneh B., Mohanty B. P., Nijssen B., Safeeq M., Shen C., van Verseveld W., Volk J., Yamazaki D.
+    year: 2019
+    journal: Water Resources Research
+    doi: 10.1029/2018WR023903
+  - title: "Improving the Representation of Subsurface Water Movement in Land Models"
+    authors: Gharari Shervan, Clark Martyn P., Mizukami Naoki, Wong Jefferson S., Pietroniro Alain, Wheater Howard S.
+    year: 2019
+    journal: Journal of Hydrometeorology
+    doi: 10.1175/JHM-D-19-0108.1
+  - title: "The Community Land Model Version 5: Description of New Features Benchmarking and Impact of Forcing Uncertainty"
+    authors: Lawrence David M., Fisher Rosie A., Koven Charles D., Oleson Keith W., Swenson Sean C., Bonan Gordon, Collier Nathan, Ghimire Bardan, Kampenhout Leo, Kennedy Daniel, Kluzek Erik, Lawrence Peter J., Li Fang, Li Hongyi, Lombardozzi Danica, Riley William J., Sacks William J., Shi Mingjie, Vertenstein Mariana, Wieder William R., Xu Chonggang, Ali Ashehad A., Badger Andrew M., Bisht Gautam, Broeke Michiel, Brunke Michael A., Burns Sean P., Buzan Jonathan, Clark Martyn, Craig Anthony, Dahlin Kyla, Drewniak Beth, Fisher Joshua B., Flanner Mark, Fox Andrew M., Gentine Pierre, Hoffman Forrest, Keppel‐Aleks Gretchen, Knox Ryan, Kumar Sanjiv, Lenaerts Jan, Leung L. Ruby, Lipscomb William H., Lu Yaqiong, Pandey Ashutosh, Pelletier Jon D., Perket Justin, Randerson James T., Ricciuto Daniel M., Sanderson Benjamin M., Slater Andrew, Subin Zachary M., Tang Jinyun, Thomas R. Quinn, Val Martin Maria, Zeng Xubin
+    year: 2019
+    journal: Journal of Advances in Modeling Earth Systems
+    doi: 10.1029/2018MS001583
+  - title: "The potential to reduce uncertainty in regional runoff projections from climate models"
+    authors: Lehner Flavio, Wood Andrew W., Vano Julie A., Lawrence David M., Clark Martyn P., Mankin Justin S.
+    year: 2019
+    journal: Nature Climate Change
+    doi: 10.1038/s41558-019-0639-x
+  - title: "High-Resolution Gridded Daily Rainfall and Temperature for the Hawaiian Islands (1990-2014)"
+    authors: Longman Ryan J., Frazier Abby G., Newman Andrew J., Giambelluca Thomas W., Schanzenbach David, Kagawa-Viviani Aurora, Needham Heidi, Arnold Jeffrey R., Clark Martyn P.
+    year: 2019
+    journal: Journal of Hydrometeorology
+    doi: 10.1175/JHM-D-18-0112.1
+  - title: "Subjective modeling decisions can significantly impact the simulation of flood and drought events"
+    authors: Melsen Lieke A., Teuling Adriaan J., Torfs Paul J. J. F., Zappa Massimiliano, Mizukami Naoki, Mendoza Pablo A., Clark Martyn P., Uijlenhoet Remko
+    year: 2019
+    journal: Journal of Hydrology
+    doi: 10.1016/j.jhydrol.2018.11.046
+  - title: "On the choice of calibration metrics for “high-flow” estimation using hydrologic models"
+    authors: Mizukami Naoki, Rakovec Oldrich, Newman Andrew J., Clark Martyn P., Wood Andrew W., Gupta Hoshin V., Kumar Rohini
+    year: 2019
+    journal: Hydrology and Earth System Sciences
+    doi: 10.5194/hess-23-2601-2019
+  - title: "Methodological Intercomparisons of Station-Based Gridded Meteorological Products: Utility Limitations and Paths Forward"
+    authors: Newman Andrew J., Clark Martyn P., Longman Ryan J., Giambelluca Thomas W.
+    year: 2019
+    journal: Journal of Hydrometeorology
+    doi: 10.1175/JHM-D-18-0114.1
+  - title: "Use of Daily Station Observations to Produce High-Resolution Gridded Probabilistic Precipitation and Temperature Time Series for the Hawaiian Islands"
+    authors: Newman Andrew J., Clark Martyn P., Longman Ryan J., Gilleland Eric, Giambelluca Thomas W., Arnold Jeffrey R.
+    year: 2019
+    journal: Journal of Hydrometeorology
+    doi: 10.1175/JHM-D-18-0113.1
+  - title: "Diagnostic Evaluation of Large‐Domain Hydrologic Models Calibrated Across the Contiguous United States"
+    authors: Rakovec Oldrich, Mizukami Naoki, Kumar Rohini, Newman Andrew J., Thober Stephan, Wood Andrew W., Clark Martyn P., Samaniego Luis
+    year: 2019
+    journal: Journal of Geophysical Research-Atmospheres
+    doi: 10.1029/2019JD030767
+  - title: "Representing Intrahillslope Lateral Subsurface Flow in the Community Land Model"
+    authors: Swenson Sean C., Clark Martyn, Fan Ying, Lawrence David M., Perket Justin
+    year: 2019
+    journal: Journal of Advances in Modeling Earth Systems
+    doi: 10.1029/2019MS001833
