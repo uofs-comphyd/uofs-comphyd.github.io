@@ -1,6 +1,6 @@
 ## Scripts to process publications
 
-This directory contains scripts to process publications.
+This directory contains scripts to process publications. The scripts produce a .yaml file for group publications and a .markdown file for group member publications.
 
 The code expects that each team member will have a bibtex file named `${member}Pubs.bib`
 Moreover, the code expects that the bibtex file is produced using zotero, such that the

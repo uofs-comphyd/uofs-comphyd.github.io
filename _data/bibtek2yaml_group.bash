@@ -86,12 +86,21 @@ echo "articles_published:"
 for id in "${sortedIds[@]}"; do
 
  # get the sorted index for a given reference
- IFS=$'\t' read -r -a index <<< "${id}"
+
+IFS=$'\t' read -r -a index <<< "${id}"
+ # deal with the special case of >10 authors
+ maxAuthors=10  # maximum number of authors to list
+ authorList="${author[${index[0]}]}"
+ nAuthors=`echo "${authorList}" | sed 's/[^,]//g' | awk '{ print length; }'`
+ if [[ "${nAuthors}" -gt "${maxAuthors}" ]]; then
+  (( nOtherAuthors = ${nAuthors} - 1 ))
+  authorList="${authorList%%,*} and ${nOtherAuthors} others"
+ fi
 
  # print in the yaml format
  if [[ "${year[${index[0]}]}" -gt "2018" ]]; then
   echo '  - title: "'${title[${index[0]}]}'"'
-  echo '    authors: '${author[${index[0]}]}
+  echo '    authors: '${authorList}
   echo '    year: '${year[${index[0]}]}
   echo '    journal: '${journal[${index[0]}]}
   echo '    doi: '${doi[${index[0]}]}
