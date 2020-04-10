@@ -39,3 +39,9 @@ Wouter is a Postdoctoral Fellow at the University of Saskatchewan at Canmore, bo
 
 ### Publications
 {% include_relative pubs/knobenPubs.markdown %}
+
+### Datasets
+{% include_relative pubs/knobenData.markdown %}
+
+### Code
+{% include_relative pubs/knobenCode.markdown %}
