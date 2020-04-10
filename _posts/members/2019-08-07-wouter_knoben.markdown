@@ -36,3 +36,6 @@ positions_held:
 
 ### Short Bio
 Wouter is a Postdoctoral Fellow at the University of Saskatchewan at Canmore, board member of the Young Hydrologic Society and ex board member of the AGU Hydrology Section Student Subcommittee. Wouter’s research focuses in three main areas: (i) using knowledge from experimental basins to improve continental domain models; (ii) model structure uncertainty, realism and benchmarking; and (iii) hydrologic similarity. Wouter has published his work in leading international journals, including Water Resources Research, Geoscientific Model Development and International Journal of Climatology.
+
+### Publications
+{% include_relative pubs/knobenPubs.markdown %}
