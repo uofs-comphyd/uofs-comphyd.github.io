@@ -2,7 +2,7 @@
 layout: member
 title: Dr. Shervan Gharari
 name: Dr. Shervan Gharari
-date: 1980-04-01 # don't change - this is used for sorting only
+date: 1980-02-01 # don't change - this is used for sorting only
 author: Shervan Gharari
 categories:
 - current_member

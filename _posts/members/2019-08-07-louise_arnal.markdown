@@ -2,7 +2,7 @@
 layout: member
 title: Dr. Louise Arnal
 name: Dr. Louise Arnal
-date: 1981-01-01 # don't change - this is used for sorting only
+date: 1980-03-01 # don't change - this is used for sorting only
 author: Louise Arnal
 categories:
 - current_member

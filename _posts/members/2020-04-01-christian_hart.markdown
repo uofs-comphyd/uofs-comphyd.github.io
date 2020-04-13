@@ -2,7 +2,7 @@
 layout: member
 title: Christian Hart
 name: Christian Hart
-date: 1981-01-01 # don't change - this is used for sorting only
+date: 1980-08-01 # don't change - this is used for sorting only
 author: Christian Hart
 categories:
 - current_member
