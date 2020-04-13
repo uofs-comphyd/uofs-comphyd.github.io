@@ -2,7 +2,7 @@
 layout: member
 title: Dr. Wouter Knoben
 name: Dr. Wouter Knoben
-date: 1981-01-01 # don't change - this is used for sorting only
+date: 1980-04-01 # don't change - this is used for sorting only
 author: Wouter Knoben
 categories:
 - current_member
