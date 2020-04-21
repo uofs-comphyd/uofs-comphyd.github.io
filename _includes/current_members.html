@@ -2,6 +2,7 @@
     <div class="row centered">
         {% for member in site.categories['current_member'] reversed %}
         <div class="col-lg-3 col-md-3 col-sm-3">
+            <p style="margin-top: 1.2em"</p>
             <div class="he-wrap tpl6">
             <img src="{{ "/assets/img/" | prepend: site.baseurl }}{{ member.img }}" alt="">
                 <div class="he-view">
@@ -14,8 +15,8 @@
                     </div><!-- he bg -->
                 </div><!-- he view -->
             </div><!-- he wrap -->
-            <h4>{{ member.name }}</h4>
-            <h5 class="ctitle">{{ member.position }}</h5>
+            <h5 class="ctitle">{{ member.name }}</h5>
+            <h5>{{ member.position }}</h5>
             <p>{{ member.text }}</p>
             <div class="hline"></div>
         </div><! --/col-lg-3 -->

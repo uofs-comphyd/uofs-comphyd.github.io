@@ -2,12 +2,12 @@
 layout: member
 title: Dr. Guoqiang Tang
 name: Dr. Guoqiang Tang
-date: 1981-01-01 # don't change - this is used for sorting only
+date: 1980-05-01 # don't change - this is used for sorting only
 author: Guoqiang Tang
 categories:
 - current_member
 img: guoqiang_forWeb.jpg
-position: Postdoctoral Fellow, Global Water Futures 
+position: Postdoctoral Fellow, Centre for Hydrology, Coldwater Laboratory 
 social:
 - title: envelope #use for email address
   url: "mailto:guoqiang.tang@usask.ca"
