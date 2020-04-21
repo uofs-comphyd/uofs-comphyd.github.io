@@ -1,0 +1,65 @@
+---
+layout: member
+title: Professor Jim Freer
+name: Professor Jim Freer
+date: 1980-01-01 # don't change - this is used for sorting only
+author: Jim Freer
+categories:
+- current_member
+img: freer_forWeb.jpg
+position: Visiting Professor, Centre for Hydrology, Coldwater Laboratory
+social:
+- title: envelope #use for email address
+  url: "mailto:jim.freer@bristol.ac.uk"
+education:
+- school: Lancaster University
+  location: Lancaster, United Kingdom
+  program: Hydrology
+  degree: PhD
+  year: 1998
+- school: Lancaster University
+  location: Lancaster, United Kingdom
+  program: Environmental Science
+  degree: BSc
+  year: 1990
+positions_held:
+- position: Visiting Professor of Hydrology
+  employer: University of Saskatchewan
+  location: Canmore, Alberta, CANADA
+  period: 2020-present
+- position: Honorary Professor of Hydrology
+  employer: University of Bristol
+  location: Bristol, UK
+  period: 2019-present
+- position: Professor of Hydrology
+  employer: University of Bristol
+  location: Bristol, UK
+  period: 2012-2019
+- position: Reader in Hydrology
+  employer: University of Bristol
+  location: Bristol, UK
+  period: 2010-2012
+- position: Senior Lecturer
+  employer: University of Bristol
+  location: Bristol, UK
+  period: 2008-2010
+- position: Research Fellow
+  employer: Lancaster University
+  location: Lancaster, UK
+  period: 2005-2008
+- position: Research Associate
+  employer: Lancaster University
+  location: Lancaster, UK
+  period: 1998-2004
+- position: Research Associate
+  employer: College of Forestry, SUNY
+  location: Syracuse, USA
+  period: 1994-1997
+- position: Research Assistant
+  employer: Lancaster University
+  location: Lancaster, UK
+  period: 1991-1993
+---
+
+### Short Bio
+Jim is  Visiting Professor of Hydrology at the University of Saskatchewan, an honorary Professor at the University of Bristol, and an editor of HESS. Jim's research interests currently involve: (i) Understanding uncertainties in environmental modelling problems; (ii) developing and evaluating semi-distributed conceptual hydrological models; and (iii) large sample hydrology and the inclusion of human impacts on catchment hydrological modelling. Jim has authored or co-authored over 110 journal articles since receiving his PhD in 1998.

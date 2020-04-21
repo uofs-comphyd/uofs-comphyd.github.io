@@ -2,12 +2,12 @@
 layout: member
 title: Dr. Wouter Knoben
 name: Dr. Wouter Knoben
-date: 1981-01-01 # don't change - this is used for sorting only
+date: 1980-04-01 # don't change - this is used for sorting only
 author: Wouter Knoben
 categories:
 - current_member
 img: wouter_forWeb.jpg
-position: Postdoctoral Fellow, Global Water Futures 
+position: Postdoctoral Fellow, Centre for Hydrology, Coldwater Laboratory 
 social:
 - title: envelope #use for email address
   url: "mailto:wouter.knoben@usask.ca"
@@ -36,3 +36,12 @@ positions_held:
 
 ### Short Bio
 Wouter is a Postdoctoral Fellow at the University of Saskatchewan at Canmore, board member of the Young Hydrologic Society and ex board member of the AGU Hydrology Section Student Subcommittee. Wouter’s research focuses in three main areas: (i) using knowledge from experimental basins to improve continental domain models; (ii) model structure uncertainty, realism and benchmarking; and (iii) hydrologic similarity. Wouter has published his work in leading international journals, including Water Resources Research, Geoscientific Model Development and International Journal of Climatology.
+
+### Publications
+{% include_relative pubs/knobenPubs.markdown %}
+
+### Datasets
+{% include_relative pubs/knobenData.markdown %}
+
+### Code
+{% include_relative pubs/knobenCode.markdown %}
