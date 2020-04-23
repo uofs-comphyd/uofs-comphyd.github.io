@@ -47,10 +47,11 @@ for case in "${cases[@]}"; do
   newline=$'\n'
   
   # save article ID
-  if [[ ${key} == "@article" ]]; then
+  if [[ ${key} == "@article" || ${key} == "@incollection" ]]; then
    i=$((i+1))
    IFS='_' read -r -a id <<< "${value%,*}"  # note "${value%,*}" removes everything after the comma
-   var=`paste <(printf %s "${i}") <(printf '%s\n' "${id[*]}")`
+   if [[ ${#id[@]} == "4" ]]; then idTrim=${id[@]:1}; else idTrim=${id[@]:0}; fi
+   var=`paste <(printf %s "${i}") <(printf '%s\n' "${idTrim[*]}")`
    merged[i]=`echo "$var${newline}"`
    echo Reading reference ${merged[i]}
   
@@ -78,7 +79,7 @@ for case in "${cases[@]}"; do
    if [[ ${key} == "author " ]];  then author[i]=`echo "${value}" | sed "s/ and /, /g"`; fi
    if [[ ${key} == "year " ]];    then year[i]=${value}; fi
    if [[ ${key} == "doi " ]];     then doi[i]=${value}; fi
-  
+
    # change case of the journal
    if [[ ${key} == "journal " ]]; then
     string=${value}
@@ -129,10 +130,17 @@ for case in "${cases[@]}"; do
 
   # format the reference
   ref="${authorList}, ${year[${index[0]}]}: ${title[${index[0]}]}. ${journalName} "
-  doi="[doi: ${doi[${index[0]}]}](http://doi.org/${doi[${index[0]}]})"
+
+  # currently still list papers even if the doi is unknown
+  if [[ ${doi[${index[0]}]} != "unknown" ]]; then
+   doi="[doi: ${doi[${index[0]}]}](http://doi.org/${doi[${index[0]}]})"
+  else
+   doi="doi: unknown"
+  fi
 
   # print in the markdown format
-  if [[ ${journalName} != "unknown" && ${doi[${index[0]}]} != "unknown" ]]; then
+  #if [[ ${journal[${index[0]}]} != "unknown" && ${doi[${index[0]}]} != "unknown" ]]; then
+  if [[ ${journal[${index[0]}]} != "unknown" ]]; then
    printf '%s\n\n' "${ref}${doi}"
   fi
 
