@@ -34,7 +34,7 @@ Robins P. E., Lewis M. J., Freer J., Cooper D. M., Skinner C. J., Coulthard T. J
 
 Zischg A. P., Felder G., Weingartner R., Quinn N., Coxon G., Neal J., Freer J., Bates P., 2018: Effects of variability in probable maximum precipitation patterns on flood losses. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-22-2759-2018](http://doi.org/10.5194/hess-22-2759-2018)
 
-Hutton C., Wagener T., Freer J., Han D. W., Duffy C., Arheimer B., 2017: Reply to comment by Anel on "Most computational hydrology is not reproducible so is it really science?". _Water Resources Research_, [doi: 10.1002/2017wr020480](http://doi.org/10.1002/2017wr020480)
+Hutton C., Wagener T., Freer J., Han D. W., Duffy C., Arheimer B., 2017: Reply to comment by Melsen et al. on "Most computational hydrology is not reproducible so is it really science?". _Water Resources Research_, [doi: 10.1002/2017wr020476](http://doi.org/10.1002/2017wr020476)
 
 Bermudez M., Neal J. C., Bates P. D., Coxon G., Freer J. E., Cea L., Puertas J., 2017: Quantifying local rainfall dynamics and uncertain boundary conditions into a nested regional-local flood modeling system. _Water Resources Research_, [doi: 10.1002/2016wr019903](http://doi.org/10.1002/2016wr019903)
 
@@ -44,7 +44,7 @@ Greatwood C., Richardson T. S., Freer J., Thomas R. M., MacKenzie A. R., Brownlo
 
 Heppell C. M., Binley A., Trimmer M., Darch T., Jones A., Malone E., Collins A. L., Johnes P. J., Freer J. E., Lloyd C. E. M., 2017: Hydrological controls on DOC: nitrate resource stoichiometry in a lowland agricultural catchment southern UK. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-21-4785-2017](http://doi.org/10.5194/hess-21-4785-2017)
 
-Hutton C., Wagener T., Freer J., Han D. W., Duffy C., Arheimer B., 2017: Reply to comment by Melsen et al. on "Most computational hydrology is not reproducible so is it really science?". _Water Resources Research_, [doi: 10.1002/2017wr020476](http://doi.org/10.1002/2017wr020476)
+Hutton C., Wagener T., Freer J., Han D. W., Duffy C., Arheimer B., 2017: Reply to comment by Anel on "Most computational hydrology is not reproducible so is it really science?". _Water Resources Research_, [doi: 10.1002/2017wr020480](http://doi.org/10.1002/2017wr020480)
 
 Ockenden M. C. and 20 others, 2017: Major agricultural changes required to mitigate phosphorus losses under climate change. _Nature Communications_, [doi: 10.1038/s41467-017-00232-0](http://doi.org/10.1038/s41467-017-00232-0)
 
@@ -152,13 +152,13 @@ Krueger T., Freer J., Quinton J. N., Macleod C. J. A., Bilotta G. S., Brazier R.
 
 McMillan H., Freer J., Pappenberger F., Krueger T., Clark M., 2010: Impacts of uncertain river flow data on rainfall-runoff model calibration and discharge predictions. _Hydrological Processes_, [doi: 10.1002/hyp.7587](http://doi.org/10.1002/hyp.7587)
 
-Clark M. P., Rupp D. E., Woods R. A., Tromp-van Meerveld H. J., Peters N. E., Freer J. E., 2009: Consistency between hydrological models and field observations: linking processes at the hillslope scale to hydrological responses at the watershed scale. _Hydrological Processes_, doi: unknown
+Clark M. P., Rupp D. E., Woods R. A., Tromp-van Meerveld H. J., Peters N. E., Freer J. E., 2009: Consistency between hydrological models and field observations: linking processes at the hillslope scale to hydrological responses at the watershed scale. _Hydrological Processes_, [doi: 10.1002/hyp.7154](http://doi.org/10.1002/hyp.7154)
 
 Dean S., Freer J., Beven K., Wade A. J., Butterfield D., 2009: Uncertainty assessment of a process-based integrated catchment model of phosphorus. _Stochastic Environmental Research and Risk Assessment_, [doi: 10.1007/s00477-008-0273-z](http://doi.org/10.1007/s00477-008-0273-z)
 
 Delrieu G. and 10 others, 2009: Weather radar and hydrology Preface. _Advances in Water Resources_, [doi: 10.1016/j.advwatres.2009.03.006](http://doi.org/10.1016/j.advwatres.2009.03.006)
 
-He Y., Wetterhall F., Cloke H. L., Pappenberger F., Wilson M., Freer J., McGregor G., 2009: Tracking the uncertainty in flood alerts driven by grand ensemble weather predictions. _Meteorological Applications_, doi: unknown
+He Y., Wetterhall F., Cloke H. L., Pappenberger F., Wilson M., Freer J., McGregor G., 2009: Tracking the uncertainty in flood alerts driven by grand ensemble weather predictions. _Meteorological Applications_, [doi: 10.1002/met.132](http://doi.org/10.1002/met.132)
 
 Ivanovic R. F., Freer J. E., 2009: Science versus politics: truth and uncertainty in predictive modelling. _Hydrological Processes_, [doi: 10.1002/hyp.7406](http://doi.org/10.1002/hyp.7406)
 
@@ -172,55 +172,55 @@ Radcliffe D. E., Freer J., Schoumans O., 2009: Diffuse Phosphorus Models in the 
 
 Younger P. M., Freer J. E., Beven K. J., 2009: Detecting the effects of spatial variability of rainfall on hydrological modelling within an uncertainty analysis framework. _Hydrological Processes_, [doi: 10.1002/hyp.7341](http://doi.org/10.1002/hyp.7341)
 
-Beven K. J., Smith P. J., Freer J. E., 2008: So just why would a modeller choose to be incoherent?. _Journal of Hydrology_, doi: unknown
+Beven K. J., Smith P. J., Freer J. E., 2008: So just why would a modeller choose to be incoherent?. _Journal of Hydrology_, [doi: 10.1016/j.jhydrol.2008.02.007](http://doi.org/10.1016/j.jhydrol.2008.02.007)
 
-Bilotta G. S., Brazier R. E., Haygarth P. M., Macleod C. J. A., Butler R., Granger S., Krueger T., Freer J., Quinton J., 2008: Rethinking the contribution of drained and undrained grasslands to sediment-related water quality problems. _Journal of Environmental Quality_, doi: unknown
+Bilotta G. S., Brazier R. E., Haygarth P. M., Macleod C. J. A., Butler R., Granger S., Krueger T., Freer J., Quinton J., 2008: Rethinking the contribution of drained and undrained grasslands to sediment-related water quality problems. _Journal of Environmental Quality_, [doi: 10.2134/jeq2007.0457](http://doi.org/10.2134/jeq2007.0457)
 
-Dunn S. M., Freer J., Weiler M., Kirkby M. J., Seibert J., Quinn P. F., Lischeid G., Tetzlaff D., Soulsby C., 2008: Conceptualization in catchment modelling: simply learning?. _Hydrological Processes_, doi: unknown
+Dunn S. M., Freer J., Weiler M., Kirkby M. J., Seibert J., Quinn P. F., Lischeid G., Tetzlaff D., Soulsby C., 2008: Conceptualization in catchment modelling: simply learning?. _Hydrological Processes_, [doi: 10.1002/hyp.7070](http://doi.org/10.1002/hyp.7070)
 
 Younger P.M., Gadian A.M., Wang C-G., Freer J.E., Beven K.J., 2008: The usability of 250 m resolution data from the UK Meteorological Office Unified Model as input data for a hydrological model. _Meteorological Applications_, [doi: 10.1002/met.46](http://doi.org/10.1002/met.46)
 
-Beven K.J., Smith P., Freer J., 2007: Comment on "Hydrological forecasting uncertainty assessment: incoherence of the GLUE methodology" by Pietro Mantovan and Ezio Todini. _Journal of Hydrology_, doi: unknown
+Beven K.J., Smith P., Freer J., 2007: Comment on "Hydrological forecasting uncertainty assessment: incoherence of the GLUE methodology" by Pietro Mantovan and Ezio Todini. _Journal of Hydrology_, [doi: 10.1016/j.jhydrol.2007.02.023](http://doi.org/10.1016/j.jhydrol.2007.02.023)
 
-Krueger T., Freer J., Quinton J. N., Macleod C. J. A., 2007: Processes affecting transfer of sediment and colloids with associated phosphorus from intensively farmed grasslands: a critical note on modelling of phosphorus transfers. _Hydrological Processes_, doi: unknown
+Krueger T., Freer J., Quinton J. N., Macleod C. J. A., 2007: Processes affecting transfer of sediment and colloids with associated phosphorus from intensively farmed grasslands: a critical note on modelling of phosphorus transfers. _Hydrological Processes_, [doi: 10.1002/hyp.6596](http://doi.org/10.1002/hyp.6596)
 
-Page T., Beven K. J., Freer J., Neal C., 2007: Modelling the chloride signal at Plynlimon Wales using a modified dynamic TOPMODEL incorporating conservative chemical mixing (with uncertainty). _Hydrological Processes_, doi: unknown
+Page T., Beven K. J., Freer J., Neal C., 2007: Modelling the chloride signal at Plynlimon Wales using a modified dynamic TOPMODEL incorporating conservative chemical mixing (with uncertainty). _Hydrological Processes_, [doi: 10.1002/hyp.6186](http://doi.org/10.1002/hyp.6186)
 
-Haygarth P. M. and 13 others, 2006: Processes affecting transfer of sediment and colloids with associated phosphorus from intensively farmed grasslands: an overview of key issues. _Hydrological Processes_, doi: unknown
+Haygarth P. M. and 13 others, 2006: Processes affecting transfer of sediment and colloids with associated phosphorus from intensively farmed grasslands: an overview of key issues. _Hydrological Processes_, [doi: 10.1002/hyp.6598](http://doi.org/10.1002/hyp.6598)
 
-Page T., Haygarth P. M., Beven K. J., Joynes A., Butler T., Keeler C., Freer J., Owens P. N., Wood G. A., 2005: Spatial variability of soil phosphorus in relation to the topographic index and critical source areas: Sampling for assessing risk to water quality. _Journal of Environmental Quality_, doi: unknown
+Page T., Haygarth P. M., Beven K. J., Joynes A., Butler T., Keeler C., Freer J., Owens P. N., Wood G. A., 2005: Spatial variability of soil phosphorus in relation to the topographic index and critical source areas: Sampling for assessing risk to water quality. _Journal of Environmental Quality_, [doi: 10.2134/jeq2004.0398](http://doi.org/10.2134/jeq2004.0398)
 
-Freer J., McMillan H., McDonnell J. J., Beven K. J., 2004: Constraining dynamic TOPMODEL responses for imprecise water table information using fuzzy rule based performance measures. _Journal of Hydrology_, doi: unknown
+Freer J., McMillan H., McDonnell J. J., Beven K. J., 2004: Constraining dynamic TOPMODEL responses for imprecise water table information using fuzzy rule based performance measures. _Journal of Hydrology_, [doi: 10.1016/j.jhydrol.2003.12.037](http://doi.org/10.1016/j.jhydrol.2003.12.037)
 
-Burns D., Plummer L.N., McDonnell J.J., Busenberg E., Casile G.C., Kendall C., Hooper R.P., Freer J.E., Peters N.E., Beven K.J., Schlosser P., 2003: The geochemical evolution of riparian groundwater in a forested piedmont catchment. _Ground Water_, doi: unknown
+Burns D., Plummer L.N., McDonnell J.J., Busenberg E., Casile G.C., Kendall C., Hooper R.P., Freer J.E., Peters N.E., Beven K.J., Schlosser P., 2003: The geochemical evolution of riparian groundwater in a forested piedmont catchment. _Ground Water_, [doi: 10.1111/j.1745-6584.2003.tb02434.x](http://doi.org/10.1111/j.1745-6584.2003.tb02434.x)
 
-Page T., Beven K. J., Freer J., Jenkins A., 2003: Investigating the uncertainty in predicting responses to atmospheric deposition using the model of acidification of groundwater in catchments (MAGIC) within a generalised likelihood uncertainty estimation (GLUE) framework. _Water Air and Soil Pollution_, doi: unknown
+Page T., Beven K. J., Freer J., Jenkins A., 2003: Investigating the uncertainty in predicting responses to atmospheric deposition using the model of acidification of groundwater in catchments (MAGIC) within a generalised likelihood uncertainty estimation (GLUE) framework. _Water Air and Soil Pollution_, [doi: 10.1023/A:1022011520036](http://doi.org/10.1023/A:1022011520036)
 
-Peters N. E., Freer J.E., Aulenbach B., 2003: Hydrological dynamics of the Panola Mountain Research Watershed Georgia USA. _Ground Water_, doi: unknown
+Peters N. E., Freer J.E., Aulenbach B., 2003: Hydrological dynamics of the Panola Mountain Research Watershed Georgia USA. _Ground Water_, [doi: 10.1111/j.1745-6584.2003.tb02439.x](http://doi.org/10.1111/j.1745-6584.2003.tb02439.x)
 
-Peters N. E., Freer J., Beven K., 2003: Modelling hydrologic responses in a small forested catchment (Panola Mountain Georgia USA): a comparison of the original and a new dynamic TOPMODEL. _Hydrological Processes_, doi: unknown
+Peters N. E., Freer J., Beven K., 2003: Modelling hydrologic responses in a small forested catchment (Panola Mountain Georgia USA): a comparison of the original and a new dynamic TOPMODEL. _Hydrological Processes_, [doi: 10.1002/hyp.1128](http://doi.org/10.1002/hyp.1128)
 
 Freer J., McDonnell J. J., Beven K. J., Peters N. E., Burns D. A., Hooper R. P., Aulenbach B., Kendall C., 2002: The role of bedrock topography on subsurface storm flow. _Water Resources Research_, [doi: 10.1029/2001WR000872](http://doi.org/10.1029/2001WR000872)
 
-Beven K.J., Freer J., 2001: A dynamic TOPMODEL. _Hydrological Processes_, doi: unknown
+Beven K.J., Freer J., 2001: A dynamic TOPMODEL. _Hydrological Processes_, [doi: 10.1002/hyp.252](http://doi.org/10.1002/hyp.252)
 
-Beven K.J., Freer J., 2001: Equifinality data assimilation and uncertainty estimation in mechanistic modelling of complex environmental systems using the GLUE methodology. _Journal of Hydrology_, doi: unknown
+Beven K.J., Freer J., 2001: Equifinality data assimilation and uncertainty estimation in mechanistic modelling of complex environmental systems using the GLUE methodology. _Journal of Hydrology_, [doi: 10.1016/S0022-1694(01)00421-8](http://doi.org/10.1016/S0022-1694(01)00421-8)
 
 Burns D. A., McDonnell J. J., Hooper R. P., Peters N. E., Freer J. E., Kendall C., Beven K., 2001: Quantifying contributions to storm runoff through end-member mixing analysis and hydrologic measurements at the Panola Mountain Research Watershed (Georgia USA). _Hydrological Processes_, [doi: 10.1002/hyp.246](http://doi.org/10.1002/hyp.246)
 
-Feyen L., Beven K. J., De Smedt F., Freer J., 2001: Stochastic capture zone delineation within the generalized likelihood uncertainty estimation methodology: Conditioning on head observations. _Water Resources Research_, doi: unknown
+Feyen L., Beven K. J., De Smedt F., Freer J., 2001: Stochastic capture zone delineation within the generalized likelihood uncertainty estimation methodology: Conditioning on head observations. _Water Resources Research_, [doi: 10.1029/2000WR900351](http://doi.org/10.1029/2000WR900351)
 
 Brazier R. E., Beven K. J., Freer J., Rowan J. S., 2000: Equifinality and uncertainty in physically based soil erosion models: Application of the glue methodology to WEPP-the water erosion prediction project-for sites in the UK and USA. _Earth Surface Processes and Landforms_, [doi: 10.1002/1096-9837(200008)25:8<825::AID-ESP101>3.0.CO;2-3](http://doi.org/10.1002/1096-9837(200008)25:8<825::AID-ESP101>3.0.CO;2-3)
 
-Burns D. A., Hooper R. P., McDonnell J. J., Freer J. E., Kendall C., Beven K., 1998: Base cation concentrations in subsurface flow from a forested hillslope: The role of flushing frequency. _Water Resources Research_, doi: unknown
+Burns D. A., Hooper R. P., McDonnell J. J., Freer J. E., Kendall C., Beven K., 1998: Base cation concentrations in subsurface flow from a forested hillslope: The role of flushing frequency. _Water Resources Research_, [doi: 10.1029/98WR02450](http://doi.org/10.1029/98WR02450)
 
 Freer J., McDonnell J., Beven K. J., Brammer D., Burns D., Hooper R. P., Kendal C., 1997: Topographic controls on subsurface storm flow at the hillslope scale for two hydrologically distinct small catchments. _Hydrological Processes_, [doi: 10.1002/(SICI)1099-1085(199707)11:9<1347::AID-HYP592>3.0.CO;2-R](http://doi.org/10.1002/(SICI)1099-1085(199707)11:9<1347::AID-HYP592>3.0.CO;2-R)
 
 Pinol J., Beven K., Freer J., 1997: Modelling the hydrological response of Mediterranean catchments Prades Catalonia. The use of distributed models as aids to hypothesis formulation. _Hydrological Processes_, [doi: 10.1002/(SICI)1099-1085(199707)11:9<1287::AID-HYP561>3.0.CO;2-W](http://doi.org/10.1002/(SICI)1099-1085(199707)11:9<1287::AID-HYP561>3.0.CO;2-W)
 
-Ambroise B., Freer J., Beven K., 1996: Application of a generalized TOPMODEL to the small Ringelbach catchment Vosges France. _Water Resources Research_, doi: unknown
+Ambroise B., Freer J., Beven K., 1996: Application of a generalized TOPMODEL to the small Ringelbach catchment Vosges France. _Water Resources Research_, [doi: 10.1029/95WR03715](http://doi.org/10.1029/95WR03715)
 
-Ambroise B., Beven K., Freer J., 1996: Toward a generalization of the TOPMODEL concepts: Topographic indices of hydrological similarity. _Water Resources Research_, doi: unknown
+Ambroise B., Beven K., Freer J., 1996: Toward a generalization of the TOPMODEL concepts: Topographic indices of hydrological similarity. _Water Resources Research_, [doi: 10.1029/95WR03716](http://doi.org/10.1029/95WR03716)
 
-Freer J., Beven K., Ambroise B., 1996: Bayesian estimation of uncertainty in runoff prediction and the value of data: An application of the GLUE approach. _Water Resources Research_, doi: unknown
+Freer J., Beven K., Ambroise B., 1996: Bayesian estimation of uncertainty in runoff prediction and the value of data: An application of the GLUE approach. _Water Resources Research_, [doi: 10.1029/95WR03723](http://doi.org/10.1029/95WR03723)
 
