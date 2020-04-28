@@ -12,7 +12,7 @@ tags:
 img: grottoMountainCropped.jpg
 thumb: fortress.jpg
 ---
-The [computational hydrology](https://uofs-comphyd.github.io/) group is now pretty much in full swing. Most of the team is assembled and engaged in continental-domain hydrological modelling and forecasting, with a focus on advancing prediction capabilities over North America.
+The [computational hydrology](https://uofs-comphyd.github.io/) group is now pretty much in full swing. Most of the [team](https://uofs-comphyd.github.io/team/) is assembled and engaged in continental-domain hydrological modelling and forecasting, with a focus on advancing prediction capabilities over North America.
 
 [Martyn Clark](https://uofs-comphyd.github.io/current_member/martyn_clark) is active in several areas of computational hydrology. His research focuses on large-domain hydrological modelling.
 
