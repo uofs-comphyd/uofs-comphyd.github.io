@@ -47,7 +47,7 @@ for case in "${cases[@]}"; do
   newline=$'\n'
   
   # save article ID
-  if [[ ${key} == "@article" || ${key} == "@incollection" ]]; then
+  if [[ ${key} == "@article" || ${key} == "@incollection" || ${key} == "@misc" || ${key} == "@phdthesis" || ${key} == "@mastersthesis" ]]; then
    i=$((i+1))
    IFS='_' read -r -a id <<< "${value%,*}"  # note "${value%,*}" removes everything after the comma
    if [[ ${#id[@]} == "4" ]]; then idTrim=${id[@]:1}; else idTrim=${id[@]:0}; fi
