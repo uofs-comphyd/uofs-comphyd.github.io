@@ -31,3 +31,9 @@ positions_held:
 
 ### Short Bio
 Guoqiang Tang is a Postdoctoral Fellow at the University of Saskatchewan at Canmore. Guoqiang's research focuses in three main areas: (i) retrieving and evaluating satellite precipitation; (ii) applying machine learning techniques in estimating and fusing hydrological research; and (iii) analyzing hydrological processes using remote sensing data. Guoqiang has authored or co-authored over 30 journal articles in leading international journals such as Remote sensing of Environment, Water Resources Research and Journal of Hydrology.
+
+### Publications
+{% include_relative pubs/tangPubs.markdown %}
+
+### Datasets
+{% include_relative pubs/tangData.markdown %}
