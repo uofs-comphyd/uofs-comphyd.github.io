@@ -1,0 +1,84 @@
+---
+layout: post
+title: 'EGU 2020 begins!'
+date: 2020-05-01 4:00PM"
+author: Shervan Gharari
+categories:
+- blog
+tags:
+- code
+- model
+- summa
+img: EGU_2019.JPG
+thumb: fortress.jpg
+--- 
+
+Last year we had a wonderful session at the [EGU 2019](https://meetingorganizer.copernicus.org/EGU2019/session/30338). As lead convener, I was working closely with my colleagues Björn, Luis, Simon and Sina to organize more than 50 abstracts and 3 oral blocks. We had thought-provoking contributions from catchment to global hydrology. From remote sensing to field observation. A wide range of expertise and opinion.
+
+This year however, things are a bit different. We are depending on a text-based system to present and convene. I was thinking to myself; "who will participate?!". But it turns out that there are much more enthusiastic scientists that I initially anticipated.
+
+This year, we move on to convene our [session](https://meetingorganizer.copernicus.org/EGU2020/session/35498) while sitting in totally different time zones. For the good memories, I keep looking at this picture from EGU 2019. Hope everyone in this picture is safe and happy. And sincerely hope to make another photo like this next year.
+
+The computational hydrology team contribution at EGU 2020:
+
+##Sessions:
+ 
+HS2.2.1\
+[Models and Data: Understanding and representing spatio-temporal dynamics of hydrological processes](https://meetingorganizer.copernicus.org/EGU2020/session/35498)\
+Convener: Björn Guse | Co-conveners: Shervan Gharari, Sina Khatami, Luis Samaniego, Simon Stisen\
+Mon, 04 May, 08:30–12:30, Chat Mon, 04 May, 14:00–15:45
+
+
+HS2.5.2\
+[Large-sample hydrology: characterising and understanding hydrological diversity](https://meetingorganizer.copernicus.org/EGU2020/session/35535)\
+Convener: Sandra Pool |  Co-conveners: Gemma Coxon, Wouter Knoben, Nicolas Vasquez, Keirnan Fowler\
+Fri, 08 May, 08:30–10:15
+
+
+HS4.6\
+[From sub-seasonal forecasting to climate projections: predicting hydrologic extremes and improving water management](https://meetingorganizer.copernicus.org/EGU2020/session/35479)\
+Co-organized by CL4\
+Convener: Christopher White | Co-conveners: Louise Arnal, Tim aus der Beek, Louise Crochemore, Andrew Schepen\
+Thu, 07 May, 10:45–12:30
+
+##Displays:
+
+[EGU2020-1850](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-1850.html) | [HS2.4.1](https://meetingorganizer.copernicus.org/EGU2020/session/35538) | Highlight\
+Spatial dependence of floods and droughts: learning from differences in regional and seasonal patterns\
+Manuela Irene Brunner, Eric Gilleland, Daniel Swain, Andy Wood, and Martyn Clark\
+Thu, 07 May, 08:30–10:15 | D61
+
+[EGU2020-4184](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-4184.html) | [HS2.2.1](https://meetingorganizer.copernicus.org/EGU2020/session/35498)\
+Process-based model evaluation of cold region hydrological processes\
+Wouter Knoben, Abbas Fayad, Vincent Vionnet, and Martyn Clark\
+Mon, 04 May, 08:30–10:15 | D172
+
+[EGU2020-6524](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-6524.html) | [HS2.5.1](https://meetingorganizer.copernicus.org/EGU2020/session/35534)\
+On the exploration of alternative spatial representation for land models; a vector-based setup for the Variable Infiltration Capacity model\
+Shervan Gharari and Martyn Clark\
+Thu, 07 May, 14:00–15:45 | D163
+
+[EGU2020-7349](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-7349.html) | [EOS7.10/HS1.2.8](https://meetingorganizer.copernicus.org/EGU2020/session/34757)\
+The emergence of community models in hydrology\
+Nans Addor, Martyn P. Clark, and Brian Henn\
+Mon, 04 May, 16:15–18:00 | D3918
+
+[EGU2020-9918](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-9918.html)| [HS7.10/NH1.12](https://meetingorganizer.copernicus.org/EGU2020/session/35560)\
+Understanding catchment influences on flood generating processes - accounting for correlated attributes\
+Lina Stein, Martyn Clark, Francesca Pianosi, Wouter Knoben, and Ross Woods\
+Tue, 05 May, 16:15–18:00 | D337
+
+[EGU2020-11943](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-11943.html) | [HS7.10/NH1.12](https://meetingorganizer.copernicus.org/EGU2020/session/35560)\
+A Global Assessment of Non-Stationarity in Extreme Precipitation\
+Razi Sheikholeslami, Simon Michael Papalexiou, and Martyn Clark\
+Tue, 05 May, 16:15–18:00 | D340
+
+[EGU2020-10219](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-10219.html) | [HS2.5.1](https://meetingorganizer.copernicus.org/EGU2020/session/35534)\
+Comparing the impact for hydrology of the new ERA5 reanalyses dataset over ERA-Interim for 8 hydrological models in 6 catchments using the eWaterCycle community modelling environment.\
+ Rolf Hut, Niels Drost, Jerom Aerts, Laurene Bouaziz, Willem van Verseveld, Bert Jagers, Fedor Baart, Edwin Sutanudjaja, Lieke Melsen, Andrew Bennett, Louise Arnal, Fabrizio Fenicia, Leonard Santos, Emiliano Gelati, Marco Dal Molin, Wouter Knoben, Shervan Gharari, Caitlyn Hall, Eric Hutton, and Nick van de Giesen and the the eWaterCycle comparison team from the Netherlands eSciencecenter.\
+ Thu, 07 May, 14:00–15:45 | D159
+
+[EGU2020-20187](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-20187.html) | [HS4.4](https://meetingorganizer.copernicus.org/EGU2020/session/35476)\
+Does the application of multiple hydrological models improve seasonal streamflow forecasting skill?\
+Bastian Klein, Ilias Pechlivanidis, Louise Arnal, Louise Crochemore, Dennis Meissner, and Barbara Frielingsdorf\
+Fri, 08 May, 10:45–12:30 | D208
