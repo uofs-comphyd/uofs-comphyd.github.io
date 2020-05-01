@@ -24,19 +24,19 @@ The computational hydrology team contribution at EGU 2020:
 Sessions:
  
 HS2.2.1\
-Models and Data: Understanding and representing spatio-temporal dynamics of hydrological processes\
+[Models and Data: Understanding and representing spatio-temporal dynamics of hydrological processes](https://meetingorganizer.copernicus.org/EGU2020/session/35498)\
 Convener: Björn Guse | Co-conveners: Shervan Gharari, Sina Khatami, Luis Samaniego, Simon Stisen\
 Mon, 04 May, 08:30–12:30, Chat Mon, 04 May, 14:00–15:45
 
 
 HS2.5.2\
-Large-sample hydrology: characterising and understanding hydrological diversity\
+[Large-sample hydrology: characterising and understanding hydrological diversity](https://meetingorganizer.copernicus.org/EGU2020/session/35535)\
 Convener: Sandra Pool |  Co-conveners: Gemma Coxon, Wouter Knoben, Nicolas Vasquez, Keirnan Fowler\
 Fri, 08 May, 08:30–10:15
 
 
 HS4.6\
-From sub-seasonal forecasting to climate projections: predicting hydrologic extremes and improving water management\
+[From sub-seasonal forecasting to climate projections: predicting hydrologic extremes and improving water management](https://meetingorganizer.copernicus.org/EGU2020/session/35479)\
 Co-organized by CL4\
 Convener: Christopher White | Co-conveners: Louise Arnal, Tim aus der Beek, Louise Crochemore, Andrew Schepen\
 Thu, 07 May, 10:45–12:30
