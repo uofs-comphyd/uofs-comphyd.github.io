@@ -13,11 +13,11 @@ img: EGU_2019.JPG
 thumb: fortress.jpg
 --- 
 
-Last year we has a wonderful session at the [EGU 2019](https://meetingorganizer.copernicus.org/EGU2019/session/30338). As lead convener, I was working closely with my colleagues Björn, Luis, Simon and Sina to organize more than 50 abstracts and 3 oral blocks. We had interesting contributions from catchment to global hydrology. From remote sensing to field observation. A good range of expertise and opinion.
+Last year we had a wonderful session at the [EGU 2019](https://meetingorganizer.copernicus.org/EGU2019/session/30338). As lead convener, I was working closely with my colleagues Björn, Luis, Simon and Sina to organize more than 50 abstracts and 3 oral blocks. We had thought-provoking contributions from catchment to global hydrology. From remote sensing to field observation. A wide range of expertise and opinion.
 
-This year however, things are a bit different. We are depending on a text-based system to present and convene. I was thinking to myself; "who will participate?!". But it turns out that there are much more enthusiastic scientists that I initially estimated.
+This year however, things are a bit different. We are depending on a text-based system to present and convene. I was thinking to myself; "who will participate?!". But it turns out that there are much more enthusiastic scientists that I initially anticipated.
 
-This year and sitting across three time zones that are spaced 8 hours, we move on to convene our [session](https://meetingorganizer.copernicus.org/EGU2020/session/35498). For the good memories, I keep looking at this picture from EGU 2019. Hope everyone in this picture is safe and happy. And sincerely hope to make another photo like this next year.
+This year, we move on to convene our [session](https://meetingorganizer.copernicus.org/EGU2020/session/35498) while sitting in totally different time zones. For the good memories, I keep looking at this picture from EGU 2019. Hope everyone in this picture is safe and happy. And sincerely hope to make another photo like this next year.
 
 The computational hydrology team contribution at EGU 2020:
 
