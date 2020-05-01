@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'EGU 2020 begins!'
-date: 2020-05-01 7:00PM"
+date: 2020-05-01 4:00PM"
 author: Shervan Gharari
 categories:
 - blog
