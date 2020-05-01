@@ -29,64 +29,56 @@ Convener: Björn Guse | Co-conveners: Shervan Gharari, Sina Khatami, Luis Samani
 Mon, 04 May, 08:30–12:30, Chat Mon, 04 May, 14:00–15:45
 
 
-HS2.5.2
-
-Large-sample hydrology: characterising and understanding hydrological diversity
-
-Convener: Sandra Pool |  Co-conveners: Gemma Coxon, Wouter Knoben, Nicolas Vasquez, Keirnan Fowler
-
+HS2.5.2\
+Large-sample hydrology: characterising and understanding hydrological diversity\
+Convener: Sandra Pool |  Co-conveners: Gemma Coxon, Wouter Knoben, Nicolas Vasquez, Keirnan Fowler\
 Fri, 08 May, 08:30–10:15
 
 
-HS4.6
-
-From sub-seasonal forecasting to climate projections: predicting hydrologic extremes and improving water management
-
-Co-organized by CL4
-
-Convener: Christopher White | Co-conveners: Louise Arnal, Tim aus der Beek, Louise Crochemore, Andrew Schepen
-
+HS4.6\
+From sub-seasonal forecasting to climate projections: predicting hydrologic extremes and improving water management\
+Co-organized by CL4\
+Convener: Christopher White | Co-conveners: Louise Arnal, Tim aus der Beek, Louise Crochemore, Andrew Schepen\
 Thu, 07 May, 10:45–12:30
 
 Displays:
 
-
-
-EGU2020-11943 | HS7.10/NH1.12
-
-A Global Assessment of Non-Stationarity in Extreme Precipitation 
-
-Razi Sheikholeslami, Simon Michael Papalexiou, and Martyn Clark
-
+EGU2020-11943 | HS7.10/NH1.12\
+A Global Assessment of Non-Stationarity in Extreme Precipitation\
+Razi Sheikholeslami, Simon Michael Papalexiou, and Martyn Clark\
 Tue, 05 May, 16:15–18:00 | D340
 
-EGU2020-9918 | HS7.10/NH1.12
-
-Understanding catchment influences on flood generating processes - accounting for correlated attributes
-
-Lina Stein, Martyn Clark, Francesca Pianosi, Wouter Knoben, and Ross Woods
-
+EGU2020-9918 | HS7.10/NH1.12\
+Understanding catchment influences on flood generating processes - accounting for correlated attributes\
+Lina Stein, Martyn Clark, Francesca Pianosi, Wouter Knoben, and Ross Woods\
 Tue, 05 May, 16:15–18:00 | D337
 
-EGU2020-6524 | HS2.5.1
-
-On the exploration of alternative spatial representation for land models; a vector-based setup for the Variable Infiltration Capacity model
-
-Shervan Gharari and Martyn Clark
-
+EGU2020-6524 | HS2.5.1\
+On the exploration of alternative spatial representation for land models; a vector-based setup for the Variable Infiltration Capacity model\
+Shervan Gharari and Martyn Clark\
 Thu, 07 May, 14:00–15:45 | D163
 
-EGU2020-4184 | Displays | HS2.2.1
-Process-based model evaluation of cold region hydrological processes
-Wouter Knoben, Abbas Fayad, Vincent Vionnet, and Martyn Clark
+EGU2020-4184 | Displays | HS2.2.1\
+Process-based model evaluation of cold region hydrological processes\
+Wouter Knoben, Abbas Fayad, Vincent Vionnet, and Martyn Clark\
 Mon, 04 May, 08:30–10:15 | D172
 
-EGU2020-1850 | Displays | HS2.4.1 | Highlight
-Spatial dependence of floods and droughts: learning from differences in regional and seasonal patterns
-Manuela Irene Brunner, Eric Gilleland, Daniel Swain, Andy Wood, and Martyn Clark
+EGU2020-1850 | HS2.4.1 | Highlight\
+Spatial dependence of floods and droughts: learning from differences in regional and seasonal patterns\
+Manuela Irene Brunner, Eric Gilleland, Daniel Swain, Andy Wood, and Martyn Clark\
 Thu, 07 May, 08:30–10:15 | D61
 
-EGU2020-7349 | Displays | EOS7.10/HS1.2.8
-The emergence of community models in hydrology
-Nans Addor, Martyn P. Clark, and Brian Henn
+EGU2020-7349 | EOS7.10/HS1.2.8\
+The emergence of community models in hydrology\
+Nans Addor, Martyn P. Clark, and Brian Henn\
 Mon, 04 May, 16:15–18:00 | D3918
+
+EGU2020-10219 | HS2.5.1\
+Comparing the impact for hydrology of the new ERA5 reanalyses dataset over ERA-Interim for 8 hydrological models in 6 catchments using the eWaterCycle community modelling environment.\
+ Rolf Hut, Niels Drost, Jerom Aerts, Laurene Bouaziz, Willem van Verseveld, Bert Jagers, Fedor Baart, Edwin Sutanudjaja, Lieke Melsen, Andrew Bennett, Louise Arnal, Fabrizio Fenicia, Leonard Santos, Emiliano Gelati, Marco Dal Molin, Wouter Knoben, Shervan Gharari, Caitlyn Hall, Eric Hutton, and Nick van de Giesen and the the eWaterCycle comparison team from the Netherlands eSciencecenter.\
+ Thu, 07 May, 14:00–15:45 | D159
+
+EGU2020-20187 | Displays | HS4.4\
+Does the application of multiple hydrological models improve seasonal streamflow forecasting skill?\
+Bastian Klein, Ilias Pechlivanidis, Louise Arnal, Louise Crochemore, Dennis Meissner, and Barbara Frielingsdorf\
+Fri, 08 May, 10:45–12:30 | D208
