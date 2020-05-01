@@ -24,16 +24,24 @@ The computational hydrology team contribution at EGU 2020:
 Sessions:
  
 HS2.2.1
+
 Models and Data: Understanding and representing spatio-temporal dynamics of hydrological processes
+
 Convener: Björn Guse | Co-conveners: Shervan Gharari, Sina Khatami, Luis Samaniego, Simon Stisen
+
 Mon, 04 May, 08:30–12:30, Chat Mon, 04 May, 14:00–15:45
- 
+
+
 HS2.5.2
+
 Large-sample hydrology: characterising and understanding hydrological diversity
+
 Convener: Sandra Pool |  Co-conveners: Gemma Coxon, Wouter Knoben, Nicolas Vasquez, Keirnan Fowler
+
 Fri, 08 May, 08:30–10:15
 
-HS4.6
+
+HS4.6 /n
 From sub-seasonal forecasting to climate projections: predicting hydrologic extremes and improving water management
 Co-organized by CL4
 Convener: Christopher White | Co-conveners: Louise Arnal, Tim aus der Beek, Louise Crochemore, Andrew Schepen
