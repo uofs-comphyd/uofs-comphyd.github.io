@@ -41,27 +41,40 @@ Convener: Sandra Pool |  Co-conveners: Gemma Coxon, Wouter Knoben, Nicolas Vasqu
 Fri, 08 May, 08:30–10:15
 
 
-HS4.6 /n
+HS4.6
+
 From sub-seasonal forecasting to climate projections: predicting hydrologic extremes and improving water management
+
 Co-organized by CL4
+
 Convener: Christopher White | Co-conveners: Louise Arnal, Tim aus der Beek, Louise Crochemore, Andrew Schepen
+
 Thu, 07 May, 10:45–12:30
 
 Displays:
 
-EGU2020-11943 HS7.10/NH1.12
+EGU2020-11943 | HS7.10/NH1.12
+
 A Global Assessment of Non-Stationarity in Extreme Precipitation 
+
 Razi Sheikholeslami, Simon Michael Papalexiou, and Martyn Clark
+
 Tue, 05 May, 16:15–18:00 | D340
 
-EGU2020-9918 | Displays | HS7.10/NH1.12
+EGU2020-9918 | HS7.10/NH1.12
+
 Understanding catchment influences on flood generating processes - accounting for correlated attributes
+
 Lina Stein, Martyn Clark, Francesca Pianosi, Wouter Knoben, and Ross Woods
+
 Tue, 05 May, 16:15–18:00 | D337
 
-EGU2020-6524 | Displays | HS2.5.1
+EGU2020-6524 | HS2.5.1
+
 On the exploration of alternative spatial representation for land models; a vector-based setup for the Variable Infiltration Capacity model
+
 Shervan Gharari and Martyn Clark
+
 Thu, 07 May, 14:00–15:45 | D163
 
 EGU2020-4184 | Displays | HS2.2.1
