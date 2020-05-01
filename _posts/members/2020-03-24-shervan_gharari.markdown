@@ -2,12 +2,12 @@
 layout: member
 title: Dr. Shervan Gharari
 name: Dr. Shervan Gharari
-date: 1981-01-01 # don't change - this is used for sorting only
+date: 1980-02-01 # don't change - this is used for sorting only
 author: Shervan Gharari
 categories:
 - current_member
 img: Shervan_forWeb.jpg
-position: Research Associate 
+position: Research Associate, Centre for Hydrology, Univ. Saskatchewan 
 social:
 - title: envelope #use for email address
   url: "mailto:shervan.gharari@usask.ca"
@@ -40,3 +40,6 @@ positions_held:
 
 ### Short Bio
 Shervan is a Research Associate at the University of Saskatchewan, School of Geography and Planning. Shervan’s research focuses in four main areas: (i) Understanding models and their interaction/complexity with in hand hydrological knowledge; (ii) model fidelity and realism from hillslope to continental scale; (iii) Improvement of continental scale modeling and inclusion of often neglected human impacts on hydrological cycle; and (iv) application of information theory in earth system models. Shervan has published his work in top-tier journals, including Water Resources Research, Hydrology and Earth System Science, and Journal of Hydrology.
+
+### Publications
+{% include_relative pubs/gharariPubs.markdown %}
