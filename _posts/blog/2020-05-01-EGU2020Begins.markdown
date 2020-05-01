@@ -11,7 +11,7 @@ tags:
 - summa
 img: grottoMountainCropped.jpg
 thumb: fortress.jpg
----
+--- 
 
 Last year we has a wonderful session at the [EGU 2019](https://meetingorganizer.copernicus.org/EGU2019/session/30338). As lead convener, I was working closely with my colleagues Björn, Luis, Simon and Sina to organize more than 50 abstracts and 3 oral blocks. We have interesting contributions from catchment to global hydrology. From remote sensing to field observation. A good range of expertise and opinion.
 
