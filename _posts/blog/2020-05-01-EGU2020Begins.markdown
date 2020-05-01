@@ -23,12 +23,9 @@ The computational hydrology team contribution at EGU 2020:
 
 Sessions:
  
-HS2.2.1
-
-Models and Data: Understanding and representing spatio-temporal dynamics of hydrological processes
-
-Convener: Björn Guse | Co-conveners: Shervan Gharari, Sina Khatami, Luis Samaniego, Simon Stisen
-
+HS2.2.1\
+Models and Data: Understanding and representing spatio-temporal dynamics of hydrological processes\
+Convener: Björn Guse | Co-conveners: Shervan Gharari, Sina Khatami, Luis Samaniego, Simon Stisen\
 Mon, 04 May, 08:30–12:30, Chat Mon, 04 May, 14:00–15:45
 
 
