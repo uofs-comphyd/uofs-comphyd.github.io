@@ -19,7 +19,7 @@ This year, we move on to convene our [session](https://meetingorganizer.copernic
 
 The computational hydrology team contribution at EGU 2020:
 
-## Sessions:
+### Sessions:
  
 HS2.2.1 \
 [Models and Data: Understanding and representing spatio-temporal dynamics of hydrological processes](https://meetingorganizer.copernicus.org/EGU2020/session/35498) \
@@ -39,7 +39,7 @@ Co-organized by CL4 \
 Convener: Christopher White | Co-conveners: Louise Arnal, Tim aus der Beek, Louise Crochemore, Andrew Schepen \
 Thu, 07 May, 10:45–12:30
 
-## Displays:
+### Displays:
 
 [EGU2020-1850](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-1850.html) | [HS2.4.1](https://meetingorganizer.copernicus.org/EGU2020/session/35538) | Highlight \
 Spatial dependence of floods and droughts: learning from differences in regional and seasonal patterns \
