@@ -10,7 +10,7 @@ tags:
 - model
 - summa
 img: grottoMountainCropped.jpg
-thumb: grottoHannah.jpg
+thumb: grottoMountainCropped.jpg
 ---
 The [computational hydrology](https://uofs-comphyd.github.io/) group is now pretty much in full swing. Most of the [team](https://uofs-comphyd.github.io/team/) is assembled and engaged in continental-domain hydrological modelling and forecasting, with a focus on advancing prediction capabilities over North America.
 
