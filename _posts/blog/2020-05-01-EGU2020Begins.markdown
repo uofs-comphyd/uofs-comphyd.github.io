@@ -48,6 +48,11 @@ Spatial dependence of floods and droughts: learning from differences in regional
 Manuela Irene Brunner, Eric Gilleland, Daniel Swain, Andy Wood, and Martyn Clark  
 Thu, 07 May, 08:30–10:15 | D61
 
+[EGU2020-3018](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-3018.html) | [HS2.2.1](https://meetingorganizer.copernicus.org/EGU2020/session/35498)  
+Evidence-based conceptual requirements of regional groundwater processes for hydrological simulations  
+Louisa Oldham, Jim Freer, Gemma Coxon, Nicholas Howden, John Bloomfield, and Christopher Jackson
+Mon, 04 May, 10:45–12:30 | D189
+
 [EGU2020-4184](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-4184.html) | [HS2.2.1](https://meetingorganizer.copernicus.org/EGU2020/session/35498)  
 Process-based model evaluation of cold region hydrological processes  
 Wouter Knoben, Abbas Fayad, Vincent Vionnet, and Martyn Clark  
@@ -62,6 +67,11 @@ Thu, 07 May, 14:00–15:45 | D163
 The emergence of community models in hydrology  
 Nans Addor, Martyn P. Clark, and Brian Henn  
 Mon, 04 May, 16:15–18:00 | D3918
+
+[EGU2020-9619](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-9619.html) | [NH1.5](https://meetingorganizer.copernicus.org/EGU2020/session/34902) 
+Monitoring the efficacy of Natural Flood Management structures on flow attenuation and flood risk reduction  
+Tamsin Lockwood, Jim Freer, Katerina Michaelides, Gemma Coxon, Tom Richardson, Richard Brazier, Ben Thorne, and Louise Webb
+Mon, 04 May, 14:00–15:45 | D1911
 
 [EGU2020-9918](https://meetingorganizer.copernicus.org/EGU2020/EGU2020-9918.html)| [HS7.10/NH1.12](https://meetingorganizer.copernicus.org/EGU2020/session/35560)  
 Understanding catchment influences on flood generating processes - accounting for correlated attributes  
