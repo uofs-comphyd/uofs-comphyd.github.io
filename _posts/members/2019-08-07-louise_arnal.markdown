@@ -40,3 +40,6 @@ positions_held:
 
 ### Short Bio
 Louise is a Postdoctoral Fellow with Global Water Futures at the University of Saskatchewan in Canmore. Her research focuses on advancing the science and practice of ensemble hydrological forecasting. She has published her work in leading international journals, including Hydrology and Earth System Sciences, Geoscience Communication and Journal of Hydrometeorology. Louise is also an editor and active member of the HEPEX global community in hydrological ensemble prediction. As an artist and scientist, Louise aims to further science engagement through the fusion of science and art.
+
+### Publications
+{% include_relative pubs/arnalPubs.markdown %}
