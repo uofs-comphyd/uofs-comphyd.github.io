@@ -10,7 +10,7 @@ img: freer_forWeb.jpg
 position: Visiting Professor, Centre for Hydrology, Coldwater Laboratory
 social:
 - title: envelope #use for email address
-  url: "mailto:jim.freer@bristol.ac.uk"
+  url: "mailto:jim.freer@usask.ca"
 education:
 - school: Lancaster University
   location: Lancaster, United Kingdom
