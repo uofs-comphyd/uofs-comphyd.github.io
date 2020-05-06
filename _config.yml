@@ -28,11 +28,11 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 online:
   - title: github
-    url: https://github.com/martynpclark
+    url: https://github.com/CH-Earth
   # - title: facebook
   #   url: https://github.com/uofs-comphyd
-  # - title: twitter
-  #   url:
+  - title: twitter
+    url: https://twitter.com/CompHyd_Earth
   # - title: instagram
   #   url:
   # - title: tumblr
