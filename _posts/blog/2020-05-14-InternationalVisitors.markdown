@@ -8,7 +8,7 @@ categories:
 tags:
 - visitors
 - outreach
-img: athabasca.JPG
+img: athabasca.jpg
 thumb: athabasca.jpg
 --- 
 
