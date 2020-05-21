@@ -2,12 +2,12 @@
 layout: member
 title: Dr. Reza Zolfaghari
 name: Dr. Reza Zolfaghari
-date: 1981-01-01 # don't change - this is used for sorting only
+date: 1980-06-01 # don't change - this is used for sorting only
 author: Reza Zolfaghari
 categories:
 - current_member
 img: reza_photo2020.jpg
-position: Postdoctoral Fellow
+position: Postdoctoral Fellow, Dept. Computer Sci., Univ. Saskatchewan
 social:
 - title: envelope #use for email address
   url: "mailto:rez299@usask.ca"
