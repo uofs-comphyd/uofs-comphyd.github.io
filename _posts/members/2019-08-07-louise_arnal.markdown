@@ -45,4 +45,5 @@ Louise is a Postdoctoral Fellow with Global Water Futures at the University of S
 {% include_relative pubs/arnalPubs.markdown %}
 
 ### Science Engagement
-[comment]: # ({% include_relative pubs/arnalScienceEngagement.markdown %})
+{% include_relative pubs/arnalScienceEngagement.markdown %}
+
