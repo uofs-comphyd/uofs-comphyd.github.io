@@ -1,4 +1,4 @@
----
+﻿---
 layout: member
 title: Dr. Louise Arnal
 name: Dr. Louise Arnal
@@ -43,6 +43,3 @@ Louise is a Postdoctoral Fellow with Global Water Futures at the University of S
 
 ### Publications
 {% include_relative pubs/arnalPubs.markdown %}
-
-### Science Engagement
-{% include_relative pubs/arnalScienceEngagement.markdown %}
