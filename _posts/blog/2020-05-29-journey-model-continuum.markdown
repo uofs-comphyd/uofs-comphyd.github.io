@@ -13,7 +13,7 @@ img: grottoMountainCropped.jpg
 thumb: grottoMountainCropped.jpg
 ---
 
-<font size="5"> **Prologue.** </font>  Process-based hydrological models can be roughly divided into two (ill-named and overlapping) categories (e.g., see [Hrachowitz and Clark, 2017]( https://www.hydrol-earth-syst-sci.net/21/3953/2017/)): 
+<font size="7"> **Prologue.** </font>  Process-based hydrological models can be roughly divided into two (ill-named and overlapping) categories (e.g., see [Hrachowitz and Clark, 2017]( https://www.hydrol-earth-syst-sci.net/21/3953/2017/)): 
 1. “Bucket-style” models; also referred to as “conceptual” models, provide a macroscale description of the hydrological system (e.g., lumped models for an entire catchment), and use relatively simple process parameterizations to describe the large-scale manifestation of small-scale heterogeneities; 
 2. “Physically-based” models; which provide a mechanistic description of the dominant processes in the heterogeneous soil column and at the land–vegetation–atmosphere interface, consistent with our understanding of the forces acting on and controlling the release of water, energy and solutes from the control volumes under consideration. To varying degrees, the so-called physically-based models provide spatially explicit representations of natural heterogeneity within the model domain. 
 
