@@ -9,8 +9,8 @@ tags:
 - code
 - model
 - workflow
-img: grottoMountainCropped.jpg
-thumb: grottoMountainCropped.jpg
+img: Canadian_Rockeis_Shervan.jpg
+thumb: Canadian_Rockeis_Shervan.jpg
 ---
 
 **Prologue.**  Process-based hydrological models can be roughly divided into two (ill-named and overlapping) categories (e.g., see [Hrachowitz and Clark, 2017]( https://www.hydrol-earth-syst-sci.net/21/3953/2017/)): 
