@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A journey along the continuum of model complexity'
-date: 2020-04-29 6:00AM"
+date: 2020-05-29 6:00AM"
 author: Shervan Gharari and Wouter Knoben
 categories:
 - blog
@@ -9,8 +9,8 @@ tags:
 - code
 - model
 - workflow
-img: Canadian_Rockeis_Shervan.jpg
-thumb: Canadian_Rockeis_Shervan.jpg
+img: viewFromTheSunnySide.jpg 
+thumb: viewFromTheSunnySide.jpg
 ---
 
 **Prologue.**  Process-based hydrological models can be roughly divided into two (ill-named and overlapping) categories (e.g., see [Hrachowitz and Clark, 2017]( https://www.hydrol-earth-syst-sci.net/21/3953/2017/)): 
