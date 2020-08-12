@@ -19,8 +19,8 @@ I created this piece with monoprints. I first drew the contours of the Earth on 
 
 The uniqueness and yet the similarity of every piece is what makes this technique very appealing to me. Even if the starting design is the same, ever so slightly different quantities and shades of the paint applied combine to create uniquely similar outputs. The amount of pressure applied when transferring the paint onto the white page can also give different textures (see for example the wave-like textures on the oceans on the bottom photo, bottom right piece). This uncertain process echoes beautifully with the idea of chaos in forecasting (read one of my previous blog posts, [Chaos experiment](https://sciartfloods.wordpress.com/2018/10/08/chaos-experiment/), to find out more).
 
-![](artistic_process_1.png)
-![](artistic_process_2.jpg)
+![](../../assets/img/artistic_process_1.png)
+![](../../assets/img/artistic_process_2.jpg)
 
 ### The science behind this piece
 
@@ -28,18 +28,20 @@ The resulting piece, a series of four prints, explores the way in which mathemat
 
 So, more concretely, what are some examples of processes for which the interactions between the atmosphere-land-ocean are important?
 
-**Tropical cyclones**
+#### Tropical cyclones
+
 Tropical cyclones illustrate this very well. Tropical cyclones get most of their energy from the heat transported from the ocean into the atmosphere. They need ocean temperatures of at least 27°C (compared to a global average of ~16°C) to a depth of ~50m. If the depth of warm water is too shallow, the amount of energy released into the atmosphere may decrease and the tropical cyclone may weaken quite quickly (read Rebecca Emerton’s blog post [Natural Hazards: Hurricanes, Typhoons & Cyclones](https://rebeccaemertonphd.wordpress.com/2018/07/23/natural-hazards-hurricanes-typhoons-cyclones/) to find out more about tropical cyclones or the ECMWF blog post [How to couple the ocean, sea ice and the atmosphere in forecasts](https://www.ecmwf.int/en/about/media-centre/news/2018/how-couple-ocean-sea-ice-and-atmosphere-forecasts) by Kristian Mogensen to find out more about coupled forecasting). Artist and philosopher Renate Quehenberger recently collaborated with Kristian Mogensen, myself, and scientists from the the European Commission’s JRC to create the SciArt project [GAIA 5.0](https://www.ecmwf.int/en/newsletter/162/news/gaia-50-science-art-project-using-ecmwf-data). Its centrepiece is a 3D virtual reality installation showing the development of 2 tropical cyclones in 2018, based on ECMWF data.
 
-**The water cycle**
+#### The water cycle
 The water cycle is another very good example of these interactive processes. The entire water cycle is based on a series of interactions between the atmosphere-land-ocean. For example, how much water evaporates from the oceans will influence how much rain will fall on the land and how much water will flow through the nearby rivers (too much? too little?). Working with uncoupled models you may lose valuable information about these interactions, which in turn might impact the quality of your weather and river flow forecasts. For my work on forecasting river flow on seasonal timescales (for the next several months), making sure the atmosphere, land surface and ocean “talk to one another” is very important as a lot of the slow influential factors live at the boundaries between these components. A good example of such factors is the El Niño events, a warming of the surface waters in the Pacific Ocean which can cause floods or droughts months after and kms away! (find out more in Rebecca Emerton’s post [What is El Niño? (And can it really impact coffee & chocolate prices?)](https://rebeccaemertonphd.wordpress.com/2018/06/25/what-is-el-nino-and-does-it-really-impact-coffee-and-chocolate-prices/) and in this [NASA Earth Observatory post](https://earthobservatory.nasa.gov/features/ElNino)). You’re probably asking yourself: what about processes on even longer timescales, like climate change? You’re exactly right!
 
-**Climate change**
+#### Climate change
+
 Climate models describe atmosphere-land-ocean physical processes to help us understand how the climate is changing. But biological and chemical processes also have an impact on the Earth’s climate. For example: plants and industries change levels of CO2 (and other greenhouse gases) in the atmosphere, ocean currents determine the nutrients available to phytoplankton, and temperature and rainfall shape life on land (droughts affect plant cover, which may in turn dampen or exacerbate the drought). Models that represent a broad range of interactions are called Earth system models (ESM; read this [Nature Education article](https://www.nature.com/scitable/knowledge/library/studying-and-projecting-climate-change-with-earth-103087065/) to find out more).
 
 Randall et al.’s 2018 article, [100 Years of Earth System Model Development](https://journals.ametsoc.org/mono/article/doi/10.1175/AMSMONOGRAPHS-D-18-0018.1/274/100-Years-of-Earth-System-Model-Development), provides a great overview of the birth and evolution of ESM.
 
-![](a_modellers_perspective_piece.JPG)
+![](../../assets/img/a_modellers_perspective_piece.JPG)
 
 ### In conclusion?
 
