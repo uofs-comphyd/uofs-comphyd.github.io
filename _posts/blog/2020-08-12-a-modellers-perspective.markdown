@@ -19,8 +19,8 @@ I created this piece with monoprints. I first drew the contours of the Earth on 
 
 The uniqueness and yet the similarity of every piece is what makes this technique very appealing to me. Even if the starting design is the same, ever so slightly different quantities and shades of the paint applied combine to create uniquely similar outputs. The amount of pressure applied when transferring the paint onto the white page can also give different textures (see for example the wave-like textures on the oceans on the bottom photo, bottom right piece). This uncertain process echoes beautifully with the idea of chaos in forecasting (read one of my previous blog posts, [Chaos experiment](https://sciartfloods.wordpress.com/2018/10/08/chaos-experiment/), to find out more).
 
-![](/Users/lla068/Documents/GitHub/uofs-comphyd.github.io/assets/img/artistic_process_1.png)
-![](/Users/lla068/Documents/GitHub/uofs-comphyd.github.io/assets/img/artistic_process_2.jpg)
+![](artistic_process_1.png)
+![](artistic_process_2.jpg)
 
 ### The science behind this piece
 
@@ -39,7 +39,7 @@ Climate models describe atmosphere-land-ocean physical processes to help us unde
 
 Randall et al.’s 2018 article, [100 Years of Earth System Model Development](https://journals.ametsoc.org/mono/article/doi/10.1175/AMSMONOGRAPHS-D-18-0018.1/274/100-Years-of-Earth-System-Model-Development), provides a great overview of the birth and evolution of ESM.
 
-![](/Users/lla068/Documents/GitHub/uofs-comphyd.github.io/assets/img/a_modellers_perspective_piece.JPG)
+![](a_modellers_perspective_piece.JPG)
 
 ### In conclusion?
 
