@@ -40,7 +40,7 @@ Gaby is a visiting PhD candidate at the University of Saskatchewan at Canmore. H
 {% include_relative pubs/grundemannPubs.markdown %}
 
 ### Datasets
-{% include_relative pubs/grundemannData.markdown %}
+#{% include_relative pubs/grundemannData.markdown %}
 
 ### Code
-{% include_relative pubs/grundemannCode.markdown %}
+#{% include_relative pubs/grundemannCode.markdown %}
