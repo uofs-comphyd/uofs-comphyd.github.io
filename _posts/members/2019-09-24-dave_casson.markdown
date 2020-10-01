@@ -2,7 +2,7 @@
 layout: member
 title: Dave Casson, P.Eng., M.Sc.
 name: Dave Casson
-date: 1985-12-02 # don't change - this is used for sorting only
+date: 1990-04-15 # don't change - this is used for sorting only
 author: Dave Casson
 categories:
 - current_member
@@ -34,6 +34,4 @@ positions_held:
 Dave is a PhD Candidate at the University of Saskatchewan at Canmore and a Researcher / Advisor at Deltares. Dave’s research focuses on improving streamflow predictions through improved snowpack modelling and data assimilation. Dave builds operational hydrological forecasting and Flood Early Warning Systems. He has published his work in the leading international journal Hydrology and Earth System Sciences.
 
 ### Publications
-#{% include_relative pubs/cassonPubs.markdown %}
-
-
+{% include_relative pubs/cassonPubs.markdown %}

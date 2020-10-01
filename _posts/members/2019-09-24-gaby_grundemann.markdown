@@ -2,7 +2,7 @@
 layout: member
 title: Gaby Gründemann
 name: Gaby Gründemann, MSc
-date: 1980-04-01 # don't change - this is used for sorting only
+date: 1991-04-01 # don't change - this is used for sorting only
 author: Gaby Gründemann
 categories:
 - current_member
@@ -38,9 +38,3 @@ Gaby is a visiting PhD candidate at the University of Saskatchewan at Canmore. H
 
 ### Publications
 {% include_relative pubs/grundemannPubs.markdown %}
-
-### Datasets
-#{% include_relative pubs/grundemannData.markdown %}
-
-### Code
-#{% include_relative pubs/grundemannCode.markdown %}
