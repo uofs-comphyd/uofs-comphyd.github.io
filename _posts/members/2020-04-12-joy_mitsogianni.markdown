@@ -2,7 +2,7 @@
 layout: member
 title: Joy Mitsogianni
 name: Joy Mitsogianni
-date: 1980-07-01 # don't change - this is used for sorting only
+date: 1980-02-20 # don't change - this is used for sorting only
 author: Joy Mitsogianni
 categories:
 - current_member
@@ -32,14 +32,14 @@ positions_held:
   employer: Centre for Hydrology, University of Saskatchewan
   location: Saskatoon, Saskatchewan, CANADA
   period: 2019-present
-- position: Member Advisor
-  employer: Affinity Credit Union
-  location: Saskatoon, Saskatchewan, CANADA
-  period: 2018-present
 - position: Translator (English to Greek & Greek to English)
   employer: Saskatoon Open Door Society
   location: Saskatoon, Saskatchewan, CANADA
   period: 2018-present
+- position: Member Advisor
+  employer: Affinity Credit Union
+  location: Saskatoon, Saskatchewan, CANADA
+  period: 2018-2020
 ---
 
 ### Short Bio
