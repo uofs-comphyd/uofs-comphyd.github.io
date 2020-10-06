@@ -1,0 +1,3 @@
+﻿Beck, H.E., Westra, S., Tan, J., Pappenberger, F., Huffman, G.J., McVicar, T.R., Gründemann, G.J., Vergopolan, N., Fowler, H.J., Lewis, E., Verbist, K., Wood, E.F., 2020: PPDIST, global 0.1° daily and 3-hourly precipitation probability distribution climatologies for 1979–2018, _Nature Scientific Data_, [doi: 10.1038/s41597-020-00631-x](https://doi.org/10.1038/s41597-020-00631-x)
+
+Gründemann, G.J., Werner, M., Veldkamp, T.I.E.,2018: The potential of global reanalysis datasets in identifying flood events in Southern Africa. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-22-4667-2018](https://doi.org/10.5194/hess-22-4667-2018)
