@@ -13,7 +13,7 @@ social:
   url: "mailto:hongli.liu@usask.ca"
 education:
 - school: University of Waterloo
-  location: Waterloo, ON, Canada
+  location: Waterloo, Ontario, Canada
   program: Civil Engineering
   degree: PhD
   year: 2019
@@ -39,7 +39,7 @@ positions_held:
 ---
 
 ### Short Bio
-Hongli Liu is a Postdoctoral Fellow at the University of Saskatchewan at Canmore. Her research focuses on large-scale parameter estimation. 
+Hongli Liu is a Postdoctoral Fellow at the University of Saskatchewan at Canmore. Her research focuses on large-scale parameter estimation, geospatial intelligence, and uncertainty analysis in hydrologic modeling. 
 
 ### Publications
 {% include_relative pubs/hongliPubs.markdown %}
