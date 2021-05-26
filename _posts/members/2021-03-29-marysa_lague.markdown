@@ -38,7 +38,7 @@ positions_held:
   location: Canmore, Alberta, Canada
   period: 2021-present
 - position: James. S. McDonnell Foundation Postdoctoral Fellow in Dynamic and Multiscale Systems
-  employer: University of Saskatchewan
+  employer: University of California, Berkeley
   location: Berkeley, California, USA
   period: 2019-2020
 ---

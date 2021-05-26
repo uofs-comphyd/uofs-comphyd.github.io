@@ -1,5 +1,5 @@
 
-M. M. Laguë, A. L. S. Swann, William R. Boos, 2021: Radiative feedbacks on land surface change and associated tropical precipitation shifts. _In Revision, Journal of Climate_, [EarthArXiv PrePrint](https://eartharxiv.org/repository/view/1827/)
+M. M. Laguë, A. L. S. Swann, William R. Boos, 2021: Radiative feedbacks on land surface change and associated tropical precipitation shifts. _In Press, Journal of Climate_, [EarthArXiv PrePrint](https://eartharxiv.org/repository/view/1827/)
 
 M. M. Laguë, M. Pietschnig, S. Ragen, T. Smith, D. S. Battisti, 2021: Terrestrial evaporation and global climate: lessons from Northland, a planet with a hemispheric continent. _Journal of Climate_, [doi: 10.1175/JCLI-D-20-0452.1](http://doi.org/10.1175/JCLI-D-20-0452.1)
 
