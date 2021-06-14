@@ -2,7 +2,7 @@
 layout: member
 title: Janine Hay
 name: Janine Hay
-date: 1980-03-01 # don't change - this is used for sorting only
+date: 1991-03-01 # don't change - this is used for sorting only
 author: Janine Hay
 categories:
 - current_member
@@ -31,8 +31,3 @@ positions_held:
 ### Short Bio
 Janine is a Masters Student at the University of Saskatchewan in Canmore. Her research focuses on glacier modeling and in particular understanding glacier evolution using numerical simulations of the glacier flow. The focus is on improving the Shallow Ice Approximation to address mass conservation issues found with the current solving method.
 
-### Publications
-{}
-
-### Science Engagement
-{}
