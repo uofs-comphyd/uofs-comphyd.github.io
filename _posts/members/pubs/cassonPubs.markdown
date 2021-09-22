@@ -1,0 +1,1 @@
+﻿Casson, D.R., Werner, M., Weerts, A. and Solomatine, D., 2018: Global re-analysis datasets to improve hydrological assessment and snow water equivalent estimation in a sub-Arctic watershed. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-22-4685-2018](https://doi.org/10.5194/hess-22-4685-2018)
