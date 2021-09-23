@@ -130,15 +130,13 @@ for case in "${cases[@]}"; do
 
   # format the reference
   ref="${authorList}, ${year[${index[0]}]}: ${title[${index[0]}]}. ${journalName} "
-  
+
   # currently still list papers even if the doi is unknown
   if [[ ${doi[${index[0]}]} != "unknown" ]]; then
    doi="[doi: ${doi[${index[0]}]}](http://doi.org/${doi[${index[0]}]})"
   else
    doi="doi: unknown"
   fi
-  
-  echo ${journal[${index[0]}]}
 
   # print in the markdown format
   #if [[ ${journal[${index[0]}]} != "unknown" && ${doi[${index[0]}]} != "unknown" ]]; then
