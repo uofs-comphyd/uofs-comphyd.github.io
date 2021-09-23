@@ -7,7 +7,7 @@ author: Louise Arnal
 categories:
 - current_member
 img: louise_forWeb.jpg
-position: Postdoctoral Fellow, Centre for Hydrology, Coldwater Laboratory 
+position: Postdoctoral Fellow, Centre for Hydrology, Coldwater Laboratory
 social:
 - title: envelope #use for email address
   url: "mailto:louise.arnal@usask.ca"
@@ -39,7 +39,7 @@ positions_held:
 ---
 
 ### Short Bio
-Louise is a Postdoctoral Fellow with Global Water Futures at the University of Saskatchewan in Canmore. Her research focuses on advancing the science and practice of ensemble hydrological forecasting. She has published her work in leading international journals, including Hydrology and Earth System Sciences, Geoscience Communication and Journal of Hydrometeorology. As an artist and scientist, Louise aims to further science engagement through the fusion of science and art. Louise is an active member of the [HEPEX](https://hepex.inrae.fr) global community in hydrological ensemble prediction and a co-curator of the [ConciliARTe](https://www.consilience-journal.com/conciliarte) science and art space.
+Louise is a Postdoctoral Fellow with Global Water Futures at the University of Saskatchewan in Canmore. Her research focuses on advancing the science and practice of ensemble hydrological forecasting. She has published her work in leading international journals, including Hydrology and Earth System Sciences, Geoscience Communication and Journal of Hydrometeorology. As an artist and scientist, Louise aims to further science engagement through the fusion of science and art. She is the lead curator of the [Virtual Water Gallery](https://www.virtualwatergallery.ca) science and art project. Louise is also a co-editor of [ConciliARTe](https://www.consilience-journal.com/conciliarte), as part of the Consilience science and poetry journal, an active member of the [HEPEX](https://hepex.inrae.fr) global community in hydrological ensemble prediction and an Associate Editor of [Geoscience Communication](https://www.geoscience-communication.net).
 
 ### Publications
 {% include_relative pubs/arnalPubs.markdown %}
