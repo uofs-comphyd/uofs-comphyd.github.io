@@ -97,6 +97,9 @@ for case in "${cases[@]}"; do
  # * sort the data and write in markdown format...
  # -----------------------------------------------
 
+# echo ${merged[*]}
+# echo ${websiteFile}
+
  # sort the IDs
  IFS=$'\n' sortedIds=($(sort -k4r -k2 <<<"${merged[*]}"))
  unset IFS
@@ -108,6 +111,11 @@ for case in "${cases[@]}"; do
 
  # loop through references
  for id in "${sortedIds[@]}"; do
+ 
+  #echo $author
+  #echo $journal
+  #echo $doi
+  
 
   # get the sorted index for a given reference
   IFS=$'\t' read -r -a index <<< "${id}"
@@ -130,6 +138,8 @@ for case in "${cases[@]}"; do
 
   # format the reference
   ref="${authorList}, ${year[${index[0]}]}: ${title[${index[0]}]}. ${journalName} "
+  
+  #echo $ref
 
   # currently still list papers even if the doi is unknown
   if [[ ${doi[${index[0]}]} != "unknown" ]]; then
@@ -137,10 +147,12 @@ for case in "${cases[@]}"; do
   else
    doi="doi: unknown"
   fi
+  
+  echo ${journal[${index[0]}]}
 
   # print in the markdown format
   #if [[ ${journal[${index[0]}]} != "unknown" && ${doi[${index[0]}]} != "unknown" ]]; then
-  if [[ ${journal[${index[0]}]} != "unknown" ]]; then
+  if [[ ${journal[${index[0]}]} != "unknown" || "${case}" == "Code" || "${case}" == "Data" ]]; then
    printf '%s\n\n' "${ref}${doi}"
   fi
 
