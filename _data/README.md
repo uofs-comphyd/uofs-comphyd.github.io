@@ -32,7 +32,7 @@ The workflow is as follows:
 ```
 where ### Publications is simply the heading for the publications.
 
-You can extend this workflow to also use publications for code and data. Here you repeat steps 1-2 above, but creating files `xxxxxData.bib` and `xxxxxData.bib`.
+You can extend this workflow to also use publications for code and data. Here you repeat steps 1-2 above, but creating files `xxxxxCode.bib` and `xxxxxData.bib`.
 The extra lines in your bio file should then look like:
 ```
 ### Publications

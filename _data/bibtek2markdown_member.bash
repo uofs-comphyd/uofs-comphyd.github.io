@@ -140,7 +140,7 @@ for case in "${cases[@]}"; do
 
   # print in the markdown format
   #if [[ ${journal[${index[0]}]} != "unknown" && ${doi[${index[0]}]} != "unknown" ]]; then
-  if [[ ${journal[${index[0]}]} != "unknown" ]]; then
+  if [[ ${journal[${index[0]}]} != "unknown" || "${case}" == "Code" || "${case}" == "Data" ]]; then
    printf '%s\n\n' "${ref}${doi}"
   fi
 
