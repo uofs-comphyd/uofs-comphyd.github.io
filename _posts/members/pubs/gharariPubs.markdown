@@ -1,5 +1,7 @@
 Clark Martyn P., Vogel Richard M., Lamontagne Jonathan R., Mizukami Naoki, Knoben Wouter J. M., Tang Guoqiang, Gharari Shervan, Freer Jim E., Whitfield Paul H., Shook Kevin R., Papalexiou Simon Michael, 2021: The Abuse of Popular Performance Metrics in Hydrologic Modeling. _Water Resources Research_, [doi: 10.1029/2020WR029001](http://doi.org/10.1029/2020WR029001)
 
+Gharari Shervan, Gupta Hoshin V., Clark Martyn P., Hrachowitz Markus, Fenicia Fabrizio, Matgen Patrick, Savenije Hubert H. G., 2021: Understanding the Information Content in the Hierarchy of Model Development Decisions: Learning From Data. _Water Resources Research_, [doi: 10.1029/2020WR027948](http://doi.org/10.1029/2020WR027948)
+
 Khoshnoodmotlagh Sajad, Daneshi Alireza, Gharari Shervan, Verrelst Jochem, Mirzaei Mohsen, Omrani Hossien, 2021: Urban morphology detection and it's linking with land surface temperature: A case study for Tehran Metropolis Iran. _Sustainable Cities and Society_, [doi: 10.1016/j.scs.2021.103228](http://doi.org/10.1016/j.scs.2021.103228)
 
 Mizukami Naoki, Clark Martyn P., Gharari Shervan, Kluzek Erik, Pan Ming, Lin Peirong, Beck Hylke E., Yamazaki Dai, 2021: A Vector-Based River Routing Model for Earth System Models: Parallelization and Global Applications. _Journal of Advances in Modeling Earth Systems_, [doi: 10.1029/2020MS002434](http://doi.org/10.1029/2020MS002434)
