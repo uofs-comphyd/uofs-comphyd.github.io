@@ -11,7 +11,7 @@ tags:
 img: martyn_painter_fortress.JPG
 thumb: martyn_painter_fortress.JPG
 ---
-We’re writing this blog at a time when most of us thought we would be done with COVID, and most of us are still working from home. In Alberta, the ICUs in hospitals have been overflowing with some critically ill patients airlifted from one hospital to another; we’ve received emergency alerts announcing new series of restrictions; the public health crisis is relentless . In the midst of the so-called fourth wave, we’ve been asking ourselves how we coped over the past eighteen months, how we’re continuing to cope, what were some of the things that surprised us, and what the new normal will look like. In reflecting on the pandemic, we see both remarkable resilience and an opportunity for positive change.
+We’re writing this blog at a time when most of us thought we would be done with COVID, and most of us are still working from home. In Alberta, the ICUs in hospitals have been overflowing with some critically ill patients airlifted from one hospital to another; we’ve received emergency alerts announcing new series of restrictions; the public health crisis is relentless. In the midst of the so-called fourth wave, we’ve been asking ourselves how we coped over the past eighteen months, how we’re continuing to cope, what were some of the things that surprised us, and what the new normal will look like. In reflecting on the pandemic, we see both remarkable resilience and an opportunity for positive change.
 
 ### Coping during COVID
 
