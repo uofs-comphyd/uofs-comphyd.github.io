@@ -1,3 +1,17 @@
+Clark Martyn P., Vogel Richard M., Lamontagne Jonathan R., Mizukami Naoki, Knoben Wouter J. M., Tang Guoqiang, Gharari Shervan, Freer Jim E., Whitfield Paul H., Shook Kevin R., Papalexiou Simon Michael, 2021: The Abuse of Popular Performance Metrics in Hydrologic Modeling. _Water Resources Research_, [doi: 10.1029/2020WR029001](http://doi.org/10.1029/2020WR029001)
+
+Gharari Shervan, Gupta Hoshin V., Clark Martyn P., Hrachowitz Markus, Fenicia Fabrizio, Matgen Patrick, Savenije Hubert H. G., 2021: Understanding the Information Content in the Hierarchy of Model Development Decisions: Learning From Data. _Water Resources Research_, [doi: 10.1029/2020WR027948](http://doi.org/10.1029/2020WR027948)
+
+Khoshnoodmotlagh Sajad, Daneshi Alireza, Gharari Shervan, Verrelst Jochem, Mirzaei Mohsen, Omrani Hossien, 2021: Urban morphology detection and it's linking with land surface temperature: A case study for Tehran Metropolis Iran. _Sustainable Cities and Society_, [doi: 10.1016/j.scs.2021.103228](http://doi.org/10.1016/j.scs.2021.103228)
+
+Mizukami Naoki, Clark Martyn P., Gharari Shervan, Kluzek Erik, Pan Ming, Lin Peirong, Beck Hylke E., Yamazaki Dai, 2021: A Vector-Based River Routing Model for Earth System Models: Parallelization and Global Applications. _Journal of Advances in Modeling Earth Systems_, [doi: 10.1029/2020MS002434](http://doi.org/10.1029/2020MS002434)
+
+Sheikholeslami Razi, Gharari Shervan, Papalexiou Simon Michael, Clark Martyn P., 2021: VISCOUS: A Variance-Based Sensitivity Analysis Using Copulas for Efficient Identification of Dominant Hydrological Processes. _Water Resources Research_, [doi: 10.1029/2020WR028435](http://doi.org/10.1029/2020WR028435)
+
+Wong Jefferson S., Zhang Xuebin, Gharari Shervan, Shrestha Rajesh R., Wheater Howard S., Famiglietti James S., 2021: Assessing Water Balance Closure Using Multiple Data Assimilation– and Remote Sensing–Based Datasets for Canada. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-20-0131.1](http://doi.org/10.1175/JHM-D-20-0131.1)
+
+Gharari Shervan, Clark Martyn P., Mizukami Naoki, Knoben Wouter J. M., Wong Jefferson S., Pietroniro Alain, 2020: Flexible vector-based spatial configurations in land models. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-24-5953-2020](http://doi.org/10.5194/hess-24-5953-2020)
+
 Blöschl Günter and 203 others, 2019: Twenty-three unsolved problems in hydrology (UPH) – a community perspective. _Hydrological Sciences Journal_, [doi: 10.1080/02626667.2019.1620507](http://doi.org/10.1080/02626667.2019.1620507)
 
 Gharari Shervan, Clark Martyn P., Mizukami Naoki, Wong Jefferson S., Pietroniro Alain, Wheater Howard S., 2019: Improving the Representation of Subsurface Water Movement in Land Models. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-19-0108.1](http://doi.org/10.1175/JHM-D-19-0108.1)
