@@ -1,10 +1,48 @@
+Clark Martyn P., Vogel Richard M., Lamontagne Jonathan R., Mizukami Naoki, Knoben Wouter J. M., Tang Guoqiang, Gharari Shervan, Freer Jim E., Whitfield Paul H., Shook Kevin, Papalexiou Simon, 2021: The abuse of popular performance metrics in hydrologic modeling. _Water Resources Research_, [doi: 10.1029/2020WR029001](http://doi.org/10.1029/2020WR029001)
+
+Hong Zhongkun, Han Zhongying, Li Xueying, Long Di, Tang Guoqiang, Wang Jianhua, 2021: Generation of an improved precipitation data set from multisource information over the Tibetan Plateau. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-20-0252.1](http://doi.org/10.1175/JHM-D-20-0252.1)
+
+Li Zhi, Tang Guoqiang, Hong Zhen, Chen Mengye, Gao Shang, Kirstetter Pierre, Gourley Jonathan J., Wen Yixin, Yami Teshome, Nabih Soumaya, Hong Yang, 2021: Two-decades of GPM IMERG early and final run products intercomparison: Similarity and difference in climatology rates and extremes. _Journal of Hydrology_, [doi: 10.1016/j.jhydrol.2021.125975](http://doi.org/10.1016/j.jhydrol.2021.125975)
+
+Lu Xinyu, Tang Guoqiang, Liu Xinchun, Wang Xiuqin, Liu Yan, Wei Ming, 2021: The potential and uncertainty of triple collocation in assessing satellite precipitation products in Central Asia. _Atmospheric Research_, [doi: 10.1016/j.atmosres.2021.105452](http://doi.org/10.1016/j.atmosres.2021.105452)
+
+Ma Meihong, Wang Huixiao, Yang Yan, Zhao Gang, Tang Guoqiang, Hong Zhen, Clark III Robert A., Chen Yun, Xu Hui, Hong Yang, 2021: Development of a new rainfall-triggering index of flash flood warning-case study in Yunnan province China. _Journal of Flood Risk Management_, [doi: 10.1111/jfr3.12676](http://doi.org/10.1111/jfr3.12676)
+
+Tang Guoqiang, 2021: Characterization of the Systematic and Random Errors in Satellite Precipitation Using the Multiplicative Error Model. _Ieee Transactions On Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2020.3028525](http://doi.org/10.1109/TGRS.2020.3028525)
+
+Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, Newman Andrew J., Wood Andrew W., Brunet Dominique, Whitfield Paul H., 2021: EMDNA: an Ensemble Meteorological Dataset for North America. _Earth System Science Data_, [doi: 10.5194/essd-13-3337-2021](http://doi.org/10.5194/essd-13-3337-2021)
+
+Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, 2021: SC-Earth: A Station-Based Serially Complete Earth Dataset from 1950 to 2019. _Journal of Climate_, [doi: 10.1175/JCLI-D-21-0067.1](http://doi.org/10.1175/JCLI-D-21-0067.1)
+
+Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, 2021: The Use of Serially Complete Station Data to Improve the Temporal Continuity of Gridded Precipitation and Temperature Estimates. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-20-0313.1](http://doi.org/10.1175/JHM-D-20-0313.1)
+
+Wang Cunguang, Tang Guoqiang, Gentine Pierre, 2021: PrecipGAN: Merging Microwave and Infrared Data for Satellite Precipitation Estimation Using Generative Adversarial Network. _Geophysical Research Letters_, [doi: 10.1029/2020GL092032](http://doi.org/10.1029/2020GL092032)
+
+Feng Kepeng, Hong Yang, Tian Juncang, Luo Xiangyu, Tang Guoqiang, Kan Guangyuan, 2020: Evaluating applicability of multi-source precipitation datasets for runoff simulation of small watersheds: a case study in the United States. _European Journal of Remote Sensing_, [doi: 10.1080/22797254.2020.1819169](http://doi.org/10.1080/22797254.2020.1819169)
+
 Li Hongyi, Zhong Xiaoyong, Ma Ziqiang, Tang Guoqiang, Ding Leiding, Sui Xinxin, Xu Jintao, He Yu, 2020: Climate Changes and Their Teleconnections With ENSO Over the Last 55 Years 1961–2015 in Floods-Dominated Basin Jiangxi Province China. _Earth and Space Science_, [doi: 10.1029/2019EA001047](http://doi.org/10.1029/2019EA001047)
 
 Li Zhi, Chen Mengye, Gao Shang, Hong Zhen, Tang Guoqiang, Wen Yixin, Gourley Jonathan J., Hong Yang, 2020: Cross-Examination of Similarity Difference and Deficiency of Gauge Radar and Satellite Precipitation Measuring Uncertainties for Extreme Events Using Conventional Metrics and Multiplicative Triple Collocation. _Remote Sensing_, [doi: 10.3390/rs12081258](http://doi.org/10.3390/rs12081258)
 
 Lu Xinyu, Tang Guoqiang, Wang Xiuqin, Liu Yan, Wei Ming, Zhang Yingxin, 2020: The Development of a Two-Step Merging and Downscaling Method for Satellite Precipitation Products. _Remote Sensing_, [doi: 10.3390/rs12030398](http://doi.org/10.3390/rs12030398)
 
+Lyu Feng, Tang Guoqiang, Behrangi Ali, Wang Tsechun, Tan Xiao, Ma Ziqiang, Xiong Wentao, 2020: Precipitation Merging Based on the Triple Collocation Method Across Mainland China. _Ieee Transactions On Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2020.3008033](http://doi.org/10.1109/TGRS.2020.3008033)
+
+Ma Ziqiang, Xu Jintao, Zhu Siyu, Yang Jun, Tang Guoqiang, Yang Yuanjian, Shi Zhou, Hong Yang, 2020: AIMERG: a new Asian precipitation dataset (0.1°/half-hourly 2000–2015) by calibrating the GPM-era IMERG at a daily scale using APHRODITE. _Earth System Science Data_, [doi: 10.5194/essd-12-1525-2020](http://doi.org/10.5194/essd-12-1525-2020)
+
+Ma Meihong, Wang Huixiao, Jia Pengfei, Tang Guoqiang, Wang Dacheng, Ma Ziqiang, Yan Haiming, 2020: Application of the GPM-IMERG Products in Flash Flood Warning: A Case Study in Yunnan China. _Remote Sensing_, [doi: 10.3390/rs12121954](http://doi.org/10.3390/rs12121954)
+
+Rajulapati Chandra Rupa, Papalexiou Simon Michael, Clark Martyn P., Razavi Saman, Tang Guoqiang, Pomeroy John W., 2020: Assessment of Extremes in Global Precipitation Products: How Reliable Are They?. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-20-0040.1](http://doi.org/10.1175/JHM-D-20-0040.1)
+
+Sun Alexander Y., Tang Guoqiang, 2020: Downscaling Satellite and Reanalysis Precipitation Products Using Attention-Based Deep Convolutional Neural Nets. _Frontiers in Water_, [doi: 10.3389/frwa.2020.536743](http://doi.org/10.3389/frwa.2020.536743)
+
 Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, Ma Ziqiang, Hong Yang, 2020: Have satellite precipitation products improved over last two decades? A comprehensive comparison of GPM IMERG with nine satellite and reanalysis datasets. _Remote Sensing of Environment_, [doi: 10.1016/j.rse.2020.111697](http://doi.org/10.1016/j.rse.2020.111697)
+
+Tang Guoqiang, Clark Martyn P., Newman Andrew J., Wood Andrew W., Papalexiou Simon Michael, Vionnet Vincent, Whitfield Paul H., 2020: SCDNA: a serially complete precipitation and temperature dataset for North America from 1979 to 2018. _Earth System Science Data_, [doi: 10.5194/essd-12-2381-2020](http://doi.org/10.5194/essd-12-2381-2020)
+
+Wang Cunguang, Xu Jing, Tang Guoqiang, Yang Yi, Hong Yang, 2020: Infrared Precipitation Estimation Using Convolutional Neural Network. _Ieee Transactions On Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2020.2989183](http://doi.org/10.1109/TGRS.2020.2989183)
+
+Wang Tsechun, Tang Guoqiang, 2020: Spatial Variability and Linkage Between Extreme Convections and Extreme Precipitation Revealed by 22-Year Space-Borne Precipitation Radar Data. _Geophysical Research Letters_, [doi: 10.1029/2020GL088437](http://doi.org/10.1029/2020GL088437)
 
 Lu Xinyu, Tang Guoqiang, Wang Xiuqin, Liu Yan, Jia Lihong, Xie Guohui, Li Shuai, Zhang Yingxin, 2019: Correcting GPM IMERG precipitation data over the Tianshan Mountains in China. _Journal of Hydrology_, [doi: 10.1016/j.jhydrol.2019.06.019](http://doi.org/10.1016/j.jhydrol.2019.06.019)
 
@@ -37,6 +75,8 @@ Wang Cunguang, Tang Guoqiang, Han Zhongying, Guo Xiaolin, Hong Yang, 2018: Globa
 Gao Zhen, Long Di, Tang Guoqiang, Zeng Chao, Huang Jiesheng, Hong Yang, 2017: Assessing the potential of satellite-based precipitation estimates for flood frequency analysis in ungauged or poorly gauged tributaries of China’s Yangtze River basin. _Journal of Hydrology_, [doi: 10.1016/j.jhydrol.2017.05.025](http://doi.org/10.1016/j.jhydrol.2017.05.025)
 
 Gao Jinyu, Tang Guoqiang, Hong Yang, 2017: Similarities and Improvements of GPM Dual-Frequency Precipitation Radar (DPR) upon TRMM Precipitation Radar (PR) in Global Precipitation Rate Estimation Type Classification and Vertical Profiling. _Remote Sensing_, [doi: 10.3390/rs9111142](http://doi.org/10.3390/rs9111142)
+
+Gruber Alexander, Dorigo Wouter Arnoud, Crow Wade, Wagner Wolfgang, 2017: Triple Collocation-Based Merging of Satellite Soil Moisture Retrievals. _Ieee Transactions On Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2017.2734070](http://doi.org/10.1109/TGRS.2017.2734070)
 
 Kan Guangyuan and 10 others, 2017: An Improved Coupled Routing and Excess Storage (CREST) Distributed Hydrological Model and Its Verification in Ganjiang River Basin China. _Water_, [doi: 10.3390/w9110904](http://doi.org/10.3390/w9110904)
 

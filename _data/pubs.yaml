@@ -1,12 +1,247 @@
 # articles_published - shown on the publications page
 articles_published:
+  - title: "Challenges in modeling and predicting floods and droughts: A review"
+    authors: Brunner Manuela I., Slater Louise, Tallaksen Lena M., Clark Martyn
+    year: 2021
+    journal: Wires Water
+    doi: 10.1002/wat2.1520
+  - title: "Flood spatial coherence triggers and performance in hydrological simulations: large-sample evaluation of four streamflow-calibrated models"
+    authors: Brunner Manuela I., Melsen Lieke A., Wood Andrew W., Rakovec Oldrich, Mizukami Naoki, Knoben Wouter J. M., Clark Martyn P.
+    year: 2021
+    journal: Hydrology and Earth System Sciences
+    doi: 10.5194/hess-25-105-2021
+  - title: "Toward open and reproducible environmental modeling by integrating online data repositories computational environments and model Application Programming Interfaces"
+    authors: Choi Young-Don and 14 others
+    year: 2021
+    journal: Environmental Modelling & Software
+    doi: 10.1016/j.envsoft.2020.104888
+  - title: "The Abuse of Popular Performance Metrics in Hydrologic Modeling"
+    authors: Clark Martyn P., Vogel Richard M., Lamontagne Jonathan R., Mizukami Naoki, Knoben Wouter J. M., Tang Guoqiang, Gharari Shervan, Freer Jim E., Whitfield Paul H., Shook Kevin R., Papalexiou Simon Michael
+    year: 2021
+    journal: Water Resources Research
+    doi: 10.1029/2020WR029001
+  - title: "The numerical implementation of land models: Problem formulation and laugh tests"
+    authors: Clark Martyn P., Zolfaghari Reza, Green Kevin R., Trim Sean, Knoben Wouter J. M., Bennett Andrew, Nijssen Bart, Ireson Andrew, Spiteri Raymond J.
+    year: 2021
+    journal: Journal of Hydrometeorology
+    doi: 10.1175/JHM-D-20-0175.1
+  - title: "Open Science: Open Data Open Models …and Open Publications?"
+    authors: Clark Martyn P., Luce Charles H., AghaKouchak Amir, Berghuijs Wouter, David Cédric H., Duan Qingyun, Ge Shemin, van Meerveld Ilja, Zheng Chunmiao, Parlange Marc B., Tyler Scott W.
+    year: 2021
+    journal: Water Resources Research
+    doi: 10.1029/2020WR029480
+  - title: "Numerical daemons of hydrological models are summoned by extreme precipitation"
+    authors: La Follette Peter T., Teuling Adriaan J., Addor Nans, Clark Martyn, Jansen Koen, Melsen Lieke A.
+    year: 2021
+    journal: Hydrology and Earth System Sciences
+    doi: 10.5194/hess-2021-28
+  - title: "Towards more realistic runoff projections by removing limits on simulated soil moisture deficit"
+    authors: Fowler Keirnan J.A., Coxon Gemma, Freer Jim E., Knoben Wouter J.M., Peel Murray C., Wagener Thorsten, Western Andrew W., Woods Ross A., Zhang Lu
+    year: 2021
+    journal: Journal of Hydrology
+    doi: 10.1016/j.jhydrol.2021.126505
+  - title: "Understanding the Information Content in the Hierarchy of Model Development Decisions: Learning From Data"
+    authors: Gharari Shervan, Gupta Hoshin V., Clark Martyn P., Hrachowitz Markus, Fenicia Fabrizio, Matgen Patrick, Savenije Hubert H. G.
+    year: 2021
+    journal: Water Resources Research
+    doi: 10.1029/2020WR027948
+  - title: "Mimicry of a Conceptual Hydrological Model (HBV): What's in a Name?"
+    authors: Jansen Koen F., Teuling Adriaan J., Craig James R., Dal Molin Marco, Knoben Wouter J. M., Parajka Juraj, Vis Marc, Melsen Lieke A.
+    year: 2021
+    journal: Water Resources Research
+    doi: 10.1029/2020WR029143
+  - title: "Radiative Feedbacks on Land Surface Change and Associated Tropical Precipitation Shifts"
+    authors: Laguë Marysa M., Swann Abigail L. S., Boos William R.
+    year: 2021
+    journal: Journal of Climate
+    doi: 10.1175/JCLI-D-20-0883.1
+  - title: "Terrestrial Evaporation and Global Climate: Lessons from Northland a Planet with a Hemispheric Continent"
+    authors: Laguë Marysa M., Pietschnig Marianne, Ragen Sarah, Smith Timothy A., Battisti David S.
+    year: 2021
+    journal: Journal of Climate
+    doi: 10.1175/JCLI-D-20-0452.1
+  - title: "A Vector‐Based River Routing Model for Earth System Models: Parallelization and Global Applications"
+    authors: Mizukami Naoki, Clark Martyn P., Gharari Shervan, Kluzek Erik, Pan Ming, Lin Peirong, Beck Hylke E., Yamazaki Dai
+    year: 2021
+    journal: Journal of Advances in Modeling Earth Systems
+    doi: 10.1029/2020MS002434
+  - title: "Hydroclimatic changes in Alaska portrayed by a high-resolution regional climate simulation"
+    authors: Newman Andrew J., Monaghan Andrew J., Clark Martyn P., Ikeda Kyoko, Xue Lulin, Gutmann Ethan D., Arnold Jeffrey R.
+    year: 2021
+    journal: Climatic Change
+    doi: 10.1007/s10584-021-02956-x
+  - title: "How Well Can Land-Surface Models Represent the Diurnal Cycle of Turbulent Heat Fluxes?"
+    authors: Renner Maik, Kleidon Axel, Clark Martyn, Nijssen Bart, Heidkamp Marvin, Best Martin, Abramowitz Gab
+    year: 2021
+    journal: Journal of Hydrometeorology
+    doi: 10.1175/JHM-D-20-0034.1
+  - title: "Changing River Network Synchrony Modulates Projected Increases in High Flows"
+    authors: Rupp David E., Chegwidden Oriana S., Nijssen Bart, Clark Martyn P.
+    year: 2021
+    journal: Water Resources Research
+    doi: 10.1029/2020WR028713
+  - title: "VISCOUS: A Variance‐Based Sensitivity Analysis Using Copulas for Efficient Identification of Dominant Hydrological Processes"
+    authors: Sheikholeslami Razi, Gharari Shervan, Papalexiou Simon Michael, Clark Martyn P
+    year: 2021
+    journal: Water Resources Research
+    doi: 10.1029/2020WR028435
+  - title: "How Do Climate and Catchment Attributes Influence Flood Generating Processes? A Large‐Sample Study for 671 Catchments Across the Contiguous USA"
+    authors: Stein L., Clark M. P., Knoben W. J. M., Pianosi F., Woods R. A.
+    year: 2021
+    journal: Water Resources Research
+    doi: 10.1029/2020WR028300
+  - title: "EMDNA: an Ensemble Meteorological Dataset for North America"
+    authors: Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, Newman Andrew J., Wood Andrew W., Brunet Dominique, Whitfield Paul H.
+    year: 2021
+    journal: Earth System Science Data
+    doi: 10.5194/essd-13-3337-2021
+  - title: "SC-Earth: A Station-based Serially Complete Earth Dataset from 1950 to 2019"
+    authors: Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael
+    year: 2021
+    journal: Journal of Climate
+    doi: 10.1175/JCLI-D-21-0067.1
+  - title: "The use of serially complete station data to improve the temporal continuity of gridded precipitation and temperature estimates"
+    authors: Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael
+    year: 2021
+    journal: Journal of Hydrometeorology
+    doi: 10.1175/JHM-D-20-0313.1
+  - title: "Macrosystems as metacoupled human and natural systems"
+    authors: Tromboni Flavia and 13 others
+    year: 2021
+    journal: Frontiers in Ecology and the Environment
+    doi: 10.1002/fee.2289
+  - title: "Simulating the Impact of Global Reservoir Expansion on the Present‐Day Climate"
+    authors: Vanderkelen I., Lipzig N. P. M., Sacks W. J., Lawrence D. M., Clark M. P., Mizukami N., Pokhrel Y., Thiery W.
+    year: 2021
+    journal: Journal of Geophysical Research-Atmospheres
+    doi: 10.1029/2020JD034485
+  - title: "Are we talking just a bit of water out of bank? Or is it Armageddon? Front line perspectives on transitioning to probabilistic fluvial flood forecasts in England"
+    authors: Arnal Louise, Anspoks Liz, Manson Susan, Neumann Jessica, Norton Tim, Stephens Elisabeth, Wolfenden Louise, Cloke Hannah Louise
+    year: 2020
+    journal: Geoscience Communication
+    doi: 10.5194/gc-3-203-2020
+  - title: "Developing observational methods to drive future hydrological science: Can we make a start as a community?"
+    authors: Beven K. and 17 others
+    year: 2020
+    journal: Hydrological Processes
+    doi: 10.1002/hyp.13622
+  - title: "Global climate response to idealized deforestation in CMIP6 models"
+    authors: Boysen Lena R. and 18 others
+    year: 2020
+    journal: Biogeosciences
+    doi: https://doi.org/10.5194/bg-17-5615-2020
+  - title: "Flood hazard and change impact assessments may profit from rethinking model calibration strategies"
+    authors: Brunner Manuela I., Melsen Lieke A., Wood Andrew W., Rakovec Oldrich, Mizukami Naoki, Knoben Wouter J. M., Clark Martyn P.
+    year: 2020
+    journal: Hydrology and Earth System Sciences
+    doi: 10.5194/hess-2020-192
+  - title: "Future streamflow regime changes in the United States: assessment using functional classification"
+    authors: Brunner Manuela I., Melsen Lieke A., Newman Andrew J., Wood Andrew W., Clark Martyn P.
+    year: 2020
+    journal: Hydrology and Earth System Science
+    doi: 10.5194/hess-2020-54
+  - title: "How Probable Is Widespread Flooding in the United States?"
+    authors: Brunner Manuela I., Papalexiou Simon, Clark Martyn P., Gilleland Eric
+    year: 2020
+    journal: Water Resources Research
+    doi: 10.1029/2020WR028096
+  - title: "Spatial Dependence of Floods Shaped by Spatiotemporal Variations in Meteorological and Land‐Surface Processes"
+    authors: Brunner Manuela I., Gilleland Eric, Wood Andy, Swain Daniel L., Clark Martyn
+    year: 2020
+    journal: Geophysical Research Letters
+    doi: 10.1029/2020GL088000
+  - title: "Many commonly used rainfall‐runoff models lack long slow dynamics: implications for runoff projections"
+    authors: Fowler Keirnan, Knoben Wouter, Peel Murray, Peterson Tim, Ryu Dongryeol, Saft Margarita, Seo Ki‐Weon, Western Andrew
+    year: 2020
+    journal: Water Resources Research
+    doi: 10.1029/2019WR025286
+  - title: "Flexible vector-based spatial configurations in land models"
+    authors: Gharari Shervan, Clark Martyn P., Mizukami Naoki, Knoben Wouter J. M., Wong Jefferson S., Pietroniro Alain
+    year: 2020
+    journal: Hydrology and Earth System Sciences
+    doi: 10.5194/hess-24-5953-2020
+  - title: "Evaporative Resistance is of Equal Importance as Surface Albedo in High‐Latitude Surface Temperatures Due to Cloud Feedbacks"
+    authors: Kim Jinhyuk E., Laguë Marysa M., Pennypacker Sam, Dawson Eliza, Swann Abigail L. S.
+    year: 2020
+    journal: Geophysical Research Letters
+    doi: 10.1029/2019GL085663
+  - title: "A Brief Analysis of Conceptual Model Structure Uncertainty Using 36 Models and 559 Catchments"
+    authors: Knoben W. J. M., Freer J. E., Peel M. C., Fowler K. J. A., Woods R. A.
+    year: 2020
+    journal: Water Resources Research
+    doi: 10.1029/2019WR025975
+  - title: "A Vision for Hydrological Prediction"
+    authors: Lavers David A. and 12 others
+    year: 2020
+    journal: Atmosphere
+    doi: 10.3390/atmos11030237
+  - title: "Climate Changes and Their Teleconnections With ENSO Over the Last 55 Years 1961–2015 in Floods-Dominated Basin Jiangxi Province China"
+    authors: Li Hongyi, Zhong Xiaoyong, Ma Ziqiang, Tang Guoqiang, Ding Leiding, Sui Xinxin, Xu Jintao, He Yu
+    year: 2020
+    journal: Earth and Space Science
+    doi: 10.1029/2019EA001047
+  - title: "Cross-Examination of Similarity Difference and Deficiency of Gauge Radar and Satellite Precipitation Measuring Uncertainties for Extreme Events Using Conventional Metrics and Multiplicative Triple Collocation"
+    authors: Li Zhi, Chen Mengye, Gao Shang, Hong Zhen, Tang Guoqiang, Wen Yixin, Gourley Jonathan J., Hong Yang
+    year: 2020
+    journal: Remote Sensing
+    doi: 10.3390/rs12081258
+  - title: "The Development of a Two-Step Merging and Downscaling Method for Satellite Precipitation Products"
+    authors: Lu Xinyu, Tang Guoqiang, Wang Xiuqin, Liu Yan, Wei Ming, Zhang Yingxin
+    year: 2020
+    journal: Remote Sensing
+    doi: 10.3390/rs12030398
+  - title: "Probabilistic Spatial Meteorological Estimates for Alaska and the Yukon"
+    authors: Newman Andrew J., Clark Martyn P., Wood Andrew W., Arnold Jeffrey R.
+    year: 2020
+    journal: Journal of Geophysical Research-Atmospheres
+    doi: 10.1029/2020JD032696
+  - title: "TIER version 1.0: an open-source Topographically InformEd Regression (TIER) model to estimate spatial meteorological fields"
+    authors: Newman Andrew J., Clark M.P.
+    year: 2020
+    journal: Geoscientific Model Development
+    doi: 10.5194/gmd-13-1827-2020
+  - title: "Robustness of CMIP6 Historical Global Mean Temperature Simulations: Trends Long‐Term Persistence Autocorrelation and Distributional Shape"
+    authors: Papalexiou Simon Michael, Rajulapati Chandra Rupa, Clark Martyn P., Lehner Flavio
+    year: 2020
+    journal: Earth'S Future
+    doi: 10.1029/2020EF001667
+  - title: "Assessment of Extremes in Global Precipitation Products: How Reliable Are They?"
+    authors: Rajulapati Chandra Rupa, Papalexiou Simon Michael, Clark Martyn P., Razavi Saman, Tang Guoqiang, Pomeroy John W.
+    year: 2020
+    journal: Journal of Hydrometeorology
+    doi: 10.1175/JHM-D-20-0040.1
+  - title: "The Effect of Land Albedo on the Climate of Land-dominated Planets in the TRAPPIST-1 System"
+    authors: Rushby Andrew J., Shields Aomawa L., Wolf Eric T., Laguë Marysa, Burgasser Adam
+    year: 2020
+    journal: The Astrophysical Journal
+    doi: 10.3847/1538-4357/abbe04
+  - title: "How do climate and catchment attributes influence flood generating processes? A large‐sample study for 671 catchments across the contiguous USA"
+    authors: Stein Lina, Clark Martyn P., Knoben Wouter Johannes Maria, Pianosi Francesca, Woods Ross
+    year: 2020
+    journal: Water Resources Research
+    doi: 10.1002/essoar.10503704.1
   - title: "Have satellite precipitation products improved over last two decades? A comprehensive comparison of GPM IMERG with nine satellite and reanalysis datasets"
-    authors: Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, Ma Ziqiang, Hong Yang
+    authors: Tang Guoqiang, Clark M.P., Papalexiou Simon Michael, Ma Ziqiang, Hong Yang
     year: 2020
     journal: Remote Sensing of Environment
     doi: 10.1016/j.rse.2020.111697
+  - title: "SCDNA: a serially complete precipitation and temperature dataset for North America from 1979 to 2018"
+    authors: Tang Guoqiang, Clark Martyn P., Newman Andrew J., Wood Andrew W., Papalexiou Simon Michael, Vionnet Vincent, Whitfield Paul H.
+    year: 2020
+    journal: Earth System Science Data
+    doi: 10.5194/essd-12-2381-2020
+  - title: "How will rainfall change over Hawai‘i in the future? High-resolution regional climate simulation of the Hawaiian Islands"
+    authors: Xue Lulin, Wang Yaping, Newman Andrew J., Ikeda Kyoko, Rasmussen Roy M., Giambelluca Thomas W., Longman Ryan J., Monaghan Andrew J., Clark Martyn P., Arnold Jeffrey R.
+    year: 2020
+    journal: Bulletin of Atmospheric Science and Technology
+    doi: 10.1007/s42865-020-00022-5
+  - title: "Plant Physiology Increases the Magnitude and Spread of the Transient Climate Response to CO2 in CMIP6 Earth System Models"
+    authors: Zarakas Claire M., Swann Abigail L. S., Laguë Marysa M., Armour Kyle C., Randerson James T.
+    year: 2020
+    journal: Journal of Climate
+    doi: 10.1175/JCLI-D-20-0078.1
   - title: "Quantifying Process Connectivity With Transfer Entropy in Hydrologic Models"
-    authors: Bennett Andrew, Nijssen Bart, Ou Gengxin, Clark Martyn, Nearing Grey
+    authors: Bennett Andrew, Nijssen Bart, Ou Gengxin, Clark M.P., Nearing Grey
     year: 2019
     journal: Water Resources Research
     doi: 10.1029/2018WR024555
@@ -20,58 +255,118 @@ articles_published:
     year: 2019
     journal: Earth'S Future
     doi: 10.1029/2018EF001047
+  - title: "DECIPHeR v1: Dynamic fluxEs and ConnectIvity for Predictions of HydRology"
+    authors: Coxon Gemma, Freer Jim, Lane Rosanna, Dunne Toby, Knoben Wouter J. M., Howden Nicholas J K, Quinn Niall, Wagener Thorsten, Woods Ross
+    year: 2019
+    journal: Geoscientific Model Development
+    doi: 10.5194/gmd-12-2285-2019
   - title: "Hillslope Hydrology in Global Change Research and Earth System Modeling"
     authors: Fan Y. and 35 others
     year: 2019
     journal: Water Resources Research
     doi: 10.1029/2018WR023903
   - title: "Improving the Representation of Subsurface Water Movement in Land Models"
-    authors: Gharari Shervan, Clark Martyn P., Mizukami Naoki, Wong Jefferson S., Pietroniro Alain, Wheater Howard S.
+    authors: Gharari Shervan, Clark M.P., Mizukami Naoki, Wong Jefferson S., Pietroniro Alain, Wheater Howard S.
     year: 2019
     journal: Journal of Hydrometeorology
     doi: 10.1175/JHM-D-19-0108.1
+  - title: "Global bimodal precipitation seasonality: A systematic overview"
+    authors: Knoben Wouter J. M., Woods Ross A., Freer Jim E.
+    year: 2019
+    journal: International Journal of Climatology
+    doi: 10.1002/joc.5786
+  - title: "Modular Assessment of Rainfall-Runoff Models Toolbox (MARRMoT) v1.2: an open- source extendable framework providing implementations of 46 conceptual hydrologic models as continuous state-space formulations"
+    authors: Knoben Wouter J. M., Freer Jim E., Fowler Keirnan J. A., Peel Murray C., Woods Ross A.
+    year: 2019
+    journal: Geoscientific Model Development
+    doi: 10.5194/gmd-2018-332
+  - title: "Modular Assessment of Rainfall-Runoff Models Toolbox (MARRMoT) v1.2: an open-source extendable framework providing implementations of 46 conceptual hydrologic models as continuous state-space formulations"
+    authors: Knoben W. J. M., Freer J. E., Fowler K. J. A., Peel M. C., Woods R. A.
+    year: 2019
+    journal: Geoscientific Model Development
+    doi: 10.5194/gmd-12-2463-2019
+  - title: "Technical note: Inherent benchmark or not? Comparing Nash–Sutcliffe and Kling–Gupta efficiency scores"
+    authors: Knoben Wouter J. M., Freer Jim E., Woods Ross A.
+    year: 2019
+    journal: Hydrology and Earth System Sciences
+    doi: 10.5194/hess-23-4323-2019
+  - title: "Separating the Impact of Individual Land Surface Properties on the Terrestrial Surface Energy Budget in both the Coupled and Uncoupled Land–Atmosphere System"
+    authors: Laguë Marysa M., Bonan Gordon B., Swann Abigail L. S.
+    year: 2019
+    journal: Journal of Climate
+    doi: 10.1175/JCLI-D-18-0812.1
+  - title: "Benchmarking the predictive capability of hydrological models for river flow and flood peak predictions across over 1000 catchments in Great Britain"
+    authors: Lane R. A., Coxon G., Freer J. E., Wagener T., Johnes P. J., Bloomfield J. P., Greene S., Macleod C. J. A., Reaney S. M.
+    year: 2019
+    journal: Hydrology and Earth System Sciences
+    doi: 10.5194/hess-23-4011-2019
   - title: "The Community Land Model Version 5: Description of New Features Benchmarking and Impact of Forcing Uncertainty"
     authors: Lawrence David M. and 54 others
     year: 2019
     journal: Journal of Advances in Modeling Earth Systems
     doi: 10.1029/2018MS001583
   - title: "The potential to reduce uncertainty in regional runoff projections from climate models"
-    authors: Lehner Flavio, Wood Andrew W., Vano Julie A., Lawrence David M., Clark Martyn P., Mankin Justin S.
+    authors: Lehner Flavio, Wood Andrew W., Vano Julie A., Lawrence David M., Clark M.P., Mankin Justin S.
     year: 2019
     journal: Nature Climate Change
     doi: 10.1038/s41558-019-0639-x
+  - title: "Determining the sources of nutrient flux to water in headwater catchments: Examining the speciation balance to inform the targeting of mitigation measures"
+    authors: Lloyd C. E. M., Johnes P. J., Freer J. E., Carswell A. M., Jones J. I., Stirling M. W., Hodgkinson R. A., Richmond C., Collins A. L.
+    year: 2019
+    journal: Science of the Total Environment
+    doi: 10.1016/j.scitotenv.2018.08.190
   - title: "High-Resolution Gridded Daily Rainfall and Temperature for the Hawaiian Islands (1990-2014)"
-    authors: Longman Ryan J., Frazier Abby G., Newman Andrew J., Giambelluca Thomas W., Schanzenbach David, Kagawa-Viviani Aurora, Needham Heidi, Arnold Jeffrey R., Clark Martyn P.
+    authors: Longman Ryan J., Frazier Abby G., Newman Andrew J., Giambelluca Thomas W., Schanzenbach David, Kagawa-Viviani Aurora, Needham Heidi, Arnold Jeffrey R., Clark M.P.
     year: 2019
     journal: Journal of Hydrometeorology
     doi: 10.1175/JHM-D-18-0112.1
+  - title: "Correcting GPM IMERG precipitation data over the Tianshan Mountains in China"
+    authors: Lu Xinyu, Tang Guoqiang, Wang Xiuqin, Liu Yan, Jia Lihong, Xie Guohui, Li Shuai, Zhang Yingxin
+    year: 2019
+    journal: Journal of Hydrology
+    doi: 10.1016/j.jhydrol.2019.06.019
   - title: "Subjective modeling decisions can significantly impact the simulation of flood and drought events"
-    authors: Melsen Lieke A., Teuling Adriaan J., Torfs Paul J. J. F., Zappa Massimiliano, Mizukami Naoki, Mendoza Pablo A., Clark Martyn P., Uijlenhoet Remko
+    authors: Melsen Lieke A., Teuling Adriaan J., Torfs Paul J. J. F., Zappa Massimiliano, Mizukami Naoki, Mendoza Pablo A., Clark M.P., Uijlenhoet Remko
     year: 2019
     journal: Journal of Hydrology
     doi: 10.1016/j.jhydrol.2018.11.046
   - title: "On the choice of calibration metrics for “high-flow” estimation using hydrologic models"
-    authors: Mizukami Naoki, Rakovec Oldrich, Newman Andrew J., Clark Martyn P., Wood Andrew W., Gupta Hoshin V., Kumar Rohini
+    authors: Mizukami Naoki, Rakovec Oldrich, Newman Andrew J., Clark M.P., Wood Andrew W., Gupta Hoshin V., Kumar Rohini
     year: 2019
     journal: Hydrology and Earth System Sciences
     doi: 10.5194/hess-23-2601-2019
   - title: "Methodological Intercomparisons of Station-Based Gridded Meteorological Products: Utility Limitations and Paths Forward"
-    authors: Newman Andrew J., Clark Martyn P., Longman Ryan J., Giambelluca Thomas W.
+    authors: Newman Andrew J., Clark M.P., Longman Ryan J., Giambelluca Thomas W.
     year: 2019
     journal: Journal of Hydrometeorology
     doi: 10.1175/JHM-D-18-0114.1
   - title: "Use of Daily Station Observations to Produce High-Resolution Gridded Probabilistic Precipitation and Temperature Time Series for the Hawaiian Islands"
-    authors: Newman Andrew J., Clark Martyn P., Longman Ryan J., Gilleland Eric, Giambelluca Thomas W., Arnold Jeffrey R.
+    authors: Newman Andrew J., Clark M.P., Longman Ryan J., Gilleland Eric, Giambelluca Thomas W., Arnold Jeffrey R.
     year: 2019
     journal: Journal of Hydrometeorology
     doi: 10.1175/JHM-D-18-0113.1
+  - title: "A Global Survey on the Perceptions and Impacts of Gender Inequality in the Earth and Space Sciences"
+    authors: Popp Andrea L., Lutz Stefanie R., Khatami Sina, van Emmerik Tim H.M., Knoben Wouter J.M.
+    year: 2019
+    journal: Earth and Space Science
+    doi: 10.1029/2019EA000706
   - title: "Diagnostic Evaluation of Large‐Domain Hydrologic Models Calibrated Across the Contiguous United States"
-    authors: Rakovec Oldrich, Mizukami Naoki, Kumar Rohini, Newman Andrew J., Thober Stephan, Wood Andrew W., Clark Martyn P., Samaniego Luis
+    authors: Rakovec Oldrich, Mizukami Naoki, Kumar Rohini, Newman Andrew J., Thober Stephan, Wood Andrew W., Clark M.P., Samaniego Luis
     year: 2019
     journal: Journal of Geophysical Research-Atmospheres
     doi: 10.1029/2019JD030767
+  - title: "Remote sensing and identification of volcanic plumes using fixed-wing UAVs over Volcan de Fuego Guatemala"
+    authors: Schellenberg B. and 10 others
+    year: 2019
+    journal: Journal of Field Robotics
+    doi: 10.1002/rob.21896
   - title: "Representing Intrahillslope Lateral Subsurface Flow in the Community Land Model"
-    authors: Swenson Sean C., Clark Martyn, Fan Ying, Lawrence David M., Perket Justin
+    authors: Swenson Sean C., Clark M.P., Fan Ying, Lawrence David M., Perket Justin
     year: 2019
     journal: Journal of Advances in Modeling Earth Systems
     doi: 10.1029/2019MS001833
+  - title: "Quantitative Evaluations and Error Source Analysis of Fengyun-2-Based and GPM-Based Precipitation Products over Mainland China in Summer 2018"
+    authors: Xu Jintao, Ma Ziqiang, Tang Guoqiang, Ji Qingwen, Min Xiaoxiao, Wan Wei, Shi Zhou
+    year: 2019
+    journal: Remote Sensing
+    doi: 10.3390/rs11242992
