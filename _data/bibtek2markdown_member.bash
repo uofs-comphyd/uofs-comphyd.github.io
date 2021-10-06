@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/local/bin/bash
 #
 # used to reformat pubs into markdown format
 
@@ -41,17 +41,25 @@ for case in "${cases[@]}"; do
  while read ref; do
 
   # get the field
-  IFS='{' read -r -a cVec <<< "${ref}"
-  key=${cVec[0]}
-  value=${cVec[1]}
+ 
+  IFS='{' read -r key value <<< "${ref}"
   newline=$'\n'
-  
+
   # save article ID
   if [[ ${key} == "@article" || ${key} == "@incollection" || ${key} == "@misc" || ${key} == "@phdthesis" || ${key} == "@mastersthesis" ]]; then
+
+   # define valid reference and increment index
+   valid=true
    i=$((i+1))
+
+   # get the reference identifiers
+   tmp=unknown
    IFS='_' read -r -a id <<< "${value%,*}"  # note "${value%,*}" removes everything after the comma
-   if [[ ${#id[@]} == "4" ]]; then idTrim=${id[@]:1}; else idTrim=${id[@]:0}; fi
-   var=`paste <(printf %s "${i}") <(printf '%s\n' "${idTrim[*]}")`
+   if [[ ${#id[@]} -eq "3" ]]; then tmp=${id[@]:0:3}; fi
+   if [[ ${#id[@]} -eq "4" ]]; then tmp=${id[@]:1:3}; fi
+
+   # merge the reference identifiers (used for sorting)
+   var=`paste <(printf %s "${i}") <(printf '%s\n' "${tmp[*]}")`
    merged[i]=`echo "$var${newline}"`
    echo Reading reference ${merged[i]}
   
@@ -61,13 +69,18 @@ for case in "${cases[@]}"; do
    year[i]=unknown
    journal[i]=unknown
    doi[i]=unknown
-  
-  # save other variables
+
+  # check that the type is article
   else
-    
+   if [[ ${key:0:1} == "@" ]];then valid=false; fi
+  fi
+
+  # process if line is valid
+  if [[ ${valid} == "true" ]]; then
+
    # remove tabs from line
    line=`echo "${ref}" | sed "s/[\t]//g"`
-  
+   
    # separate key-value pairs
    key=${line%=*}      # everything before the "=" sign
    value=${line##*=}   # everything after the "=" sign
@@ -80,13 +93,23 @@ for case in "${cases[@]}"; do
    if [[ ${key} == "year " ]];    then year[i]=${value}; fi
    if [[ ${key} == "doi " ]];     then doi[i]=${value}; fi
 
+   # change case of the title
+   # NOTE: does not handle acronymns and place names well
+   #  if [[ ${key} == "title " ]]; then
+   #   string=${value}
+   #   name=`echo $value | tr [:upper:] [:lower:]`    # convert to lower case
+   #   name=`echo $name | sed 's/esm-snowmip/ESM-SNOWMIP/g'`
+   #   title[i]=`echo ${name^}`                       # convert first letter of the title to upper case
+   #  fi # changing the case of the title
+
    # change case of the journal
    if [[ ${key} == "journal " ]]; then
     string=${value}
     name=`echo $value | tr [:upper:] [:lower:]`                            # convert to lower case
     name=`echo $name | sed 's/\<\([[:lower:]]\)\([[:alnum:]]*\)/\u\1\2/g'` # convert first letter of each word to upper case
     name=`echo $name | sed 's/ Of / of /g' | sed 's/ And / and /g' | sed 's/ The / the /g' | sed 's/ In / in /g' | sed 's/: /-/g'` 
-    journal[i]=$name
+    name=`echo $name | sed 's/'\''S/'\''s/g'`
+	journal[i]=$name
    fi # changing the case of the journal
   
   fi  # if saving other variables
