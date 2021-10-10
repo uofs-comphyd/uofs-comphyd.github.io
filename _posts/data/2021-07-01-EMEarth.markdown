@@ -2,7 +2,7 @@
 layout: product
 title: Ensemble Meteorological Dataset for Planet Earth (coming soon)
 name: EM-Earth
-date: 2019-01-01 # don't change - this is used for sorting only
+date: 2021-07-01 # don't change - this is used for sorting only
 author: Guoqiang Tang
 categories:
 - group_datasets

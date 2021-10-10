@@ -2,7 +2,7 @@
 layout: product
 title: Serially Complete Dataset for North America
 name: SCDNA
-date: 2019-01-01 # don't change - this is used for sorting only
+date: 2020-01-01 # don't change - this is used for sorting only
 author: Guoqiang Tang
 categories:
 - group_datasets

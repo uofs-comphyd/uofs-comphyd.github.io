@@ -2,7 +2,7 @@
 layout: product
 title: Serially Complete Earth Dataset
 name: SC-Earth
-date: 2019-01-01 # don't change - this is used for sorting only
+date: 2020-12-01 # don't change - this is used for sorting only
 author: Guoqiang Tang
 categories:
 - group_datasets
