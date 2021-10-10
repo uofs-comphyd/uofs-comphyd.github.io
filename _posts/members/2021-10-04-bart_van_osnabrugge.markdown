@@ -2,7 +2,7 @@
 layout: member
 title: Dr. Bart van Osnabrugge
 name: Dr. Bart van Osnabrugge
-date: 1990-04-15 # don't change - this is used for sorting only
+date: 1990-04-14 # don't change - this is used for sorting only
 author: Bart van Osnabrugge
 categories:
 - current_member

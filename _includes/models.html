@@ -1,0 +1,26 @@
+<div class="container mtb">
+    <div class="row centered">
+        {% for model in site.categories['group_models'] reversed %}
+        <div class="col-lg-3 col-md-3 col-sm-3">
+            <p style="margin-top: 1.2em"</p>
+            <div class="he-wrap tpl6">
+            <img src="{{ "/assets/img/" | prepend: site.baseurl }}{{ model.img }}" alt="">
+                <div class="he-view">
+                    <div class="bg a0" data-animate="fadeIn">
+                        <h3 class="a1" data-animate="fadeInDown">{{ model.name }}</h3>
+                        <a href="{{  model.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        {% for entry in model.availability %}
+                            <a href="{{ entry.url }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-{{ entry.icon }}"></i></a>
+                        {% endfor %}
+                    </div><!-- he bg -->
+                </div><!-- he view -->
+            </div><!-- he wrap -->
+            <a href="{{  model.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ model.name }}</h3></a>
+            <h5>{{ model.description }}</h5>
+            <p>{{ model.text }}</p>
+            <div class="hline"></div>
+        </div><! --/col-lg-3 -->
+        {% endfor %}
+
+    </div><! --/row -->
+</div><! --/container -->

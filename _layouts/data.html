@@ -5,14 +5,4 @@ layout: default
 
 {{ content }}
 
-<div class="container mtb">
-    <div class="col-lg-11 col-lg-offset-1">
-        {% for data in site.categories['data'] %}
-            <div class="row left">
-                <p><img src="{{ "/assets/img/thumbs/" | prepend: site.baseurl }}{{ data.thumb }}" alt=""> <a href="{{ data.website }}"> {{ data.year }}: {{ data.title }} </a></p>
-                <p>{{ data.summary }}</p>
-                <div class="hline"></div>
-            </div><! --/row -->
-        {% endfor %}
-    </div><! --/col-lg-8 -->
-</div><! --/container -->
+{% include datasets.html %}

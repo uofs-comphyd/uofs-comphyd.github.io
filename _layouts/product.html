@@ -1,0 +1,28 @@
+---
+layout: default
+---
+{% include wrap.html %}    
+
+<div class="container mtb">
+    <div class="row left">
+        <div class="col-lg-8 col-lg-offset-1">
+            <p><b>Name</b>: {{ page.name }}</p>
+            <p><b>Availability</b>:
+            {% for link in page.availability %}
+                <a href="{{ link.url }}">{{ link.url }}</a>                    
+            {% endfor %}</p>
+            <p><b>Documentation</b>:
+            <a href="{{ page.documentation }}">{{ page.documentation }}</a>
+            <p><b>Collaborators</b>:
+            {% for coll in page.collaborators %}
+                {% if coll.status == 'active' %}
+                    {{ coll.name }} ({{ coll.institution }});
+                {% endif %}
+            {% endfor %} and others.</p>
+            <div class="hline"></div>
+            <br>
+            {{ content }}
+            <div class="hline"></div>
+        </div><! --/col-lg-3 -->
+    </div><! --/row -->
+</div><! --/container -->
