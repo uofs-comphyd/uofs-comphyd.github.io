@@ -5,26 +5,4 @@ layout: default
 
 {{ content }}
 
-<div class="container mtb">
-    <h2>Models</h2>
-    <div class="row centered">
-        {% for code in site.categories['model'] reversed %}
-            <div class="col-lg-3 col-md-3 col-sm-3">
-                <div class="he-wrap tpl6">
-                <img src="{{ "/assets/img/" | prepend: site.baseurl }}{{ code.img }}" alt="">
-                    <div class="he-view">
-                        <div class="bg a0" data-animate="fadeIn">
-                            <h3 class="a1" data-animate="fadeInDown">{{ code.title }}</h3>
-                            <a href="{{ code.website }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                            <a href="{{ code.github }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-github"></i></a>
-                            <a href="{{ code.documentation }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-book"></i></a>
-                        </div><!-- he bg -->
-                    </div><!-- he view -->
-                </div><!-- he wrap -->
-                <h4>{{ code.title }}</h4>
-                <h5 class="ctitle">{{ code.name }}</h5>
-                <div class="hline"></div>
-            </div><! --/col-lg-3 -->
-        {% endfor %}
-    </div><! --/row -->
-</div><! --/container -->
+{% include models.html %}

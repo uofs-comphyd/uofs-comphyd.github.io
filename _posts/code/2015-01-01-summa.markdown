@@ -1,0 +1,48 @@
+---
+layout: product
+title: SUMMA
+name: SUMMA
+date: 2015-01-01 # don't change - this is used for sorting only
+author: Martyn Clark
+categories:
+- group_models
+img: summaSchematic.jpg
+description: The Structure for Unifying Multiple Modeling Alternatives 
+availability:
+- icon: github 
+  url: "https://github.com/CH-Earth/summa"
+documentation: "https://summa.readthedocs.io/en/latest/"
+collaborators:
+- name: Martyn Clark
+  institution: University of Saskatchewan
+  status: active
+- name: Bart Nijssen
+  institution: University of Washington
+  status: active
+- name: Andy Wood
+  institution: National Center for Atmospheric Research
+  status: active
+- name: Wouter Knoben
+  institution: University of Saskatchewan
+  status: active
+- name: Andrew Bennett
+  institution: University of Arizona
+  status: active
+- name: Ray Spiteri
+  institution: University of Saskatchewan
+  status: active
+---
+
+#### Description
+
+SUMMA (The Structure for Unifying Multiple Modelling Alternatives) is a hydrological  modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques. It can be used to configure a wide range of hydrological model alternatives. When applied across a large sample of catchments, SUMMA may provide insights in the dominance of different physical processes and regional variability in the suitability of different modeling approaches. An important application of SUMMA is selecting specific physics options to reproduce the behavior of existing models – these applications of "model mimicry" can be used to define reference (benchmark) cases in structured model comparison experiments, and can help diagnose weaknesses of individual models in different hydroclimatic regimes.
+
+SUMMA is built on a common set of conservation equations and a common numerical solver, which together constitute the “structural core” of the model. Different modeling approaches can then be implemented within the structural core, enabling a controlled and systematic analysis of alternative modeling options, and providing insight for future model development.
+
+#### Publications
+
+Clark M.P., Nijssen Bart, Lundquist Jessica D., Kavetski Dmitri, Rupp David E., Woods Ross A., Freer Jim E., Gutmann Ethan D., Wood Andrew W., Brekke Levi D., Arnold Jeffrey R., Gochis David J., Rasmussen Roy M., 2015: A unified approach for process-based hydrologic modeling: 1. Modeling concept. _Water Resources Research_, [doi: 10.1002/2015WR017198](http://doi.org/10.1002/2015WR017198)
+
+Clark M.P., Nijssen Bart, Lundquist Jessica D., Kavetski Dmitri, Rupp David E., Woods Ross A., Freer Jim E., Gutmann Ethan D., Wood Andrew W., Gochis David J., Rasmussen Roy M., Tarboton David G., Mahat Vinod, Flerchinger Gerald N., Marks Danny G., 2015: A unified approach for process-based hydrologic modeling: 2. Model implementation and case studies. _Water Resources Research_, [doi: 10.1002/2015WR017200](http://doi.org/10.1002/2015WR017200)
+
+Clark Martyn P., Zolfaghari Reza, Green Kevin R., Trim Sean, Knoben Wouter J. M., Bennett Andrew, Nijssen Bart, Ireson Andrew, Spiteri Raymond J., 2021: The numerical implementation of land models: Problem formulation and laugh tests. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-20-0175.1](http://doi.org/10.1175/JHM-D-20-0175.1)

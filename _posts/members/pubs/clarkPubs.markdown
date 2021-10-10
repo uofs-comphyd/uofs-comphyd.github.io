@@ -2,7 +2,7 @@ Brunner Manuela I., Slater Louise, Tallaksen Lena M., Clark Martyn, 2021: Challe
 
 Brunner Manuela I., Melsen Lieke A., Wood Andrew W., Rakovec Oldrich, Mizukami Naoki, Knoben Wouter J. M., Clark Martyn P., 2021: Flood spatial coherence triggers and performance in hydrological simulations: large-sample evaluation of four streamflow-calibrated models. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-25-105-2021](http://doi.org/10.5194/hess-25-105-2021)
 
-Choi Young-Don and 14 others, 2021: Toward open and reproducible environmental modeling by integrating online data repositories computational environments and model Application Programming Interfaces. _Environmental Modelling & Software_, [doi: 10.1016/j.envsoft.2020.104888](http://doi.org/10.1016/j.envsoft.2020.104888)
+Choi Young-Don, Goodall Jonathan L., Sadler Jeffrey M., Castronova Anthony M., Bennett Andrew, Li Zhiyu, Nijssen Bart, Wang Shaowen, Clark Martyn P., Ames Daniel P., Horsburgh Jeffery S., Yi Hong, Bandaragoda Christina, Seul Martin, Hooper Richard, Tarboton David G., 2021: Toward open and reproducible environmental modeling by integrating online data repositories computational environments and model Application Programming Interfaces. _Environmental Modelling & Software_, [doi: 10.1016/j.envsoft.2020.104888](http://doi.org/10.1016/j.envsoft.2020.104888)
 
 Clark Martyn P., Zolfaghari Reza, Green Kevin R., Trim Sean, Knoben Wouter J. M., Bennett Andrew, Nijssen Bart, Ireson Andrew, Spiteri Raymond J., 2021: The numerical implementation of land models: Problem formulation and laugh tests. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-20-0175.1](http://doi.org/10.1175/JHM-D-20-0175.1)
 
@@ -62,7 +62,7 @@ Bennett Andrew, Nijssen Bart, Ou Gengxin, Clark M.P., Nearing Grey, 2019: Quanti
 
 Bloeschl Gunter and 203 others, 2019: Twenty-three unsolved problems in hydrology (UPH) - a community perspective. _Hydrological Sciences Journal-Journal Des Sciences Hydrologiques_, [doi: 10.1080/02626667.2019.1620507](http://doi.org/10.1080/02626667.2019.1620507)
 
-Chegwidden Oriana S. and 11 others, 2019: How Do Modeling Decisions Affect the Spread Among Hydrologic Climate Change Projections? Exploring a Large Ensemble of Simulations Across a Diversity of Hydroclimates. _Earth's Future_, [doi: 10.1029/2018EF001047](http://doi.org/10.1029/2018EF001047)
+Chegwidden Oriana S., Nijssen Bart, Rupp David E., Arnold Jeffrey R., Clark M.P., Hamman Joseph J., Kao Shih‐Chieh, Mao Yixin, Mizukami Naoki, Mote Philip W., Pan Ming, Pytlak Erik, Xiao Mu, 2019: How Do Modeling Decisions Affect the Spread Among Hydrologic Climate Change Projections? Exploring a Large Ensemble of Simulations Across a Diversity of Hydroclimates. _Earth's Future_, [doi: 10.1029/2018EF001047](http://doi.org/10.1029/2018EF001047)
 
 Fan Y. and 35 others, 2019: Hillslope Hydrology in Global Change Research and Earth System Modeling. _Water Resources Research_, [doi: 10.1029/2018WR023903](http://doi.org/10.1029/2018WR023903)
 
@@ -88,7 +88,7 @@ Swenson Sean C., Clark M.P., Fan Ying, Lawrence David M., Perket Justin, 2019: R
 
 Addor N., Nearing G., Prieto C., Newman A. J., Le Vine N., Clark M. P., 2018: A Ranking of Hydrological Signatures Based on Their Predictability in Space. _Water Resources Research_, [doi: 10.1029/2018WR022606](http://doi.org/10.1029/2018WR022606)
 
-Clark M.P. and 11 others, 2018: Appreciation for Water Resources Research Reviewers. _Water Resources Research_, [doi: 10.1029/2018WR023548](http://doi.org/10.1029/2018WR023548)
+Clark M.P., Bahr Jean, Bierkens Marc F. P., Cai Ximing, Hall Jim, Hogue Terri S., Luce Charles H., Lundquist Jessica D., Mackay D. Scott, van Meerveld Ilja H. J., Rajaram Harihar, Sanchez-Vila Xavier, Troch Peter A., 2018: Appreciation for Water Resources Research Reviewers. _Water Resources Research_, [doi: 10.1029/2018WR023548](http://doi.org/10.1029/2018WR023548)
 
 Henn Brian, Clark M.P., Kavetski Dmitri, Newman Andrew J., Hughes Mimi, McGurk Bruce, Lundquist Jessica D., 2018: Spatiotemporal patterns of precipitation inferred from streamflow observations across the Sierra Nevada mountain range. _Journal of Hydrology_, [doi: 10.1016/j.jhydrol.2016.08.009](http://doi.org/10.1016/j.jhydrol.2016.08.009)
 
@@ -104,7 +104,7 @@ Musselman Keith N., Lehner Flavio, Ikeda Kyoko, Clark M.P., Prein Andreas F., Li
 
 Nearing Grey S., Ruddell Benjamin L., Clark M.P., Nijssen Bart, Peters-Lidard Christa, 2018: Benchmarking and Process Diagnostics of Land Models. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-17-0209.1](http://doi.org/10.1175/JHM-D-17-0209.1)
 
-Quinn Nevil and 19 others, 2018: Invigorating Hydrological Research through Journal Publications. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-18-0208.1](http://doi.org/10.1175/JHM-D-18-0208.1)
+Quinn Nevil, Blöschl Günter, Bárdossy András, Castellarin Attilio, Clark Martyn, Cudennec Christophe, Koutsoyiannis Demetris, Lall Upmanu, Lichner Lubomir, Parajka Juraj, Peters-Lidard Christa D., Sander Graham, Savenije Hubert, Smettem Keith, Vereecken Harry, Viglione Alberto, Willems Patrick, Wood Andy, Woods Ross, Xu Chong-Yu, Zehe Erwin, 2018: Invigorating Hydrological Research through Journal Publications. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-18-0208.1](http://doi.org/10.1175/JHM-D-18-0208.1)
 
 Vano Julie A., Arnold Jeffrey R., Nijssen Bart, Clark M.P., Wood Andrew W., Gutmann Ethan D., Addor Nans, Hamman Joseph, Lehner Flavio, 2018: DOs and DON'Ts for using climate change information for water resource planning and management: guidelines for study design. _Climate Services_, [doi: 10.1016/j.cliser.2018.07.002](http://doi.org/10.1016/j.cliser.2018.07.002)
 
@@ -118,13 +118,13 @@ Clark M.P., Hanson R. Brooks, 2017: The citation impact of hydrology journals. _
 
 Clark M.P., Bierkens Marc F. P., Samaniego Luis, Woods Ross A., Uijlenhoet Remko, Bennett Katrina E., Pauwels Valentijn R. N., Cai Xitian, Wood Andrew W., Peters-Lidard Christa D., 2017: The evolution of process-based hydrologic models: historical challenges and the collective quest for physical realism. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-21-3427-2017](http://doi.org/10.5194/hess-21-3427-2017)
 
-Clark M.P. and 10 others, 2017: A vision for Water Resources Research. _Water Resources Research_, [doi: 10.1002/2017WR021050](http://doi.org/10.1002/2017WR021050)
+Clark M.P., Bahr Jean A., Bierkens Marc F. P., Cai Ximing, Hogue Terri S., Luce Charles H., Lundquist Jessica D., Mackay D. Scott, (Ilja) van Meerveld H. J., Rajaram Harihar, Sanchez-Vila Xavier, Troch Peter A., 2017: A vision for Water Resources Research. _Water Resources Research_, [doi: 10.1002/2017WR021050](http://doi.org/10.1002/2017WR021050)
 
 Hrachowitz Markus, Clark M.P., 2017: HESS Opinions: The complementary merits of competing modelling philosophies in hydrology. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-21-3953-2017](http://doi.org/10.5194/hess-21-3953-2017)
 
 Huang Chengcheng, Newman Andrew J., Clark M.P., Wood Andrew W., Zheng Xiaogu, 2017: Evaluation of snow data assimilation using the ensemble Kalman filter for seasonal streamflow prediction in the western United States. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-21-635-2017](http://doi.org/10.5194/hess-21-635-2017)
 
-Liu Changhai and 16 others, 2017: Continental-scale convection-permitting modeling of the current and future climate of North America. _Climate Dynamics_, [doi: 10.1007/s00382-016-3327-9](http://doi.org/10.1007/s00382-016-3327-9)
+Liu Changhai, Ikeda Kyoko, Rasmussen Roy, Barlage Mike, Newman Andrew J., Prein Andreas F., Chen Fei, Chen Liang, Clark M.P., Dai Aiguo, Dudhia Jimy, Eidhammer Trude, Gochis David, Gutmann Ethan, Kurkute Sopan, Li Yanping, Thompson Gregory, Yates David, 2017: Continental-scale convection-permitting modeling of the current and future climate of North America. _Climate Dynamics_, [doi: 10.1007/s00382-016-3327-9](http://doi.org/10.1007/s00382-016-3327-9)
 
 Mendoza Pablo A., Wood Andrew W., Clark Elizabeth, Rothwell Eric, Clark M.P., Nijssen Bart, Brekke Levi D., Arnold Jeffrey R., 2017: An intercomparison of approaches for improving operational seasonal streamflow forecasts. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-21-3915-2017](http://doi.org/10.5194/hess-21-3915-2017)
 
@@ -168,7 +168,7 @@ Mendoza Pablo A., Clark M.P., Mizukami Naoki, Gutmann Ethan D., Arnold Jeffrey R
 
 Mizukami Naoki, Clark M.P., Gutmann Ethan D., Mendoza Pablo A., Newman Andrew J., Nijssen Bart, Livneh Ben, Hay Lauren E., Arnold Jeffrey R., Brekke Levi D., 2016: Implications of the Methodological Choices for Hydrologic Portrayals of Climate Change over the Contiguous United States: Statistically Downscaled Forcing Data and Hydrologic Models. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-14-0187.1](http://doi.org/10.1175/JHM-D-14-0187.1)
 
-Mizukami Naoki and 10 others, 2016: mizuRoute version 1: a river network routing tool for continental domain water resources applications. _Geoscientific Model Development_, [doi: 10.5194/gmd-9-2223-2016](http://doi.org/10.5194/gmd-9-2223-2016)
+Mizukami Naoki, Clark M.P., Sampson Kevin, Nijssen Bart, Mao Yixin, McMillan Hilary, Viger Roland J., Markstrom Steve L., Hay Lauren E., Woods Ross, Arnold Jeffrey R., Brekke Levi D., 2016: mizuRoute version 1: a river network routing tool for continental domain water resources applications. _Geoscientific Model Development_, [doi: 10.5194/gmd-9-2223-2016](http://doi.org/10.5194/gmd-9-2223-2016)
 
 Nearing Grey S., Tian Yudong, Gupta Hoshin V., Clark M.P., Harrison Kenneth W., Weijs Steven V., 2016: A philosophical basis for hydrological uncertainty. _Hydrological Sciences Journal-Journal Des Sciences Hydrologiques_, [doi: 10.1080/02626667.2016.1183009](http://doi.org/10.1080/02626667.2016.1183009)
 
@@ -176,13 +176,13 @@ Prein Andreas F., Holland Gregory J., Rasmussen Roy M., Clark M.P., Tye Mari R.,
 
 Wood Andrew W., Hopson Tom, Newman Andy, Brekke Levi, Arnold Jeff, Clark M.P., 2016: Quantifying Streamflow Forecast Skill Elasticity to Initial Condition and Climate Prediction Skill. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-14-0213.1](http://doi.org/10.1175/JHM-D-14-0213.1)
 
-Clark M.P. and 11 others, 2015: A unified approach for process-based hydrologic modeling: 1. Modeling concept. _Water Resources Research_, [doi: 10.1002/2015WR017198](http://doi.org/10.1002/2015WR017198)
+Clark M.P., Nijssen Bart, Lundquist Jessica D., Kavetski Dmitri, Rupp David E., Woods Ross A., Freer Jim E., Gutmann Ethan D., Wood Andrew W., Brekke Levi D., Arnold Jeffrey R., Gochis David J., Rasmussen Roy M., 2015: A unified approach for process-based hydrologic modeling: 1. Modeling concept. _Water Resources Research_, [doi: 10.1002/2015WR017198](http://doi.org/10.1002/2015WR017198)
 
-Archfield Stacey A. and 15 others, 2015: Accelerating advances in continental domain hydrologic modeling. _Water Resources Research_, [doi: 10.1002/2015WR017498](http://doi.org/10.1002/2015WR017498)
+Archfield Stacey A., Clark M.P., Arheimer Berit, Hay Lauren E., McMillan Hilary, Kiang Julie E., Seibert Jan, Hakala Kirsti, Bock Andrew, Wagener Thorsten, Farmer William H., Andreassian Vazken, Attinger Sabine, Viglione Alberto, Knight Rodney, Markstrom Steven, Over Thomas, 2015: Accelerating advances in continental domain hydrologic modeling. _Water Resources Research_, [doi: 10.1002/2015WR017498](http://doi.org/10.1002/2015WR017498)
 
-Clark M.P. and 12 others, 2015: Improving the representation of hydrologic processes in Earth System Models. _Water Resources Research_, [doi: 10.1002/2015WR017096](http://doi.org/10.1002/2015WR017096)
+Clark M.P., Fan Ying, Lawrence David M., Adam Jennifer C., Bolster Diogo, Gochis David J., Hooper Richard P., Kumar Mukesh, Leung L. Ruby, Mackay D. Scott, Maxwell Reed M., Shen Chaopeng, Swenson Sean C., Zeng Xubin, 2015: Improving the representation of hydrologic processes in Earth System Models. _Water Resources Research_, [doi: 10.1002/2015WR017096](http://doi.org/10.1002/2015WR017096)
 
-Clark M.P. and 13 others, 2015: A unified approach for process-based hydrologic modeling: 2. Model implementation and case studies. _Water Resources Research_, [doi: 10.1002/2015WR017200](http://doi.org/10.1002/2015WR017200)
+Clark M.P., Nijssen Bart, Lundquist Jessica D., Kavetski Dmitri, Rupp David E., Woods Ross A., Freer Jim E., Gutmann Ethan D., Wood Andrew W., Gochis David J., Rasmussen Roy M., Tarboton David G., Mahat Vinod, Flerchinger Gerald N., Marks Danny G., 2015: A unified approach for process-based hydrologic modeling: 2. Model implementation and case studies. _Water Resources Research_, [doi: 10.1002/2015WR017200](http://doi.org/10.1002/2015WR017200)
 
 Henn Brian, Clark M.P., Kavetski Dmitri, Lundquist Jessica D., 2015: Estimating mountain basin-mean precipitation from streamflow using Bayesian inference. _Water Resources Research_, [doi: 10.1002/2014WR016736](http://doi.org/10.1002/2014WR016736)
 
@@ -194,7 +194,7 @@ Mendoza Pablo A., Clark M.P., Mizukami Naoki, Newman Andrew J., Barlage Michael,
 
 Mendoza Pablo A., Rajagopalan Balaji, Clark M.P., Ikeda Kyoko, Rasmussen Roy M., 2015: Statistical Postprocessing of High-Resolution Regional Climate Model Output. _Monthly Weather Review_, [doi: 10.1175/MWR-D-14-00159.1](http://doi.org/10.1175/MWR-D-14-00159.1)
 
-Newman A. J. and 10 others, 2015: Development of a large-sample watershed-scale hydrometeorological data set for the contiguous USA: data set characteristics and assessment of regional variability in hydrologic model performance. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-19-209-2015](http://doi.org/10.5194/hess-19-209-2015)
+Newman A. J., Clark M. P., Sampson K., Wood A., Hay L. E., Bock A., Viger R. J., Blodgett D., Brekke L., Arnold J. R., Hopson T., Duan Q., 2015: Development of a large-sample watershed-scale hydrometeorological data set for the contiguous USA: data set characteristics and assessment of regional variability in hydrologic model performance. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-19-209-2015](http://doi.org/10.5194/hess-19-209-2015)
 
 Newman Andrew J., Clark M.P., Craig Jason, Nijssen Bart, Wood Andrew, Gutmann Ethan, Mizukami Naoki, Brekke Levi, 2015: Gridded Ensemble Precipitation and Temperature Estimates for the Contiguous United States. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-15-0026.1](http://doi.org/10.1175/JHM-D-15-0026.1)
 
@@ -228,7 +228,7 @@ Pagano Thomas C., Wood Andrew W., Ramos Maria-Helena, Cloke Hannah L., Pappenber
 
 Rakovec O., Hill M. C., Clark M. P., Weerts A. H., Teuling A. J., Uijlenhoet R., 2014: Distributed Evaluation of Local Sensitivity Analysis ( DELSA) with application to hydrologic models. _Water Resources Research_, [doi: 10.1002/2013WR014063](http://doi.org/10.1002/2013WR014063)
 
-Rasmussen Roy and 10 others, 2014: Climate Change Impacts on the Water Balance of the Colorado Headwaters: High-Resolution Regional Climate Model Simulations. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-13-0118.1](http://doi.org/10.1175/JHM-D-13-0118.1)
+Rasmussen Roy, Ikeda Kyoko, Liu Changhai, Gochis David, Clark M.P., Dai Aiguo, Gutmann Ethan, Dudhia Jimy, Chen Fei, Barlage Mike, Yates David, Zhang Guo, 2014: Climate Change Impacts on the Water Balance of the Colorado Headwaters: High-Resolution Regional Climate Model Simulations. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-13-0118.1](http://doi.org/10.1175/JHM-D-13-0118.1)
 
 Hrachowitz M. and 24 others, 2013: A decade of Predictions in Ungauged Basins (PUB): A review. _Hydrological Sciences Journal-Journal Des Sciences Hydrologiques_, [doi: 10.1080/02626667.2013.803183](http://doi.org/10.1080/02626667.2013.803183)
 
@@ -252,11 +252,9 @@ Hendrikx J., Hreinsson E. Oe, Clark M.P., Mullan A. B., 2012: The potential impa
 
 Hwang Yeonsang, Clark M.P., Rajagopalan Balaji, Leavesley George, 2012: Spatial interpolation schemes of daily precipitation for hydrologic modeling. _Stochastic Environmental Research and Risk Assessment_, [doi: 10.1007/s00477-011-0509-1](http://doi.org/10.1007/s00477-011-0509-1)
 
-Liu Y. and 14 others, 2012: Advancing data assimilation in operational hydrologic forecasting: progresses challenges and emerging opportunities. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-16-3863-2012](http://doi.org/10.5194/hess-16-3863-2012)
+Liu Y., Weerts A. H., Clark M.P., Franssen H-J Hendricks, Kumar S., Moradkhani H., Seo D-J, Schwanenberg D., Smith P., van Dijk A. I. J. M., van Velzen N., He M., Lee H., Noh S. J., Rakovec O., Restrepo P., 2012: Advancing data assimilation in operational hydrologic forecasting: progresses challenges and emerging opportunities. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-16-3863-2012](http://doi.org/10.5194/hess-16-3863-2012)
 
 McMillan Hilary, Tetzlaff Doerthe, Clark M.P., Soulsby Chris, 2012: Do time-variable tracers aid the evaluation of hydrological model structure? A multimodel approach. _Water Resources Research_, [doi: 10.1029/2011WR011688](http://doi.org/10.1029/2011WR011688)
-
-Tait Andrew, Sturman James, Clark M.P., 2012: An assessment of the accuracy of interpolated daily rainfall for New Zealand. _Journal of Hydrology (New Zealand)_, doi: unknown
 
 Clark M.P., McMillan Hilary K., Collins Daniel B. G., Kavetski Dmitri, Woods Ross A., 2011: Hydrological field data from a modeller's perspective: Part 2: process-based evaluation of model hypotheses. _Hydrological Processes_, [doi: 10.1002/hyp.7902](http://doi.org/10.1002/hyp.7902)
 
@@ -286,13 +284,9 @@ McMillan Hilary, Freer Jim, Pappenberger Florian, Krueger Tobias, Clark M.P., 20
 
 Clark M. P., Rupp D. E., Woods R. A., Tromp-van Meerveld H. J., Peters N. E., Freer J. E., 2009: Consistency between hydrological models and field observations: linking processes at the hillslope scale to hydrological responses at the watershed scale. _Hydrological Processes_, [doi: 10.1002/hyp.7154](http://doi.org/10.1002/hyp.7154)
 
-Clark M.P., Hreinsson Einar Örn, Martinez Guillermo, Tait Andrew, Slater Andrew, Hendrikx Jordy, Owens Ian, Gupta Hoshin, Schmidt Jochen, Woods Ross, 2009: Simulations of seasonal snow for the South Island New Zealand. _Journal of Hydrology (New Zealand)_, doi: unknown
-
 Hay Lauren E., McCabe Gregory J., Clark M.P., Risley John C., 2009: Reducing Streamflow Forecast Uncertainty: Application and Qualitative Assessment of the Upper Klamath River Basin Oregon. _Journal of the American Water Resources Association_, [doi: 10.1111/j.1752-1688.2009.00307.x](http://doi.org/10.1111/j.1752-1688.2009.00307.x)
 
 Hendrikx Jordy, Birkeland Karl, Clark M.P., 2009: Assessing changes in the spatial variability of the snowpack fracture propagation propensity over time. _Cold Regions Science and Technology_, [doi: 10.1016/j.coldregions.2008.12.001](http://doi.org/10.1016/j.coldregions.2008.12.001)
-
-Ibbitt Richard P., Woods Ross A., Clark M.P., 2009: Assimilating streamflow data to update water table positions in rainfall-to-runoff models based on TOPMODEL concepts. _Journal of Hydrology (New Zealand)_, doi: unknown
 
 McMillan Hilary, Clark M.P., 2009: Rainfall-runoff model calibration using informal likelihood measures within a Markov chain Monte Carlo sampling scheme. _Water Resources Research_, [doi: 10.1029/2008WR007288](http://doi.org/10.1029/2008WR007288)
 

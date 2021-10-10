@@ -117,12 +117,32 @@ for case in "${cases[@]}"; do
  done <$bibtexFile
 
  # -----
- # * sort the data and write in markdown format...
- # -----------------------------------------------
+ # * sort the data...
+ # ------------------
+
+ # define temporary file
+ mkdir -p temp
+ rm -f temp/*
+ websiteTemp=temp/refId.txt
+ websiteUniq=temp/refIdUniq.txt
+ websiteSort=temp/refIdSort.txt
+
+ # prepare file for sorting (include the doi to identify duplicates)
+ for i in ${!merged[@]}; do
+  echo ${merged[i]} ${doi[i]} | sed 's/[[:space:]]\+/,/g' >> $websiteTemp
+ done
+
+ # remove duplicates
+ # NOTE: sort by the 5th field (doi) and save unique values
+ sort -t "," -k5 -u $websiteTemp | cut -d "," -f 1,2,3,4 > $websiteUniq
 
  # sort the IDs
- IFS=$'\n' sortedIds=($(sort -k4r -k2 <<<"${merged[*]}"))
- unset IFS
+ # NOTE: sort by the 4th field recursively (year) and then by the second field (author)
+ sort -t "," -k4r -k2 $websiteUniq > $websiteSort
+
+ # -----
+ # * write in the markdown format...
+ # ---------------------------------
 
  # start writing to file
  rm -f $websiteFile
@@ -130,13 +150,13 @@ for case in "${cases[@]}"; do
  exec 1> $websiteFile
 
  # loop through references
- for id in "${sortedIds[@]}"; do
+ while read -r ref; do
 
   # get the sorted index for a given reference
-  IFS=$'\t' read -r -a index <<< "${id}"
+  IFS=$',' read -r -a index <<< "${ref}"
   
   # deal with the special case of >10 authors
-  maxAuthors=10  # maximum number of authors to list
+  maxAuthors=20  # maximum number of authors to list
   authorList="${author[${index[0]}]}"
   nAuthors=`echo "${authorList}" | sed 's/[^,]//g' | awk '{ print length; }'`
   if [[ "${nAuthors}" -gt "${maxAuthors}" ]]; then
@@ -167,7 +187,7 @@ for case in "${cases[@]}"; do
    printf '%s\n\n' "${ref}${doi}"
   fi
 
- done # loop through references
+ done < "$websiteSort" # loop through references 
 
  # close file descriptor
  exec 1>&3  # Duplicate file descriptor 3 to stdout
