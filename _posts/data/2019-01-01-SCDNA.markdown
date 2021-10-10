@@ -1,0 +1,45 @@
+---
+layout: product
+title: Serially Complete Dataset for North America
+name: SCDNA
+date: 2019-01-01 # don't change - this is used for sorting only
+author: Guoqiang Tang
+categories:
+- group_datasets
+img: dataSCDNAfillratio.jpg
+description: Serially Complete Dataset for North America
+availability:
+- icon: folder 
+  url: "https://zenodo.org/record/3953310"
+documentation: "https://doi.org/10.5194/essd-12-2381-2020"
+collaborators:
+- name: Guoqiang Tang
+  institution: University of Saskatchewan
+  status: active
+- name: Martyn Clark
+  institution: University of Saskatchewan
+  status: active
+- name: Andrew Newman
+  institution: National Center for Atmospheric Research
+  status: active
+- name: Andy Wood
+  institution: National Center for Atmospheric Research
+  status: active
+- name: Simon Michael Papalexiou
+  institution: University of Saskatchewan
+  status: active
+- name: Vincent Vionnet
+  institution: Environment and Climate Change Canada
+  status: active
+- name: Paul Whitfield
+  institution: University of Saskatchewan
+  status: active
+---
+
+#### Description
+Station-based serially complete datasets (SCDs) of precipitation and temperature observations are important for hydrometeorological studies. Motivated by the lack of serially complete station observations for North America, this study seeks to develop an SCD from 1979 to 2018 from station data. The new SCD for North America (SCDNA) includes daily precipitation, minimum temperature (Tmin), and maximum temperature (Tmax) data for 27 276 stations. Raw meteorological station data were obtained from the Global Historical Climate Network Daily (GHCN-D), the Global Surface Summary of the Day (GSOD), Environment and Climate Change Canada (ECCC), and a compiled station database in Mexico. Stations with at least 8-year-long records were selected, which underwent location correction and were subjected to strict quality control. Outputs from three reanalysis products (ERA5, JRA-55, and MERRA-2) provided auxiliary information to estimate station records. Infilling during the observation period and reconstruction beyond the observation period were accomplished by combining estimates from 16 strategies (variants of quantile mapping, spatial interpolation, and machine learning). A sensitivity experiment was conducted by assuming that 30 % of observations from stations were missing – this enabled independent validation and provided a reference for reconstruction. Quantile mapping and mean value corrections were applied to the final estimates. The median Kling–Gupta efficiency (KGE′) values of the final SCDNA for all stations are 0.90, 0.98, and 0.99 for precipitation, Tmin, and Tmax, respectively. The SCDNA is closer to station observations than the four benchmark gridded products and can be used in applications that require either quality-controlled meteorological station observations or reconstructed long-term estimates for analysis and modeling.
+
+#### Publications
+Tang Guoqiang, Clark Martyn P., Newman Andrew J., Wood Andrew W., Papalexiou Simon Michael, Vionnet Vincent, Whitfield Paul H., 2020: SCDNA: a serially complete precipitation and temperature dataset for North America from 1979 to 2018. _Earth System Science Data_, [doi: 10.5194/essd-12-2381-2020](http://doi.org/10.5194/essd-12-2381-2020)
+
+Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, 2021: The Use of Serially Complete Station Data to Improve the Temporal Continuity of Gridded Precipitation and Temperature Estimates. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-20-0313.1](http://doi.org/10.1175/JHM-D-20-0313.1)

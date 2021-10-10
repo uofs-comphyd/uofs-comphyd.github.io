@@ -1,0 +1,43 @@
+---
+layout: product
+title: Ensemble Meteorological Dataset for North America
+name: EMDNA
+date: 2019-01-01 # don't change - this is used for sorting only
+author: Guoqiang Tang
+categories:
+- group_datasets
+img: dataEMDNAmap.jpg
+description: Ensemble Meteorological Dataset for North America
+availability:
+- icon: folder 
+  url: "https://doi.org/10.20383/101.0275"
+documentation: "https://doi.org/10.5194/essd-13-3337-2021"
+collaborators:
+- name: Guoqiang Tang
+  institution: University of Saskatchewan
+  status: active
+- name: Martyn Clark
+  institution: University of Saskatchewan
+  status: active
+- name: Simon Michael Papalexiou
+  institution: University of Saskatchewan
+  status: active
+- name: Andrew Newman
+  institution: National Center for Atmospheric Research
+  status: active
+- name: Andy Wood
+  institution: National Center for Atmospheric Research
+  status: active
+- name: Dominique Brunet
+  institution: Environment and Climate Change Canada
+  status: active
+- name: Paul Whitfield
+  institution: University of Saskatchewan
+  status: active
+---
+
+#### Description
+Probabilistic methods are useful to estimate the uncertainty in spatial meteorological fields (e.g., the uncertainty in spatial patterns of precipitation and temperature across large domains). In ensemble probabilistic methods, “equally plausible” ensemble members are used to approximate the probability distribution, hence the uncertainty, of a spatially distributed meteorological variable conditioned to the available information. The ensemble members can be used to evaluate the impact of uncertainties in spatial meteorological fields for a myriad of applications. This study develops the Ensemble Meteorological Dataset for North America (EMDNA). EMDNA has 100 ensemble members with daily precipitation amount, mean daily temperature, and daily temperature range at 0.1∘ spatial resolution (approx. 10 km grids) from 1979 to 2018, derived from a fusion of station observations and reanalysis model outputs. The station data used in EMDNA are from a serially complete dataset for North America (SCDNA) that fills gaps in precipitation and temperature measurements using multiple strategies. Outputs from three reanalysis products are regridded, corrected, and merged using Bayesian model averaging. Optimal interpolation (OI) is used to merge station- and reanalysis-based estimates. EMDNA estimates are generated using spatiotemporally correlated random fields to sample from the OI estimates. Evaluation results show that (1) the merged reanalysis estimates outperform raw reanalysis estimates, particularly in high latitudes and mountainous regions; (2) the OI estimates are more accurate than the reanalysis and station-based regression estimates, with the most notable improvements for precipitation evident in sparsely gauged regions; and (3) EMDNA estimates exhibit good performance according to the diagrams and metrics used for probabilistic evaluation. We discuss the limitations of the current framework and highlight that further research is needed to improve ensemble meteorological datasets. Overall, EMDNA is expected to be useful for hydrological and meteorological applications in North America.
+
+#### Publications
+Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, Newman Andrew J., Wood Andrew W., Brunet Dominique, Whitfield Paul H., 2021: EMDNA: an Ensemble Meteorological Dataset for North America. _Earth System Science Data_, [doi: 10.5194/essd-13-3337-2021](http://doi.org/10.5194/essd-13-3337-2021)
