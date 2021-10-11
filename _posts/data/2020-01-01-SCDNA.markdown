@@ -9,7 +9,7 @@ categories:
 img: dataSCDNAfillratio.jpg
 description: Serially Complete Dataset for North America
 availability:
-- icon: folder 
+- icon: download 
   url: "https://zenodo.org/record/3953310"
 documentation: "https://doi.org/10.5194/essd-12-2381-2020"
 collaborators:
