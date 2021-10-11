@@ -9,7 +9,7 @@ categories:
 img: dataEMEarthuncertainty.jpg
 description: Ensemble Meteorological Dataset for Planet Earth (coming soon)
 availability:
-- icon: folder 
+- icon: download 
   url: "coming soon"
 documentation: "coming soon"
 collaborators:

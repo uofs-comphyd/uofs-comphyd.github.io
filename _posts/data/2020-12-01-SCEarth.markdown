@@ -9,7 +9,7 @@ categories:
 img: dataSCEarthmap.jpg
 description: Station-based Serially Complete Earth Dataset
 availability:
-- icon: folder 
+- icon: download 
   url: "https://zenodo.org/record/4762586"
 documentation: "https://doi.org/10.1175/JCLI-D-21-0067.1"
 collaborators:
