@@ -1,6 +1,9 @@
-Lavers David A. and 12 others, 2020: A Vision for Hydrological Prediction. _Atmosphere_, [doi: 10.3390/atmos11030237](http://doi.org/10.3390/atmos11030237)
 
-Arnal Louise, Anspoks Liz, Manson Susan, Neumann Jessica, Norton Tim, Stephens Elisabeth, Wolfenden Louise, Cloke Hannah Louise, 2019: "Are we talking just a bit of water out of bank? Or is it Armageddon?" Front line perspectives on transitioning to probabilistic fluvial flood forecasts in England. _Geoscience Communication Discussions_, [doi: 10.5194/gc-2019-18](http://doi.org/10.5194/gc-2019-18)
+Vionnet Vincent, Mortimer Colleen, Brady Mike, Arnal Louise, Brown Ross, 2021: Canadian historical Snow Water Equivalent dataset (CanSWE, 1928–2020), _Earth System Science Data_, [doi: 10.5194/essd-13-4603-2021](https://doi.org/10.5194/essd-13-4603-2021)
+
+Arnal Louise, Anspoks Liz, Manson Susan, Neumann Jessica, Norton Tim, Stephens Elisabeth, Wolfenden Louise, Cloke Hannah Louise, 2020: "Are we talking just a bit of water out of bank? Or is it Armageddon?" Front line perspectives on transitioning to probabilistic fluvial flood forecasts in England. _Geoscience Communication_, [doi: 10.5194/gc-3-203-2020](https://doi.org/10.5194/gc-3-203-2020)
+
+Lavers David A. and 12 others, 2020: A Vision for Hydrological Prediction. _Atmosphere_, [doi: 10.3390/atmos11030237](http://doi.org/10.3390/atmos11030237)
 
 Arnal Louise, Cloke Hannah L., Stephens Elisabeth, Wetterhall Fredrik, Prudhomme Christel, Neumann Jessica, Krzeminski Blazej, Pappenberger Florian, 2018: Skilful seasonal forecasts of streamflow over Europe?. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-22-2057-2018](http://doi.org/10.5194/hess-22-2057-2018)
 
@@ -12,5 +15,5 @@ Neumann Jessica L., Arnal Louise, Emerton Rebecca E., Griffith Helen, Hyslop Stu
 
 Arnal Louise, Wood Andrew W., Stephens Elisabeth, Cloke Hannah L., Pappenberger Florian, 2017: An Efficient Approach for Estimating Streamflow Forecast Skill Elasticity. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-16-0259.1](http://doi.org/10.1175/JHM-D-16-0259.1)
 
-Arnal Louise, Ramos Maria-Helena, Coughlan de Perez Erin, Cloke Hannah L., Stephens Elisabeth, Wetterhall Fredrik, van Andel Schalk Jan, Pappenberger Florian, 2016: Willingness-to-pay for a probabilistic flood forecast: a risk-based decision-making game. _Hydrol. Earth Syst. Sci._, [doi: 10.5194/hess-20-3109-2016](http://doi.org/10.5194/hess-20-3109-2016)
+Arnal Louise, Ramos Maria-Helena, Coughlan de Perez Erin, Cloke Hannah L., Stephens Elisabeth, Wetterhall Fredrik, van Andel Schalk Jan, Pappenberger Florian, 2016: Willingness-to-pay for a probabilistic flood forecast: a risk-based decision-making game. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-20-3109-2016](http://doi.org/10.5194/hess-20-3109-2016)
 
