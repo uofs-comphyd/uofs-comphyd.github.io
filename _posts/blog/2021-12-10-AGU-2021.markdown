@@ -1,0 +1,34 @@
+---
+layout: post
+title: 'USask/Canmore Computational Hydrology at AGU 2021: things not to miss!'
+date: 2021-12-10 11:00AM"
+author: Computational Hydrology Team
+categories:
+- blog
+tags:
+- conference
+- science
+img: laptop_snow.jpeg
+thumb: laptop_snow.jpeg
+---
+This year, the AGU Fall Meeting is taking place in New Orleans and online between 13 - 17 December 2021. Our team will be attending remotely, and presenting on a variety of topics, such as: ensemble spatial meteorological fields, community hydrologic modeling, sensitivity analysis and uncertainty quantification, performance metrics, streamflow forecasting, and plant-climate interactions. See a list of our presentations in the table below.
+
+We also want to congratulate our colleagues for their AGU awards. Marysa Laguë won the James R. Holton Award and will be giving a talk about her latest research on Monday 13 December (more info in the table). And our colleague John Pomeroy has been named the 2021 Walter Langbein Lecturer.
+
+We are looking forward to hearing about recent scientific research and developments and to virtually socialise with friends and colleagues from around the world. See you next week!
+
+| Date  | Time (MST) |  Presenter  |  Type  |  Title & abstract link  |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Monday Dec 13  | 12:00 - 12:05  |  Kevin Shook  |  Poster  |  [Estimating flow velocities and roughness coefficients of Canadian Prairie basins](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/947743)  |
+| Monday Dec 13  | 14:15 - 14:30  |  Marysa Laguë  |  Oral  |  [From plants to planets: the effect of land surface properties on global climate](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/1020901)  |
+| Wednesday Dec 15  |  08:35 - 08:40  |  Shervan Gharari  |  Oral  |  [Understanding the Information Content in the Hierarchy of Model Development Decisions: Learning From Data](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/923946)  |
+| Wednesday Dec 15  |  13:40 - 13:45  |  Vincent Vionnet  |  Oral  |  [Impact of precipitation forcing on gridded snow water equivalent estimates across North America](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/807986)  |
+|  Thursday Dec 16  |  12:05 - 12:10  |  Wouter Knoben  |  Oral  |  [Community modeling: supporting large-domain water resources modeling through an open-source model configuration toolbox](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/915348)  |
+|  Thursday Dec 16  |  13:30 - 13:35  |  Martyn P Clark  |  Oral  |  [Advancing the science and practice of community hydrologic modeling: Development of open-source models, methods, and datasets to enable process-based hydrologic prediction across North America (and beyond)](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/973297)  |
+|  Friday Dec 17  |  07:00 - 07:05  |  Martyn P Clark  |  Oral  |  [The abuse of popular performance metrics in hydrologic modeling](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/944386)  |
+|  Friday Dec 17  |  13:33 - 13:36  |  Jim E Freer  |  Oral  |  [The anatomy and uncertainty of a Canadian National River Gauging Network](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/997508)  |
+|  Friday Dec 17  |  13:38 - 13:41  |  Louise Arnal  |  Oral  |  [A benchmark for probabilistic seasonal streamflow forecasting across North America](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/947038)  |
+|  Friday Dec 17  |  14:12 - 14:16  |  Wouter Knoben  |  Oral  |  [Creating an open-source, reproducible water resources modelling workflow](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/916565)  |
+|  Friday Dec 17  |  15:00 - 17:00  |  Guoqiang Tang  |  Poster  |  [Characterizing global hydrological modeling uncertainties using the Ensemble Meteorological Dataset for Planet Earth (EM-Earth)](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/922878)  |
+|  Friday Dec 17  |  16:00 - 18:00  |  Hongli Liu  |  Poster  |  [A new spin on global sensitivity analysis: worldwide sensitivity analysis of the SUMMA model](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/951380)  |
+|  Friday Dec 17  |  15:00 - 17:00  |  Marysa Laguë  |  Poster  |  [Plants alter oceanic clouds: the land wake and its intensification by CO2-induced stomatal closure](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/800104)  |
