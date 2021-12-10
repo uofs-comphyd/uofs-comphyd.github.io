@@ -17,8 +17,9 @@ We also want to congratulate our colleagues for their AGU awards. Marysa Laguë 
 
 We are looking forward to hearing about recent scientific research and developments and to virtually socialise with friends and colleagues from around the world. See you next week!
 
-| Date  | Time (MST) |  Presenter  |  Format & presentation link  |  Title & abstract link  |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Date           | Time (MST)     |  Presenter     |  Type          |  Title         |
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=200/>|<img width=500/>|
+| -------------  | -------------  | -------------  | ------------- | ------------- |
 | Monday Dec 13  | 12:00 - 12:05  |  Kevin Shook  |  [Oral](https://eventpilotadmin.com/src/EventPilot/php/scripts/aguvideo.php?clid=aguorg-fm21/H13E-03_xuz7df&atvid=p947743&cid=AGU21)  |  [Estimating flow velocities and roughness coefficients of Canadian Prairie basins](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/947743)  |
 | Monday Dec 13  | 14:15 - 14:30  |  Marysa Laguë  |  Oral  |  [From plants to planets: the effect of land surface properties on global climate](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/1020901)  |
 | Tuesday Dec 14 | 14:00 - 14:45 | John W Pomeroy | Oral | [Cold Regions Process Hydrology: Principles, Processes, Management and Prospects](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/955231)  |
@@ -33,3 +34,4 @@ We are looking forward to hearing about recent scientific research and developme
 |  Friday Dec 17  |  15:00 - 17:00  |  Guoqiang Tang  |  [Poster](https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=B2-D5-A5-84-A7-69-14-35-30-F8-6C-75-FD-60-B7-BC)  |  [Characterizing global hydrological modeling uncertainties using the Ensemble Meteorological Dataset for Planet Earth (EM-Earth)](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/922878)  |
 |  Friday Dec 17  |  16:00 - 18:00  |  Hongli Liu  |  [Poster](http://agu2021fallmeeting-agu.ipostersessions.com/Default.aspx?s=ED-33-58-1D-F5-72-94-24-05-E8-0A-D2-E4-C0-94-FB)  |  [A new spin on global sensitivity analysis: worldwide sensitivity analysis of the SUMMA model](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/951380)  |
 |  Friday Dec 17  |  15:00 - 17:00  |  Marysa Laguë  |  [Poster](https://agu2021fallmeeting-agu.ipostersessions.com/?s=01-E0-85-A7-E1-7C-CD-66-72-8D-BB-62-6B-54-B3-CE)  |  [Plants alter oceanic clouds: the land wake and its intensification by CO2-induced stomatal closure](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/800104)  |
+{:.table-bordered}
