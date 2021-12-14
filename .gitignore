@@ -2,3 +2,5 @@ assets/.DS_Store
 .DS_Store
 _site/*
 *.swp
+Gemfile
+Gemfile.lock
