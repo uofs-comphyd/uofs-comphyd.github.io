@@ -1,0 +1,58 @@
+---
+layout: opportunity
+title: Continental-domain hydrological modeling
+date: 2015-10-01
+author: Martyn Clark
+img: martyn_painter_fortress.JPG
+thumb: emojiCrowd_forWeb.jpg
+categories:
+- opportunity
+tags_xxx:
+- Postdoc opportunity
+position: Postdoctoral Fellow
+brief_description: Conduct research to develop the necessary modeling infrastructure to produce and refine process-based hydrological model simulations across North America. 
+project_period: 2 years (subject to performance and funds)
+project_location: Canmore, Alberta, Canada
+start_date: As soon as possible
+how_to_apply: Please email a cover letter, a Curriculum Vitae, and a list of at least three references to [martyn.clark@usask.ca](mailto:martyn.clark@usask.ca)
+social:
+- title: envelope #use for email address
+  url: "mailto:martyn.clark@usask.ca"
+---
+
+## Position description 
+A full-time, 2-year Postdoctoral Fellow is available immediately to develop the necessary modeling infrastructure to use the Structure for Unifying Multiple Modeling Alternatives (SUMMA) to produce and refine large-ensemble hydrological model simulations for North America. Responsibilities include SUMMA model development and application; analysis, visualization, presentation and publication of research findings; and participation in interdisciplinary research teams. Because of the strong computational focus of this project, a strong background in hydrological modeling and / or software development will be important.
+
+## About us
+As part of the [Global Water Futures](https://gwf.usask.ca/) project, the computational hydrology group builds tools to simulate and predict hydrological processes. We span spatial scales from hillslopes to continents and time scales from seconds to centuries. Some of our example contributions include ensemble forcing data for large-domain hydrological models, multi-scale hydrological models, continental-domain network routing models, ensemble methods for data assimilation, and process-based methods for model benchmarking and model evaluation. Much of our model development work is targeted toward applications in streamflow forecasting, water security assessments, and improving the representation of hydrological processes in Earth System models.
+
+## Qualifications
+
+ *	Recent Ph.D. degree (0-3 years of postdoctoral experience) in hydrology, civil engineering, earth science or a related discipline.
+
+ *	Demonstrated record of research and publication
+
+ *	In-depth knowledge of hydrological and water resources modeling
+
+ *	Experience handling large and heterogeneous geophysical datasets
+
+ *	Strong competence in computer programming with C or Fortran preferred
+
+ *	Strong competence in programming with python, R, or matlab or a similar scripting and visualization language
+
+ *	Competence in Unix environments preferred
+
+ *	Competence in modern version control systems, such as git, preferred
+
+ *	Competence in large-scale, distributed computation preferred
+
+ *	Ability to communicate clearly, concisely, and effectively in both spoken and written English is required.
+
+ *	Sharp analytical abilities and problem solving skills
+
+ *	Demonstrated leadership abilities and record of positive contributions within a collaborative environment
+
+ *	Ability to work independently, multi-task and prioritize workload
+
+## How to apply
+Please email a cover letter, a Curriculum Vitae, and a list of at least three references to [martyn.clark@usask.ca](mailto:martyn.clark@usask.ca)
