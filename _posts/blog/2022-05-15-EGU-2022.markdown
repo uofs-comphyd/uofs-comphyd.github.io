@@ -13,7 +13,7 @@ thumb: laptop_dry.jpg
 ---
 This year, the EGU General Assembly is taking place in Vienna and online between 23 - 27 May 2022. Our team will be attending remotely and in person, and presenting on a variety of topics. See a list of our presentations and those we contributed to in the table below. Note that times are local Vienna time (GMT+2).
 
-We also reflect on the passing of Eric F. Wood, a pioneer in large-domain hydrologic modeling. Our own Martyn Clark will deliver a brief eulogy on Monday May 23.
+We also reflect on the passing of Eric F. Wood, a pioneer in large-domain hydrologic modeling. Martyn Clark will deliver a presentation highlighting Eric's scientific contributions on Monday May 23.
 
 We are looking forward to hearing about recent scientific research and developments and to (virtually) socialise with friends and colleagues from around the world. See you next week!
 
