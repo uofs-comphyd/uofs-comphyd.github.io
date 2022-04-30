@@ -1,0 +1,35 @@
+---
+layout: post
+title: 'USask/Canmore Computational Hydrology at EGU 2022: things not to miss!'
+date: 2022-15-15 11:00AM"
+author: Computational Hydrology Team
+categories:
+- blog
+tags:
+- conference
+- science
+img: laptop_dry.jpg
+thumb: laptop_dry.jpg
+---
+This year, the EGU General Assembly is taking place in Vienna and online between 23 - 27 May 2022. Our team will be attending remotely and in person, and presenting on a variety of topics. See a list of our presentations and those we contributed to in the table below. Note that times are local Vienna time (GMT+2).
+
+We also reflect on the passing of Eric F. Wood, a pioneer in large-domain hydrologic modeling. Our own Martyn Clark will deliver a brief eulogy on Monday May 23.
+
+We are looking forward to hearing about recent scientific research and developments and to (virtually) socialise with friends and colleagues from around the world. See you next week!
+
+| Date           | Time (MST)     |  Presenter     |  Title         |
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=500/>|
+| -------------  | -------------  | -------------  | -------------- |
+| Monday May 23  | 13:42-13:47 | Wouter Knoben | [CAMELS-spat: catchment data for spatially distributed large-sample hydrology](https://meetingorganizer.copernicus.org/EGU22/EGU22-6609.html) |
+| Monday May 23 | 13:45-13:50 | Xinxin Sui | [A novel approach to systematically analyze the error structure of precipitation datasets using decision trees](https://meetingorganizer.copernicus.org/EGU22/EGU22-13345.html) |
+| Monday May 23  | 17:45-17:55 | Martyn Clark | [Celebrating Eric Wood's advances in large domain hydrologic modeling](https://meetingorganizer.copernicus.org/EGU22/EGU22-5238.html) |
+| Tuesday May 24 | 10:50-10:55 | Luca Trotter | [Modular Assessment of Rainfall–Runoff Models Toolbox (MARRMoT) v2.1: better, faster and more accessible hydrological modelling through object-oriented programming](https://meetingorganizer.copernicus.org/EGU22/EGU22-6849.html) |
+| Tuesday May 24 | 10:53-10:59 | Shervan Gharari | [Understanding the Information Content in the Hierarchy of Model Development Decisions: Learning From Data](https://meetingorganizer.copernicus.org/EGU22/EGU22-6761.html) |
+| Tuesday May 24 | 15:10-15:16 | Martyn Clark | [Advancing the science and practice of community hydrologic modeling: Development of open-source models, methods, and datasets to enable process-based hydrologic prediction across North America (and beyond)](https://meetingorganizer.copernicus.org/EGU22/EGU22-8451.html) |
+| Tuesday May 24 | 17:42-17:49 | Wenwen Kong | [Understanding responses of summer continental daily temperature variance to perturbations in the land surface evaporative resistance](https://meetingorganizer.copernicus.org/EGU22/EGU22-10991.html) |
+| Wednesday May 25 | 13:56-14:02 | Christian Massari | [Prestorm root zone soil moisture conditions critical for flood forecasting in Europe](https://meetingorganizer.copernicus.org/EGU22/EGU22-1830.html) |
+| Thursday May 26 | 17:18-17-24 | Pieter Hazenberg | [Using public cloud computing infrastructure for rapid simulations of large-scale global reservoirs](https://meetingorganizer.copernicus.org/EGU22/EGU22-10394.html) |
+| Thursday May 26 | 17:56-18:03 | Louise Arnal | [A benchmark for probabilistic seasonal streamflow forecasting over North America](https://meetingorganizer.copernicus.org/EGU22/EGU22-6280.html) |
+| Friday May 27 | 08:35-08:42 | Inne Vanderkelen | [Evaluating a reservoir parametrisation in a vector-based global routing model for Earth System Model coupling](https://meetingorganizer.copernicus.org/EGU22/EGU22-834.html) | 
+| Friday May 27 | 09:25-09:33 | Albrecht Weerts | [Long-term dynamics of reservoirs across the globe](https://meetingorganizer.copernicus.org/EGU22/EGU22-10411.html) |
+{:.table-bordered}
