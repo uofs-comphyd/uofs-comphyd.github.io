@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'USask/Canmore Computational Hydrology at EGU 2022: things not to miss!'
-date: 2022-15-15 11:00AM"
+date: 2022-05-15 11:00AM"
 author: Computational Hydrology Team
 categories:
 - blog
