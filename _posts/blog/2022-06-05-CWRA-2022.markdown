@@ -1,0 +1,40 @@
+---
+layout: post
+title: 'USask/Canmore Computational Hydrology at CWRA 2022: things not to miss!'
+date: 2022-06-05 11:00AM"
+author: Computational Hydrology Team
+categories:
+- blog
+tags:
+- conference
+- science
+img: VirtualWaterGallery.jpg
+thumb: VirtualWaterGallery.jpg
+---
+This year, the CWRA 2022 National Conference is taking place in Canmore and online between 5-8 June 2022. Our team will be attending in-person, and presenting on a variety of topics, such as: global hydrological modeling, community hydrological modeling, Canadian river national network, ensemble data assimilation in mountainous terrain, hydrological forecasting, and simulation of glacier flow. See a list of our presentations in the table below.
+
+We also want to thank our colleagues for helping to organize the conference. Our colleague Martyn Clark serves as the co-chair of the CWRA2022 technical committee. Paul Whitfield and Guoqiang Tang lead the conference workshops that help attendees build knowledge and expertise on water related topics. Louise Arnal leads social events. Together with Janine Hay and Wouter Knoben, they are organizing an icebreaker on Sunday evening. Louise is also organizing a series of art-science events with Megan Leung (U. Calgary) to foster art-science conversations at the conference, such as an exclusive viewing of the Virtual Water Gallery exhibition at artsPlace, and a plein air activity led by Virtual Water Gallery artists. Wouter Knoben and Caroline Aubry-Wake organize tours that help attendee explore the beauty of Canmore and surroundings. Dave Casson leads sponsoring and exhibiting activities.
+
+We are looking forward to hearing about recent scientific research and developments and to socializing with colleagues and friends from around the world. See you!
+
+| Date           | Time (MST)     |  Presenter     |  Type          |  Title         |
+|<img width=500/>|<img width=500/>|<img width=500/>|<img width=200/>|<img width=500/>|
+| -------------  | -------------  | -------------  | ------------- | ------------- |
+| Tuesday June 7  | 10:00 - 10:20  |  Kevin Shook  |  Oral |  HGDM - a simple model for varying connected fractions of prairie basins  |
+| Tuesday June 7  | 11:20 - 11:40  |  Wouter Knoben  |  Oral  |  Community modeling: Supporting large-domain water resources modeling through an open-source model configuration toolbox |
+| Tuesday June 7  | 11:40 - 12:00  | Guoqiang Tang | Oral | Characterizing global hydrological modeling uncertainties using the Ensemble Meteorological Dataset for Planet Earth (EM-Earth)  |
+| Tuesday June 7  | 11:50 - 12:00  |  Hongli Liu  |  Oral  |  The anatomy and uncertainty of a Canadian National River Gauging Network  |
+| Tuesday June 7  | 11:50 - 11:55  |  Paul Whitfield  |  Oral  |  Low flow trends and drivers in snow-dominated mountain rivers of Alberta and British Columbia  |
+| Tuesday June 7  | 11:50 - 11:55  |  David Casson  |  Oral |  Ensemble Data Assimilation Methods for Improved Snow Estimation and Streamflow Prediction in Mountainous Terrain  |
+| Wednesday June 8  | 9:20 - 9:40  |  Tricia Stadnyk  |  Oral  |  The isoHydRology package for Canadian hydrologists  |
+| Wednesday June 8  | 9:40 - 9:50  |  Kevin Shook  |  Oral  |  Tgumboot - an R package for Bootstrap Analyses of Sampling Uncertainty in Goodness-of-Fit Statistics  |
+| Wednesday June 8  | 9:50 - 10:00  |  Kevin Shook |  Oral  |  CSHShydRology - an R package for Canadian hydrology  |
+| Wednesday June 8  | 10:00 - 10:10  |  Paul Whitfield  |  Oral  |  Simple mapping of locations and results using R and the CSHShydRology package  |
+| Wednesday June 8  | 10:30 - 17:00  |  Wouter Knoben  |  Poster  |  CAMELS-spat: Creating a testbed for spatially distributed hydrologic modeling  |
+| Wednesday June 8  | 10:30 - 17:00  |  Janine Hay  |  Poster  |  Improving numerical simulations of glacier flow  |
+| Wednesday June 8  | 11:20 - 11:40  |  Paul Whitfield |  Oral  |  Climate Change Related Alterations to Flood Regimes Show an Increasing Rainfall Influence  |
+| Wednesday June 8  | 12:30 - 17:00  |  Bart van Osnabrugge |  Poster  |  Community modeling: integrating multiple models into an open-source model configuration toolbox to accelerate the uptake of science advances in hydrologic modeling and prediction  |
+| Wednesday June 8  | 12:30 - 17:00  |  Bart van Osnabrugge |  Poster  |  CEC-HEPEX: an open invitation to join a network of hydrological forecasting enthusiasts  |
+| Wednesday June 8  | 14:30 - 14:50  |  Louise Arnal |  Oral  |  A benchmark for probabilistic seasonal streamflow forecasting over North America  |
+| Wednesday June 8  | 14:50 - 15:00  |  Chris Marsh |  Oral  |  SnowCast: Daily forecasts of mountain snowpack using a snowdrift-permitting model  |
+{:.table-bordered}
