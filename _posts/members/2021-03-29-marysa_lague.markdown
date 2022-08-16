@@ -7,7 +7,7 @@ author: Marysa Laguë
 categories:
 - current_member
 img: marysa_forWeb.jpg
-position: Postdoctoral Fellow, Centre for Hydrology, Coldwater Laboratory 
+position: Research Associate, Centre for Hydrology, Coldwater Laboratory 
 social:
 - title: envelope #use for email address
   url: "mailto:marysa.lague@usask.ca"
@@ -33,10 +33,18 @@ education:
   degree: BSc
   year: 2013
 positions_held:
+- position: Research Associate
+  employer: University of Saskatchewan
+  location: Canmore, Alberta, Canada
+  period: 2022-Present
+- position: Adjunct Assistant Professor, Department of Atmospheric Sciences
+  employer: University of Utah
+  location: Salt Lake City, Utah, USA
+  period: 2022-Present
 - position: James. S. McDonnell Foundation Postdoctoral Fellow in Dynamic and Multiscale Systems
   employer: University of Saskatchewan
   location: Canmore, Alberta, Canada
-  period: 2021-present
+  period: 2021-2022
 - position: James. S. McDonnell Foundation Postdoctoral Fellow in Dynamic and Multiscale Systems
   employer: University of California, Berkeley
   location: Berkeley, California, USA
@@ -44,7 +52,7 @@ positions_held:
 ---
 
 ### Short Bio
-Marysa Laguë is a Postdoctoral Fellow at the University of Saskatchewan at Canmore. Her research focuses on how changes in the land surface, such as changes in vegetation, can drive changes in the both the local atmosphere and the large-scale climate by modulating fluxes of water and energy between the land and the atmosphere. She uses models of varied complexity to study where the atmosphere is most sensitive to changes in the land, what land surface properties the atmosphere responds most strongly to, and how atmospheric responses to land surface change can feed back on climate both locally and remotely. In addition to her main line of research, Marysa has collaborated with scientists around the world to explore topics including paleo-climate, ecology, and exoplanets. 
+Marysa Laguë is a Research Associate at the University of Saskatchewan at Canmore and an Adjunct Assistant Professor of Atmospheric Sciences at the University of Utah. Her research focuses on how changes in the land surface, such as changes in vegetation, can drive changes in the both the local atmosphere and the large-scale climate by modulating fluxes of water and energy between the land and the atmosphere. She uses models of varied complexity to study where the atmosphere is most sensitive to changes in the land, what land surface properties the atmosphere responds most strongly to, and how atmospheric responses to land surface change can feed back on climate both locally and remotely. In addition to her main line of research, Marysa has collaborated with scientists around the world to explore topics including paleo-climate, ecology, and exoplanets. 
 
 ### Publications
 {% include_relative pubs/laguePubs.markdown %}
