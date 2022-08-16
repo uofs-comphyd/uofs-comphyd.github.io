@@ -1,3 +1,5 @@
+Scheff Jacob, Coats Sloan, Laguë Marysa M., 2022: Why do the Global Warming Responses of Land-Surface Models and Climatic Dryness Metrics Disagree?. _Earth's Future_, [doi: 10.1029/2022EF002814](http://doi.org/10.1029/2022EF002814)
+
 Laguë Marysa M., Swann Abigail L. S., Boos William R., 2021: Radiative Feedbacks on Land Surface Change and Associated Tropical Precipitation Shifts. _Journal of Climate_, [doi: 10.1175/JCLI-D-20-0883.1](http://doi.org/10.1175/JCLI-D-20-0883.1)
 
 Laguë Marysa M., Pietschnig Marianne, Ragen Sarah, Smith Timothy A., Battisti David S., 2021: Terrestrial Evaporation and Global Climate: Lessons from Northland a Planet with a Hemispheric Continent. _Journal of Climate_, [doi: 10.1175/JCLI-D-20-0452.1](http://doi.org/10.1175/JCLI-D-20-0452.1)
