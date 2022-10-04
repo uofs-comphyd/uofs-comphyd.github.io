@@ -1,12 +1,16 @@
+Kong Wenwen, McKinnon Karen A, Simpson Isla R, Laguë Marysa M, 2022: Understanding responses of summer continental daily temperature variance to perturbations in the land surface evaporative resistance. _Journal of Climate_, [doi: 10.1175/JCLI-D-21-1011.1](http://doi.org/10.1175/JCLI-D-21-1011.1)
+
+Laguë Marysa M., Quetin Gregory R., Boos William R., 2022: Downwind control of oceanic air by land: the land wake and its sensitivity to CO2. _Environmental Research Letters_, [doi: 10.1088/1748-9326/ac9702](http://doi.org/10.1088/1748-9326/ac9702)
+
 Scheff Jacob, Coats Sloan, Laguë Marysa M., 2022: Why do the Global Warming Responses of Land-Surface Models and Climatic Dryness Metrics Disagree?. _Earth's Future_, [doi: 10.1029/2022EF002814](http://doi.org/10.1029/2022EF002814)
 
 Laguë Marysa M., Swann Abigail L. S., Boos William R., 2021: Radiative Feedbacks on Land Surface Change and Associated Tropical Precipitation Shifts. _Journal of Climate_, [doi: 10.1175/JCLI-D-20-0883.1](http://doi.org/10.1175/JCLI-D-20-0883.1)
 
 Laguë Marysa M., Pietschnig Marianne, Ragen Sarah, Smith Timothy A., Battisti David S., 2021: Terrestrial Evaporation and Global Climate: Lessons from Northland a Planet with a Hemispheric Continent. _Journal of Climate_, [doi: 10.1175/JCLI-D-20-0452.1](http://doi.org/10.1175/JCLI-D-20-0452.1)
 
-Tromboni Flavia and 13 others, 2021: Macrosystems as metacoupled human and natural systems. _Frontiers in Ecology and the Environment_, [doi: 10.1002/fee.2289](http://doi.org/10.1002/fee.2289)
+Tromboni Flavia, Liu Jianguo, Ziaco Emanuele, Breshears David D, Thompson Kimberly L, Dodds Walter K, Dahlin Kyla M, LaRue Elizabeth A, Thorp James H, Viña Andrés, Laguë Marysa M, Maasri Alain, Yang Hongbo, Chandra Sudeep, Fei Songlin, 2021: Macrosystems as metacoupled human and natural systems. _Frontiers in Ecology and the Environment_, [doi: 10.1002/fee.2289](http://doi.org/10.1002/fee.2289)
 
-Boysen Lena R. and 18 others, 2020: Global climate response to idealized deforestation in CMIP6 models. _Biogeosciences_, [doi: https://doi.org/10.5194/bg-17-5615-2020](http://doi.org/https://doi.org/10.5194/bg-17-5615-2020)
+Boysen Lena R., Brovkin Victor, Pongratz Julia, Lawrence David M., Lawrence Peter, Vuichard Nicolas, Peylin Philippe, Liddicoat Spencer, Hajima Tomohiro, Zhang Yanwu, Rocher Matthias, Delire Christine, Séférian Roland, Arora Vivek K., Nieradzik Lars, Anthoni Peter, Thiery Wim, Laguë Marysa M., Lawrence Deborah, Lo Min-Hui, 2020: Global climate response to idealized deforestation in CMIP6 models. _Biogeosciences_, [doi: https://doi.org/10.5194/bg-17-5615-2020](http://doi.org/https://doi.org/10.5194/bg-17-5615-2020)
 
 Kim Jinhyuk E., Laguë Marysa M., Pennypacker Sam, Dawson Eliza, Swann Abigail L. S., 2020: Evaporative Resistance is of Equal Importance as Surface Albedo in High‐Latitude Surface Temperatures Due to Cloud Feedbacks. _Geophysical Research Letters_, [doi: 10.1029/2019GL085663](http://doi.org/10.1029/2019GL085663)
 
