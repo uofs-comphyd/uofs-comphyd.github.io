@@ -1,3 +1,23 @@
+Hobbi Salma, Michael Papalexiou Simon, Rupa Rajulapati Chandra, Nerantzaki Sofia D., Markonis Yannis, Tang Guoqiang, Clark Martyn P., 2022: Detailed investigation of discrepancies in Köppen-Geiger climate classification using seven global gridded products. _Journal of Hydrology_, [doi: 10.1016/j.jhydrol.2022.128121](http://doi.org/10.1016/j.jhydrol.2022.128121)
+
+Li Zhi, Tang Guoqiang, Kirstetter Pierre, Gao Shang, Li J. -L. F., Wen Yixin, Hong Yang, 2022: Evaluation of GPM IMERG and its constellations in extreme events over the conterminous united states. _Journal of Hydrology_, [doi: 10.1016/j.jhydrol.2021.127357](http://doi.org/10.1016/j.jhydrol.2021.127357)
+
+Liu B., Wan W., Tang Guoqiang, Li H., Guo Z., Chen X., Hong Yang, 2022: Statistical Analysis of CyGNSS Speckle and Its Applications to Surface Water Mapping. _Ieee Transactions On Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2022.3196012](http://doi.org/10.1109/TGRS.2022.3196012)
+
+Lu Xin-yu, Chen Yuan-yuan, Tang Guo-qiang, Wang Xiu-qin, Liu Yan, Wei Ming, 2022: Quantitative estimation of hourly precipitation in the Tianshan Mountains based on area-to-point kriging downscaling and satellite-gauge data merging. _Journal of Mountain Science_, [doi: 10.1007/s11629-021-6901-5](http://doi.org/10.1007/s11629-021-6901-5)
+
+Sui Xinxin, Li Zhi, Tang Guoqiang, Yang Zong-Liang, Niyogi Dev, 2022: Disentangling error structures of precipitation datasets using decision trees. _Remote Sensing of Environment_, [doi: 10.1016/j.rse.2022.113185](http://doi.org/10.1016/j.rse.2022.113185)
+
+Sun He, Yao Tandong, Su Fengge, He Zhihua, Tang Guoqiang, Li Ning, Zheng Bowen, Huang Jingheng, Meng Fanchong, Ou Tinghai, Chen Deliang, 2022: Corrected ERA5 precipitation by machine learning significantly improved flow simulations for the Third Pole basins. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-22-0015.1](http://doi.org/10.1175/JHM-D-22-0015.1)
+
+Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, 2022: EM-Earth: The Ensemble Meteorological Dataset for Planet Earth. _Bulletin of the American Meteorological Society_, [doi: 10.1175/BAMS-D-21-0106.1](http://doi.org/10.1175/BAMS-D-21-0106.1)
+
+Xiong Wentao, Tang Guoqiang, Shen Yan, 2022: Cross-Evaluation of Soil Moisture Based on the Triple Collocation Method and a Preliminary Application of Quality Control for Station Observations in China. _Water_, [doi: 10.3390/w14071054](http://doi.org/10.3390/w14071054)
+
+Xiong Wentao, Tang Guoqiang, Wang Tsechun, Ma Ziqiang, Wan Wei, 2022: Evaluation of IMERG and ERA5 Precipitation-Phase Partitioning on the Global Scale. _Water_, [doi: 10.3390/w14071122](http://doi.org/10.3390/w14071122)
+
+Zhang Dasheng, Yang Mingxiang, Ma Meihong, Tang Guoqiang, Wang Tsechun, Zhao Xun, Ma Suying, Wu Jin, Wang Wei, 2022: Can GPM IMERG Capture Extreme Precipitation in North China Plain?. _Remote Sensing_, doi: unknown
+
 Clark Martyn P., Vogel Richard M., Lamontagne Jonathan R., Mizukami Naoki, Knoben Wouter J. M., Tang Guoqiang, Gharari Shervan, Freer Jim E., Whitfield Paul H., Shook Kevin, Papalexiou Simon, 2021: The abuse of popular performance metrics in hydrologic modeling. _Water Resources Research_, [doi: 10.1029/2020WR029001](http://doi.org/10.1029/2020WR029001)
 
 Hong Zhongkun, Han Zhongying, Li Xueying, Long Di, Tang Guoqiang, Wang Jianhua, 2021: Generation of an improved precipitation data set from multisource information over the Tibetan Plateau. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-20-0252.1](http://doi.org/10.1175/JHM-D-20-0252.1)
@@ -15,6 +35,8 @@ Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, Newman Andrew J., Wood
 Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, 2021: SC-Earth: A Station-Based Serially Complete Earth Dataset from 1950 to 2019. _Journal of Climate_, [doi: 10.1175/JCLI-D-21-0067.1](http://doi.org/10.1175/JCLI-D-21-0067.1)
 
 Tang Guoqiang, Clark Martyn P., Papalexiou Simon Michael, 2021: The Use of Serially Complete Station Data to Improve the Temporal Continuity of Gridded Precipitation and Temperature Estimates. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-20-0313.1](http://doi.org/10.1175/JHM-D-20-0313.1)
+
+Wang Cunguang, Tang Guoqiang, Xiong Wentao, Ma Ziqiang, Zhu Siyu, 2021: Infrared precipitation estimation using convolutional neural network for FengYun satellites. _Journal of Hydrology_, [doi: 10.1016/j.jhydrol.2021.127113](http://doi.org/10.1016/j.jhydrol.2021.127113)
 
 Wang Cunguang, Tang Guoqiang, Gentine Pierre, 2021: PrecipGAN: Merging Microwave and Infrared Data for Satellite Precipitation Estimation Using Generative Adversarial Network. _Geophysical Research Letters_, [doi: 10.1029/2020GL092032](http://doi.org/10.1029/2020GL092032)
 
@@ -78,7 +100,7 @@ Gao Jinyu, Tang Guoqiang, Hong Yang, 2017: Similarities and Improvements of GPM 
 
 Gruber Alexander, Dorigo Wouter Arnoud, Crow Wade, Wagner Wolfgang, 2017: Triple Collocation-Based Merging of Satellite Soil Moisture Retrievals. _Ieee Transactions On Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2017.2734070](http://doi.org/10.1109/TGRS.2017.2734070)
 
-Kan Guangyuan and 10 others, 2017: An Improved Coupled Routing and Excess Storage (CREST) Distributed Hydrological Model and Its Verification in Ganjiang River Basin China. _Water_, [doi: 10.3390/w9110904](http://doi.org/10.3390/w9110904)
+Kan Guangyuan, Tang Guoqiang, Yang Yuan, Hong Yang, Li Jiren, Ding Liuqian, He Xiaoyan, Liang Ke, He Lian, Li Zhansheng, Hu Youbing, Cui Yaokui, 2017: An Improved Coupled Routing and Excess Storage (CREST) Distributed Hydrological Model and Its Verification in Ganjiang River Basin China. _Water_, [doi: 10.3390/w9110904](http://doi.org/10.3390/w9110904)
 
 Li Na, Tang Guoqiang, Zhao Ping, Hong Yang, Gou Yabin, Yang Kai, 2017: Statistical assessment and hydrological utility of the latest multi-satellite precipitation analysis IMERG in Ganjiang River basin. _Atmospheric Research_, [doi: 10.1016/j.atmosres.2016.07.020](http://doi.org/10.1016/j.atmosres.2016.07.020)
 
@@ -104,7 +126,7 @@ Zeng Z., Tang G., Long D., Zeng C., Ma M., Hong Y., Xu H., Xu J., 2016: A cascad
 
 Zhang Yu, Hong Yang, Wang Xuguang, Gourley Jonathan J., Xue Xianwu, Saharia Manabendra, Ni Guangheng, Wang Gaili, Huang Yong, Chen Sheng, Tang Guoqiang, 2015: Hydrometeorological Analysis and Remote Sensing of Extremes: Was the July 2012 Beijing Flood Event Detectable and Predictable by Global Satellite Observing and Global Weather Modeling Systems?. _Journal of Hydrometeorology_, [doi: 10.1175/jhm-d-14-0048.1](http://doi.org/10.1175/jhm-d-14-0048.1)
 
-Chen S. and 10 others, 2014: Evaluation of high-resolution precipitation estimates from satellites during July 2012 Beijing flood event using dense rain gauge observations. _Plos One_, [doi: 10.1371/journal.pone.0089681](http://doi.org/10.1371/journal.pone.0089681)
+Chen S., Liu H., You Y., Mullens E., Hu J., Yuan Y., Huang M., He L., Luo Y., Zeng X., Tang G., Hong Y., 2014: Evaluation of high-resolution precipitation estimates from satellites during July 2012 Beijing flood event using dense rain gauge observations. _Plos One_, [doi: 10.1371/journal.pone.0089681](http://doi.org/10.1371/journal.pone.0089681)
 
 Wan Zhanming, Hong Yang, Khan Sadiq, Gourley Jonathan, Flamig Zachary, Kirschbaum Dalia, Tang Guoqiang, 2014: A cloud-based global flood disaster community cyber-infrastructure: Development and demonstration. _Environmental Modelling & Software_, [doi: 10.1016/j.envsoft.2014.04.007](http://doi.org/10.1016/j.envsoft.2014.04.007)
 
