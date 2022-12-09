@@ -2,6 +2,7 @@
 layout: join
 title: Join
 author: Martyn Clark
+permalink: /join/
 ---
 
 ### 30 new positions in Computational Hydrology at the University of Saskatchewan (USask) and the University of Calgary (UCalgary), Canada
