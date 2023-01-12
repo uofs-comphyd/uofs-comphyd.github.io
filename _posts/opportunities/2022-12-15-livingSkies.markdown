@@ -23,7 +23,7 @@ social:
 ## 3 new Post Doctoral Fellow positions in Coupled Human and Water Systems (CHWS) at the University of Saskatchewan, Canada
 
 ![](../../assets/img/Saskatoon_ChrisMarsh.jpg)
-Photo: City of Saskatoon (from [Marsh Photos](https://www.marsh.photos/index))
+Photo: City of Saskatoon (Credit: [Marsh Photos](https://www.marsh.photos/index))
 
 We are seeking multiple highly motivated postdoctoral fellows for a new project to advance development of Coupled Human and Water Systems modeling. Successful candidates will work with an interdisciplinary team consisting of researchers from USask (Martyn Clark, Pat Lloyd-Smith, Raymond Spiteri, and Corinne Schuster-Wallace), Saskatchewan Association of Watersheds, and Alberta’s Ministry of Environment and Protected Areas. The successful candidates will work together as a team to improve our capability to simulate coupled human-water systems across spatial scales and different hydroclimate and socio-political contexts.
 
