@@ -1,5 +1,8 @@
+Dasgupta Antara, Arnal Louise, Emerton Rebecca, Harrigan Shaun, Matthews Gwyneth, Muhammad Ameer, O'Regan Karen, Pérez-Ciria Teresa, Valdez Emixi, van Osnabrugge Bart, Werner Micha, Buontempo Carlo, Cloke Hannah, Pappenberger Florian, Pechlivanidis Ilias G., Prudhomme Christel, Ramos Maria-Helena, Salamon Peter, 2023: Connecting hydrological modelling and forecasting from global to local scales: Perspectives from an international joint virtual workshop. _Journal of Flood Risk Management_, [doi: 10.1111/jfr3.12880](https://doi.org/10.1111/jfr3.12880)
 
-Vionnet Vincent, Mortimer Colleen, Brady Mike, Arnal Louise, Brown Ross, 2021: Canadian historical Snow Water Equivalent dataset (CanSWE, 1928–2020), _Earth System Science Data_, [doi: 10.5194/essd-13-4603-2021](https://doi.org/10.5194/essd-13-4603-2021)
+ Slater Louise, Arnal Louise, Boucher Marie-Amélie, Chang Annie Y.-Y., Moulds Simon, Murphy Conor, Nearing Grey, Shalev Guy, Shen Chaopeng, Speight Linda, Villarini Gabriele, Wilby Robert L., Wood Andrew, Zappa Massimiliano, 2022: Hybrid forecasting: using statistics and machine learning to integrate predictions from dynamical models. _Hydrol. Earth Syst. Sci. Discuss._ [preprint], [doi: 10.5194/hess-2022-334](https://doi.org/10.5194/hess-2022-334), in review
+
+Vionnet Vincent, Mortimer Colleen, Brady Mike, Arnal Louise, Brown Ross, 2021: Canadian historical Snow Water Equivalent dataset (CanSWE, 1928–2020). _Earth System Science Data_, [doi: 10.5194/essd-13-4603-2021](https://doi.org/10.5194/essd-13-4603-2021)
 
 Arnal Louise, Anspoks Liz, Manson Susan, Neumann Jessica, Norton Tim, Stephens Elisabeth, Wolfenden Louise, Cloke Hannah Louise, 2020: "Are we talking just a bit of water out of bank? Or is it Armageddon?" Front line perspectives on transitioning to probabilistic fluvial flood forecasts in England. _Geoscience Communication_, [doi: 10.5194/gc-3-203-2020](https://doi.org/10.5194/gc-3-203-2020)
 
@@ -16,4 +19,3 @@ Neumann Jessica L., Arnal Louise, Emerton Rebecca E., Griffith Helen, Hyslop Stu
 Arnal Louise, Wood Andrew W., Stephens Elisabeth, Cloke Hannah L., Pappenberger Florian, 2017: An Efficient Approach for Estimating Streamflow Forecast Skill Elasticity. _Journal of Hydrometeorology_, [doi: 10.1175/JHM-D-16-0259.1](http://doi.org/10.1175/JHM-D-16-0259.1)
 
 Arnal Louise, Ramos Maria-Helena, Coughlan de Perez Erin, Cloke Hannah L., Stephens Elisabeth, Wetterhall Fredrik, van Andel Schalk Jan, Pappenberger Florian, 2016: Willingness-to-pay for a probabilistic flood forecast: a risk-based decision-making game. _Hydrology and Earth System Sciences_, [doi: 10.5194/hess-20-3109-2016](http://doi.org/10.5194/hess-20-3109-2016)
-

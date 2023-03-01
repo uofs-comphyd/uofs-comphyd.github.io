@@ -1,5 +1,5 @@
 
-[Virtual Water Gallery](https://www.virtualwatergallery.ca). Online exhibition launched April 2021. A science and art space bringing together over 30 artists and water experts from across Canada to collectively reflect on water challenges.
+[Virtual Water Gallery](https://www.virtualwatergallery.ca). Launched online April 2021. A science and art space bringing together over 30 artists and water experts from across Canada to collectively reflect on water challenges.
 
 [Gambling with Floods?](https://sciartfloods.wordpress.com/2020/05/15/gambling-with-floods/) Exhibition at The Museum of English Rural Life (The MERL; Reading, UK), November 2019. A science and art immersive installation about predicting floods in nature's chaos.
 
