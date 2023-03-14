@@ -30,11 +30,11 @@ education:
 positions_held:
 - position: Research Associate
   employer: University of Saskatchewan
-  location: Canmore, Alberta, CANADA
+  location: Canmore, Alberta, Canada
   period: 2023-present
 - position: Postdoctoral Fellow
   employer: University of Saskatchewan
-  location: Canmore, Alberta, CANADA
+  location: Canmore, Alberta, Canada
   period: 2020-2023
 - position: Scientist
   employer: European Centre for Medium-Range Weather Forecasts
